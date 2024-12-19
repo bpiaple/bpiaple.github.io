@@ -475,58 +475,58 @@
   title: "Techniques de l'Informatique",
   location: "Cégep de RImouski, Rimouski, Québec",
   date: "2023 - Présent",
-  description: "Programme couvrant le développement logiciel, l'administration des réseaux, et la gestion des systèmes informatiques, avec un équilibre entre théorie approfondie et projets pratiques pour préparer efficacement aux exigences du secteur technologique.",  
+  description: "Programme couvrant le développement logiciel, l'administration des réseaux, et la gestion des systèmes informatiques, avec un équilibre entre théorie approfondie et projets pratiques pour préparer efficacement aux exigences du secteur technologique.",
 )
 
-#resume-entry(  
-  title: "Baccalauréat en Informatique, option Génie Logiciel",  
-  location: "Institut Universitaire de Technologie (IUT), Bandjoun, Cameroun",  
-  date: "2022 - 2023",  
-  description: "Programme axé sur la conception et le développement de logiciels, la gestion de projets informatiques et les méthodologies avancées de génie logiciel.",  
-)  
+#resume-entry(
+  title: "Baccalauréat en Informatique, option Génie Logiciel",
+  location: "Institut Universitaire de Technologie (IUT), Bandjoun, Cameroun",
+  date: "2022 - 2023",
+  description: "Programme axé sur la conception et le développement de logiciels, la gestion de projets informatiques et les méthodologies avancées de génie logiciel.",
+)
 
-#resume-entry(  
-  title: "Diplôme Universitaire de Technologie en Informatique",  
-  location: "IUT, Bandjoun, Cameroun",  
-  date: "2020 - 2022",  
-  description: "Formation centrée sur les bases de l'informatique, le développement d'applications et l'administration des systèmes informatiques.",  
-)  
+#resume-entry(
+  title: "Diplôme Universitaire de Technologie en Informatique",
+  location: "IUT, Bandjoun, Cameroun",
+  date: "2020 - 2022",
+  description: "Formation centrée sur les bases de l'informatique, le développement d'applications et l'administration des systèmes informatiques.",
+)
 = Expérience de Travail
 <expérience-de-travail>
-#resume-entry(  
-  title: "Développeur Logiciel",  
-  location: "YOCO Sarl Services, Cameroun",  
-  date: "Janvier 2022 - Juin 2023",  
-  description: "",  
+#resume-entry(
+  title: "Développeur Logiciel",
+  location: "YOCO Sarl Services, Cameroun",
+  date: "Janvier 2022 - Juin 2023",
+  description: "",
 )
 #resume-item[
-- Identifié et corrigé des bogues, réduisant de 15% le taux d'erreurs dans les logiciels déployés.  
-- Livré des projets dans les délais tout en respectant les standards de qualité.  
+- Identifié et corrigé des bogues, réduisant de 15% le taux d'erreurs dans les logiciels déployés.
+- Livré des projets dans les délais tout en respectant les standards de qualité.
 - Assuré la maintenance continue et des mises à jour logicielles pour améliorer les performances système.
 ]
 
-#resume-entry(  
-  title: "Stagiaire en Informatique",  
-  location: "YOCO Sarl Services, Cameroun",  
-  date: "Nov 2020 - Déc 2021",  
-  description: "",  
+#resume-entry(
+  title: "Stagiaire en Informatique",
+  location: "YOCO Sarl Services, Cameroun",
+  date: "Nov 2020 - Déc 2021",
+  description: "",
 )
 
 #resume-item[
-- Fournit une assistance technique rapide, résolvant 95% des incidents en moins de 24 heures.  
-- Participé à la conception et maintenance de logiciels, respectant 100% des délais projet.  
+- Fournit une assistance technique rapide, résolvant 95% des incidents en moins de 24 heures.
+- Participé à la conception et maintenance de logiciels, respectant 100% des délais projet.
 - Rédigé des documents techniques clairs pour soutenir les équipes projet.
 ]
 
-#resume-entry(  
-  title: "Caissier et Service à la Clientèle",  
-  location: "Tim Hortons, Rimouski, Québec",  
-  date: "Août 2023 - Présent",  
+#resume-entry(
+  title: "Caissier et Service à la Clientèle",
+  location: "Tim Hortons, Rimouski, Québec",
+  date: "Août 2023 - Présent",
   description: ""
-)  
+)
 #resume-item[
-- Optimisé les processus de commande, réduisant le temps d'attente client de 10%.  
-- Maintenu une caisse équilibrée et géré des transactions avec 100% d’exactitude.  
+- Optimisé les processus de commande, réduisant le temps d'attente client de 10%.
+- Maintenu une caisse équilibrée et géré des transactions avec 100% d’exactitude.
 - Assuré une expérience client positive, favorisant une satisfaction client élevée.
 ]
 = Projets
