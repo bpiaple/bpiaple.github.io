@@ -1,0 +1,25 @@
+---
+title: ""
+---
+
+::::: rows
+::: row
+![](images/profile.jpg){.rounded-circle fig-alt="Brice Piaple Dada" fig-align="center" width="250"}
+:::
+
+::: row
+## Bonjour, je suis Brice Piaple Dada
+
+Passionné par l'informatique et l'innovation technologique depuis toujours, j'ai développé une solide expertise grâce à des formations spécialisées. Je suis motivé à mettre mes compétences au service de projets innovants, tout en veillant à l'efficacité et à la bonne organisation des environnements de travail.
+
+Vous trouverez ici :
+
+-   Mon [**Portfolio**](/portfolio/index.qmd), qui présente mes réalisations.
+-   Mon [**Blog**](/blog/index.qmd), où je partage des articles sur des sujets qui me passionnent.
+-   Mon [**CV**](CV/Brice-Piaple-Dada-CV.qmd), qui retrace mon parcours scolaire et professionnel.
+
+N'hésitez pas à me [**contacter**](/contact.qmd) si vous avez des questions ou si vous souhaitez collaborer.
+
+Bonne visite !
+:::
+:::::

@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Brice Piaple Dada"
+  favicon: "images/profile.jpg"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: about.qmd
+        text: A Propos
+      - href: portfolio/index.qmd
+        text: Portfolio
+      - href: blog/index.qmd
+        text: Blog
+    right:
+      - href: CV/Brice-Piaple-Dada-CV.pdf
+        text: Télécharger mon CV
+
+
+format:
+  html:
+    theme: superhero
+    css: styles.css
+    toc: true
+    language: fr
+
+
+editor: 
+  render-on-save: true

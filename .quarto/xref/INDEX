@@ -1,0 +1,28 @@
+{
+  "index.qmd": {
+    "index.html": "70c2b38a"
+  },
+  "about.qmd": {
+    "about.html": "f8d135a8"
+  },
+  "portfolio/index.qmd": {
+    "index.html": "7e0790c1"
+  },
+  "blog/index.qmd": {
+    "index.html": "0afb7e6f"
+  },
+  "contact.qmd": {
+    "contact.html": "2da50d51"
+  },
+  "CV/CV.qmd": {
+    "CV.html": "b03d841d",
+    "CV.typ": "cded090f"
+  },
+  "CV/Brice Piaple Dada CV.qmd": {
+    "Brice Piaple Dada CV.typ": "b9cdc8f3"
+  },
+  "CV/Brice-Piaple-Dada-CV.qmd": {
+    "Brice-Piaple-Dada-CV.typ": "84c6c1b6",
+    "Brice Piaple Dada CV.html": "e33941e1"
+  }
+}
