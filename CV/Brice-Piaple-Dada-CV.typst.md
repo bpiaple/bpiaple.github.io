@@ -34,7 +34,13 @@ format:
 output-file: "Brice Piaple Dada CV"
 ---
 
+
+
+
 ## Éducation
+
+
+
 
 ```{=typst}
 #resume-entry(
@@ -56,7 +62,13 @@ output-file: "Brice Piaple Dada CV"
   description: "Formation centrée sur les bases de l'informatique, le développement d'applications et l'administration des systèmes informatiques.",
 )
 ```
+
+
+
 ## Expérience de Travail
+
+
+
 
 ```{=typst}
 #resume-entry(
@@ -95,7 +107,13 @@ output-file: "Brice Piaple Dada CV"
 - Assuré une expérience client positive, favorisant une satisfaction client élevée.
 ]
 ```
+
+
+
 ## Projets
+
+
+
 
 ```{=typst}
 #resume-entry(
@@ -111,7 +129,13 @@ output-file: "Brice Piaple Dada CV"
   description: "Site web statique présentant mon CV, mes projets et mes compétences, avec un design épuré et une navigation intuitive."
 )
 ```
+
+
+
 ## Récompenses
+
+
+
 
 ```{=typst}
 #resume-entry(
@@ -121,7 +145,13 @@ output-file: "Brice Piaple Dada CV"
   description: "Bourse d'études pour les étudiants, basée sur le mérite académique et les réalisations professionnelles."
 )
 ```
+
+
+
 ## Compétences
+
+
+
 
 ```{=typst}
 #resume-entry(
