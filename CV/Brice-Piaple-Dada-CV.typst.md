@@ -35,7 +35,7 @@ output-file: "Brice Piaple Dada CV"
 
 
 
-
+ 
 ## Éducation
 
 
