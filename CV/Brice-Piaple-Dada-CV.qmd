@@ -29,8 +29,7 @@ style:
   color-accent: 000fff
 format:
   awesomecv-typst:
-    # keep-md: true
-    keep-typ: true
+    keep-md: true
 
 output-file: "Brice Piaple Dada CV"
 ---
