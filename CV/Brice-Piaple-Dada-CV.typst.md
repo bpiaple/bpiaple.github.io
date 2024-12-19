@@ -131,7 +131,7 @@ output-file: "Brice Piaple Dada CV"
 
 
 
-## Récompenses
+<!-- ## Récompenses
 
 
 
@@ -143,14 +143,8 @@ output-file: "Brice Piaple Dada CV"
   date: "2023 - 2026",
   description: "Bourse d'études pour les étudiants, basée sur le mérite académique et les réalisations professionnelles."
 )
-```
-
-
-
+``` -->
 ## Compétences
-
-
-
 
 ```{=typst}
 #resume-entry(

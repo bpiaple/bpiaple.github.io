@@ -110,7 +110,7 @@ output-file: "Brice Piaple Dada CV"
   description: "Site web statique présentant mon CV, mes projets et mes compétences, avec un design épuré et une navigation intuitive."
 )
 ```
-## Récompenses
+<!-- ## Récompenses
 
 ```{=typst}
 #resume-entry(
@@ -119,7 +119,7 @@ output-file: "Brice Piaple Dada CV"
   date: "2023 - 2026",
   description: "Bourse d'études pour les étudiants, basée sur le mérite académique et les réalisations professionnelles."
 )
-```
+``` -->
 ## Compétences
 
 ```{=typst}
