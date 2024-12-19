@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Brice Piaple Dada",
@@ -19,5 +12,12 @@
     "title": "Brice Piaple Dada",
     "section": "",
     "text": "Passionné par l’informatique et l’innovation technologique depuis toujours, j’ai développé une solide expertise grâce à des formations spécialisées. Je suis motivé à mettre mes compétences au service de projets innovants, tout en veillant à l’efficacité et à la bonne organisation des environnements de travail.\nVous trouverez ici :\n\nMon Portfolio, qui présente mes réalisations.\nMon Blog, où je partage des articles sur des sujets qui me passionnent.\nMon CV, qui retrace mon parcours scolaire et professionnel.\n\nN’hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer.\nBonne visite !"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
