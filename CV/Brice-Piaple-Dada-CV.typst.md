@@ -24,7 +24,6 @@ author:
     - icon: fa brands x-twitter
       text: twitter
       url: https://twitter.com/bpiaple
-
 style:
   color-accent: 222fff
 format:
