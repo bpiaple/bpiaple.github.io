@@ -137,7 +137,7 @@ output-file: "Brice Piaple Dada CV"
 )
 #resume-entry(
   title: "Frameworks",
-  description: "Frameworks de développement d'Intelligence Artificielle et outils de développement de sites web : "
+  description: "Frameworks de développement d'IA et outils de développement web : "
 )
 #resume-item[
 - TensorFlow
