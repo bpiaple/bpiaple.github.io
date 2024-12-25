@@ -46,14 +46,14 @@
     "href": "blog/hacking.html",
     "title": "My Hacking Commands",
     "section": "",
-    "text": "ffuf is a fast web fuzzer written in Go. It is used to fuzz web applications and can be used for both content discovery and directory fuzzing\nTo use ffuf for directory fuzzing, you can use the following command: - ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt: This command will fuzz the URL http://example.com/FUZZ - ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -e .php,.html: This command will fuzz the URL http://example.com/FUZZ and will append the extensions .php and .html to the wordlist entries - ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -recursion -recursion-depth 2: This command will fuzz the URL http://example.com/FUZZ and will recursively fuzz the found directories up to a depth of 2"
+    "text": "sudo nano /etc/hosts"
   },
   {
     "objectID": "blog/hacking.html#ffuf",
     "href": "blog/hacking.html#ffuf",
     "title": "My Hacking Commands",
-    "section": "",
-    "text": "ffuf is a fast web fuzzer written in Go. It is used to fuzz web applications and can be used for both content discovery and directory fuzzing\nTo use ffuf for directory fuzzing, you can use the following command: - ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt: This command will fuzz the URL http://example.com/FUZZ - ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -e .php,.html: This command will fuzz the URL http://example.com/FUZZ and will append the extensions .php and .html to the wordlist entries - ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -recursion -recursion-depth 2: This command will fuzz the URL http://example.com/FUZZ and will recursively fuzz the found directories up to a depth of 2"
+    "section": "ffuf",
+    "text": "ffuf\nffuf is a fast web fuzzer written in Go. It is used to fuzz web applications and can be used for both content discovery and directory fuzzing\nTo use ffuf for directory fuzzing, you can use the following command:\n\nffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt\nThis command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt\nffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -e .php,.html\nThis command will fuzz the URL http://example.com/FUZZ and will append the extensions .php and .html to the wordlist entries\nffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt recursion-depth 2\nThis command will fuzz the URL http://example.com/FUZZ and will recursively fuzz the found directories up to a depth of 2\nffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -recursion-depth 2 -e .php,.html\nThis command will fuzz the URL http://example.com/FUZZ and will recursively fuzz the found directories up to a depth of 2 and will append the extensions .php and .html to the wordlist entries\nfuzz -c -u http://example.com/login.php -d \"username=admin&password=FUZZ\" -w /path/to/wordlist.txt\nThis command will fuzz the POST parameter password in the URL http://example.com/login.php with the wordlist /path/to/wordlist.txt"
   },
   {
     "objectID": "blog/hacking.html#wfuzz",
@@ -89,5 +89,12 @@
     "title": "My Hacking Commands",
     "section": "To use ffuf for directory fuzzing, you can use the following command:",
     "text": "To use ffuf for directory fuzzing, you can use the following command:"
+  },
+  {
+    "objectID": "blog/hacking.html#change-the-dns-file-resolution-to-the-local-machine",
+    "href": "blog/hacking.html#change-the-dns-file-resolution-to-the-local-machine",
+    "title": "My Hacking Commands",
+    "section": "",
+    "text": "sudo nano /etc/hosts"
   }
 ]

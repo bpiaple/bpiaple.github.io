@@ -2,14 +2,41 @@
 title: "My Hacking Commands"
 ---
 
+## Change the dns file resolution to the local machine
+
+```bash
+sudo nano /etc/hosts
+```
+
 ## ffuf
 
 `ffuf` is a fast web fuzzer written in Go. It is used to fuzz web applications and can be used for both content discovery and directory fuzzing
 
 To use `ffuf` for directory fuzzing, you can use the following command:
-- `ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt`: This command will fuzz the URL `http://example.com/FUZZ`
-- `ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -e .php,.html`: This command will fuzz the URL `http://example.com/FUZZ` and will append the extensions `.php` and `.html` to the wordlist entries
-- `ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -recursion -recursion-depth 2`: This command will fuzz the URL `http://example.com/FUZZ` and will recursively fuzz the found directories up to a depth of 2
+
+- ```bash
+ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt
+```
+This command will fuzz the URL `http://example.com/FUZZ` using the wordlist `/path/to/wordlist.txt`
+
+- ```bash 
+ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -e .php,.html
+```
+This command will fuzz the URL `http://example.com/FUZZ` and will append the extensions `.php` and `.html` to the wordlist entries
+- ```bash
+ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt recursion-depth 2
+```
+This command will fuzz the URL `http://example.com/FUZZ` and will recursively fuzz the found directories up to a depth of 2
+
+- ```bash 
+ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -recursion-depth 2 -e .php,.html
+``` 
+This command will fuzz the URL `http://example.com/FUZZ` and will recursively fuzz the found directories up to a depth of 2 and will append the extensions `.php` and `.html` to the wordlist entries
+
+- ```bash
+fuzz -c -u http://example.com/login.php -d "username=admin&password=FUZZ" -w /path/to/wordlist.txt
+```
+This command will fuzz the POST parameter `password` in the URL `http://example.com/login.php` with the wordlist `/path/to/wordlist.txt`
 
 
 ## wfuzz
