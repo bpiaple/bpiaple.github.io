@@ -40,5 +40,54 @@
     "title": "Brice Piaple Dada",
     "section": "CV",
     "text": "CV\nConsultez mon CV pour en savoir plus sur mon parcours.\nVoir le CV"
+  },
+  {
+    "objectID": "blog/hacking.html",
+    "href": "blog/hacking.html",
+    "title": "My Hacking Commands",
+    "section": "",
+    "text": "ffuf is a fast web fuzzer written in Go. It is used to fuzz web applications and can be used for both content discovery and directory fuzzing\nTo use ffuf for directory fuzzing, you can use the following command: - ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt: This command will fuzz the URL http://example.com/FUZZ - ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -e .php,.html: This command will fuzz the URL http://example.com/FUZZ and will append the extensions .php and .html to the wordlist entries - ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -recursion -recursion-depth 2: This command will fuzz the URL http://example.com/FUZZ and will recursively fuzz the found directories up to a depth of 2"
+  },
+  {
+    "objectID": "blog/hacking.html#ffuf",
+    "href": "blog/hacking.html#ffuf",
+    "title": "My Hacking Commands",
+    "section": "",
+    "text": "ffuf is a fast web fuzzer written in Go. It is used to fuzz web applications and can be used for both content discovery and directory fuzzing\nTo use ffuf for directory fuzzing, you can use the following command: - ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt: This command will fuzz the URL http://example.com/FUZZ - ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -e .php,.html: This command will fuzz the URL http://example.com/FUZZ and will append the extensions .php and .html to the wordlist entries - ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -recursion -recursion-depth 2: This command will fuzz the URL http://example.com/FUZZ and will recursively fuzz the found directories up to a depth of 2"
+  },
+  {
+    "objectID": "blog/hacking.html#wfuzz",
+    "href": "blog/hacking.html#wfuzz",
+    "title": "My Hacking Commands",
+    "section": "wfuzz",
+    "text": "wfuzz\nwfuzz is a web application fuzzer that allows you to fuzz web applications for vulnerabilities such as SQL injection, XSS, and more. It is written in Python and is highly customizable.\nTo use wfuzz for directory fuzzing and content discovery, you can use the following command: - wfuzz -c -z file,/path/to/wordlist.txt http://example.com/FUZZ: This command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt - wfuzz -c -z file,/path/to/wordlist.txt -t 10 http://example.com/FUZZ: This command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt with 10 threads - wfuzz -c -z file,/path/to/wordlist.txt --hc 404 http://example.com/FUZZ: This command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt and will ignore 404 responses"
+  },
+  {
+    "objectID": "blog/hacking.html#nmap",
+    "href": "blog/hacking.html#nmap",
+    "title": "My Hacking Commands",
+    "section": "nmap",
+    "text": "nmap\nnmap is a powerful network scanning tool that can be used to discover hosts and services on a network. It is commonly used for security auditing and network inventory.\nTo use nmap for host discovery and port scanning, you can use the following command: - nmap -sn target: This command will perform a ping scan on the target host to discover live hosts - nmap -sS -p 1-65535 -T4 -A -v target: This command will perform a SYN scan on all ports, use aggressive scanning options, and provide verbose output for the target host"
+  },
+  {
+    "objectID": "blog/hacking.html#gobuster",
+    "href": "blog/hacking.html#gobuster",
+    "title": "My Hacking Commands",
+    "section": "gobuster",
+    "text": "gobuster"
+  },
+  {
+    "objectID": "blog/hacking.html#hydra",
+    "href": "blog/hacking.html#hydra",
+    "title": "My Hacking Commands",
+    "section": "hydra",
+    "text": "hydra"
+  },
+  {
+    "objectID": "blog/hacking.html#to-use-ffuf-for-directory-fuzzing-you-can-use-the-following-command",
+    "href": "blog/hacking.html#to-use-ffuf-for-directory-fuzzing-you-can-use-the-following-command",
+    "title": "My Hacking Commands",
+    "section": "To use ffuf for directory fuzzing, you can use the following command:",
+    "text": "To use ffuf for directory fuzzing, you can use the following command:"
   }
 ]
