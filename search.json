@@ -18,14 +18,14 @@
     "href": "blog/hacking.html#ffuf",
     "title": "My Hacking Commands",
     "section": "ffuf",
-    "text": "ffuf\nffuf is a fast web fuzzer written in Go. It is used to fuzz web applications and can be used for both content discovery and directory fuzzing\nTo use ffuf for directory fuzzing, you can use the following command:\n\nffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt\nThis command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt\nffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -e .php,.html\nThis command will fuzz the URL http://example.com/FUZZ and will append the extensions .php and .html to the wordlist entries\nffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt recursion-depth 2\nThis command will fuzz the URL http://example.com/FUZZ and will recursively fuzz the found directories up to a depth of 2\nffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -recursion-depth 2 -e .php,.html\nThis command will fuzz the URL http://example.com/FUZZ and will recursively fuzz the found directories up to a depth of 2 and will append the extensions .php and .html to the wordlist entries\nfuzz -c -u http://example.com/login.php -d \"username=admin&password=FUZZ\" -w /path/to/wordlist.txt\nThis command will fuzz the POST parameter password in the URL http://example.com/login.php with the wordlist /path/to/wordlist.txt"
+    "text": "ffuf\nffuf is a fast web fuzzer written in Go. It is used to fuzz web applications and can be used for both content discovery and directory fuzzing\nTo use ffuf for directory fuzzing, you can use the following command:\n\nffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt\nThis command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt\nffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -e .php,.html\nThis command will fuzz the URL http://example.com/FUZZ and will append the extensions .php and .html to the wordlist entries\nffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt recursion-depth 2\nThis command will fuzz the URL http://example.com/FUZZ and will recursively fuzz the found directories up to a depth of 2\nffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -recursion-depth 2 -e .php,.html\nThis command will fuzz the URL http://example.com/FUZZ and will recursively fuzz the found directories up to a depth of 2 and will append the extensions .php and .html to the wordlist entries"
   },
   {
     "objectID": "blog/hacking.html#wfuzz",
     "href": "blog/hacking.html#wfuzz",
     "title": "My Hacking Commands",
     "section": "wfuzz",
-    "text": "wfuzz\nwfuzz is a web application fuzzer that allows you to fuzz web applications for vulnerabilities such as SQL injection, XSS, and more. It is written in Python and is highly customizable.\nTo use wfuzz for directory fuzzing and content discovery, you can use the following command: - wfuzz -c -z file,/path/to/wordlist.txt http://example.com/FUZZ: This command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt - wfuzz -c -z file,/path/to/wordlist.txt -t 10 http://example.com/FUZZ: This command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt with 10 threads - wfuzz -c -z file,/path/to/wordlist.txt --hc 404 http://example.com/FUZZ: This command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt and will ignore 404 responses"
+    "text": "wfuzz\nwfuzz is a web application fuzzer that allows you to fuzz web applications for vulnerabilities such as SQL injection, XSS, and more. It is written in Python and is highly customizable.\nTo use wfuzz for directory fuzzing and content discovery, you can use the following command:\n\nfuzz -c -u http://example.com/login.php -d \"username=admin&password=FUZZ\" -w /path/to/wordlist.txt\nThis command will fuzz the POST parameter password in the URL http://example.com/login.php with the wordlist /path/to/wordlist.txt\nwfuzz -c -z file/path/to/wordlist.txt http://example.com/FUZZ\nThis command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt\nwfuzz -c -z file,/path/to/wordlist.txt -t 10 http://example.com/FUZZ: This command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt with 10 threads\nwfuzz -c -z file,/path/to/wordlist.txt --hc 404 http://example.com/FUZZ: This command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt and will ignore 404 responses"
   },
   {
     "objectID": "blog/hacking.html#nmap",
@@ -47,6 +47,20 @@
     "title": "My Hacking Commands",
     "section": "hydra",
     "text": "hydra"
+  },
+  {
+    "objectID": "blog/hacking.html#searchsploit",
+    "href": "blog/hacking.html#searchsploit",
+    "title": "My Hacking Commands",
+    "section": "searchsploit",
+    "text": "searchsploit\nsearchsploit is a command-line search tool for Exploit Database, which is a repository of exploits and vulnerable software. It allows you to search for exploits based on software name, version, and other criteria.\nTo use searchsploit, you can use the following command:\n\nsearchsploit software_name\nThis command will search for exploits related to the software software_name\nsearchsploit -t software_name\nThis command will search for exploits related to the software software_name and display the title of the exploit\nsearchsploit -x exploit_id\nThis command will display the contents of the exploit with the ID exploit_id\nsearchsploit -m exploit_id\nThis command will copy the exploit with the ID exploit_id to the current directory"
+  },
+  {
+    "objectID": "blog/hacking.html#metasploit",
+    "href": "blog/hacking.html#metasploit",
+    "title": "My Hacking Commands",
+    "section": "metasploit",
+    "text": "metasploit\nMetasploit is a penetration testing framework that allows you to develop, test, and execute exploit code against a remote target. It provides a wide range of tools and modules for various stages of the penetration testing process.\nTo use Metasploit, you can use the following commands:\n\nmsfconsole\nThis command will start the Metasploit console\nuse exploit_name\nThis command will select the exploit module exploit_name\nset RHOST target_ip\nThis command will set the remote host IP address to target_ip\nset RPORT target_port\nThis command will set the remote host port to target_port\nset LHOST local_ip\nThis command will set the local host IP address to local_ip\nexploit\nThis command will execute the selected exploit against the target host\nrun\nThis command will run the selected exploit against the target host"
   },
   {
     "objectID": "about.html",
