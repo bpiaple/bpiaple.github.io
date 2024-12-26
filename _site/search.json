@@ -60,28 +60,28 @@
     "href": "blog/hacking.html#wfuzz",
     "title": "My Hacking Commands",
     "section": "wfuzz",
-    "text": "wfuzz\nwfuzz is a web application fuzzer that allows you to fuzz web applications for vulnerabilities such as SQL injection, XSS, and more. It is written in Python and is highly customizable.\nTo use wfuzz for directory fuzzing and content discovery, you can use the following command:\n\nfuzz -c -u http://example.com/login.php -d \"username=admin&password=FUZZ\" -w /path/to/wordlist.txt\nThis command will fuzz the POST parameter password in the URL http://example.com/login.php with the wordlist /path/to/wordlist.txt\nwfuzz -c -z file/path/to/wordlist.txt http://example.com/FUZZ\nThis command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt\nwfuzz -c -z file,/path/to/wordlist.txt -t 10 http://example.com/FUZZ: This command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt with 10 threads\nwfuzz -c -z file,/path/to/wordlist.txt --hc 404 http://example.com/FUZZ: This command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt and will ignore 404 responses"
+    "text": "wfuzz\nwfuzz is a web application fuzzer that allows you to fuzz web applications for vulnerabilities such as SQL injection, XSS, and more. It is written in Python and is highly customizable.\nTo use wfuzz for directory fuzzing and content discovery, you can use the following command:\n\nfuzz -c -u http://example.com/login.php -d \"username=admin&password=FUZZ\" -w /path/to/wordlist.txt\nThis command will fuzz the POST parameter password in the URL http://example.com/login.php with the wordlist /path/to/wordlist.txt\nwfuzz -c -z file/path/to/wordlist.txt http://example.com/FUZZ\nThis command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt\nwfuzz -c -z file,/path/to/wordlist.txt -t 10 http://example.com/FUZZ\nThis command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt with 10 threads\nwfuzz -c -z file,/path/to/wordlist.txt --hc 404 http://example.com/FUZZ\nThis command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt and will ignore 404 responses"
   },
   {
     "objectID": "blog/hacking.html#nmap",
     "href": "blog/hacking.html#nmap",
     "title": "My Hacking Commands",
     "section": "nmap",
-    "text": "nmap\nnmap is a powerful network scanning tool that can be used to discover hosts and services on a network. It is commonly used for security auditing and network inventory.\nTo use nmap for host discovery and port scanning, you can use the following command: - nmap -sn target: This command will perform a ping scan on the target host to discover live hosts - nmap -sS -p 1-65535 -T4 -A -v target: This command will perform a SYN scan on all ports, use aggressive scanning options, and provide verbose output for the target host"
+    "text": "nmap\nnmap is a powerful network scanning tool that can be used to discover hosts and services on a network. It is commonly used for security auditing and network inventory.\nTo use nmap for host discovery and port scanning, you can use the following command:\n\nnmap -sn target\nThis command will perform a ping scan on the target host to discover live hosts\nnmap -sS -p 1-65535 -T4 -A -v target\nThis command will perform a SYN scan on all ports, use aggressive scanning options, and provide verbose output for the target host"
   },
   {
     "objectID": "blog/hacking.html#gobuster",
     "href": "blog/hacking.html#gobuster",
     "title": "My Hacking Commands",
     "section": "gobuster",
-    "text": "gobuster"
+    "text": "gobuster\ngobuster is a tool used for directory and file brute-forcing. It is commonly used for content discovery and directory fuzzing.\nto use gobuster for directory fuzzing and content discovery, you can use the following command:\n\ngobuster dir -u http://example.com -w /path/to/wordlist.txt\nThis command will fuzz the URL http://example.com using the wordlist /path/to/wordlist.txt\ngobuster dir -u http://example.com -w /path/to/wordlist.txt -x .php,.html\nThis command will fuzz the URL http://example.com and will append the extensions .php and .html to the wordlist entries\ngobuster dir -u http://example.com -w /path/to/wordlist.txt -r\nThis command will fuzz the URL http://example.com and will follow redirects\ngobuster dir -u http://example.com -w /path/to/wordlist.txt -t 10\nThis command will fuzz the URL http://example.com using 10 threads"
   },
   {
     "objectID": "blog/hacking.html#hydra",
     "href": "blog/hacking.html#hydra",
     "title": "My Hacking Commands",
     "section": "hydra",
-    "text": "hydra"
+    "text": "hydra\nhydra is a password-cracking tool that can be used to perform online password attacks against various services. It supports a wide range of protocols and services, including HTTP, FTP, SSH, and more.\nTo use hydra for password cracking, you can use the following command:\n\nhydra -l username -P /path/to/wordlist.txt target_ip service\nThis command will perform a password cracking attack against the target IP address target_ip using the username username and the wordlist /path/to/wordlist.txt for the specified service\nhydra -L /path/to/usernames.txt -P /path/to/wordlist.txt target_ip service\nThis command will perform a password cracking attack against the target IP address target_ip using the usernames in the file /path/to/usernames.txt and the wordlist /path/to/wordlist.txt for the specified service\nhydra -l username -P /path/to/wordlist.txt target_ip -s port service\nThis command will perform a password cracking attack against the target IP address target_ip on the specified port using the username username and the wordlist /path/to/wordlist.txt for the specified service"
   },
   {
     "objectID": "blog/hacking.html#to-use-ffuf-for-directory-fuzzing-you-can-use-the-following-command",

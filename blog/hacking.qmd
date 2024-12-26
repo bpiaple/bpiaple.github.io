@@ -23,6 +23,7 @@ This command will fuzz the URL `http://example.com/FUZZ` using the wordlist `/pa
 ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -e .php,.html
 ```
 This command will fuzz the URL `http://example.com/FUZZ` and will append the extensions `.php` and `.html` to the wordlist entries
+
 - ```bash
 ffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt recursion-depth 2
 ```
@@ -48,8 +49,15 @@ This command will fuzz the POST parameter `password` in the URL `http://example.
 wfuzz -c -z file/path/to/wordlist.txt http://example.com/FUZZ
 ```
 This command will fuzz the URL `http://example.com/FUZZ` using the wordlist `/path/to/wordlist.txt`
-- `wfuzz -c -z file,/path/to/wordlist.txt -t 10 http://example.com/FUZZ`: This command will fuzz the URL `http://example.com/FUZZ` using the wordlist `/path/to/wordlist.txt` with 10 threads
-- `wfuzz -c -z file,/path/to/wordlist.txt --hc 404 http://example.com/FUZZ`: This command will fuzz the URL `http://example.com/FUZZ` using the wordlist `/path/to/wordlist.txt` and will ignore 404 responses
+- ```bash
+wfuzz -c -z file,/path/to/wordlist.txt -t 10 http://example.com/FUZZ
+```
+This command will fuzz the URL `http://example.com/FUZZ` using the wordlist `/path/to/wordlist.txt` with 10 threads
+
+- ```bash
+wfuzz -c -z file,/path/to/wordlist.txt --hc 404 http://example.com/FUZZ
+```
+This command will fuzz the URL `http://example.com/FUZZ` using the wordlist `/path/to/wordlist.txt` and will ignore 404 responses
 
 
 ## nmap
@@ -57,13 +65,64 @@ This command will fuzz the URL `http://example.com/FUZZ` using the wordlist `/pa
 `nmap` is a powerful network scanning tool that can be used to discover hosts and services on a network. It is commonly used for security auditing and network inventory.
 
 To use `nmap` for host discovery and port scanning, you can use the following command:
-- `nmap -sn target`: This command will perform a ping scan on the target host to discover live hosts 
-- `nmap -sS -p 1-65535 -T4 -A -v target`: This command will perform a SYN scan on all ports, use aggressive scanning options, and provide verbose output for the target host
+
+- ```bash
+nmap -sn target
+```
+This command will perform a ping scan on the target host to discover live hosts 
+
+- ```bash
+nmap -sS -p 1-65535 -T4 -A -v target
+```
+This command will perform a SYN scan on all ports, use aggressive scanning options, and provide verbose output for the target host
 
 
 ## gobuster
 
+`gobuster` is a tool used for directory and file brute-forcing. It is commonly used for content discovery and directory fuzzing.
+
+to use `gobuster` for directory fuzzing and content discovery, you can use the following command:
+
+- ```bash
+gobuster dir -u http://example.com -w /path/to/wordlist.txt
+```
+This command will fuzz the URL `http://example.com` using the wordlist `/path/to/wordlist.txt`
+
+- ```bash
+gobuster dir -u http://example.com -w /path/to/wordlist.txt -x .php,.html
+```
+This command will fuzz the URL `http://example.com` and will append the extensions `.php` and `.html` to the wordlist entries
+
+- ```bash
+gobuster dir -u http://example.com -w /path/to/wordlist.txt -r
+```
+This command will fuzz the URL `http://example.com` and will follow redirects
+
+- ```bash
+gobuster dir -u http://example.com -w /path/to/wordlist.txt -t 10
+```
+This command will fuzz the URL `http://example.com` using 10 threads
+
 ## hydra
+
+`hydra` is a password-cracking tool that can be used to perform online password attacks against various services. It supports a wide range of protocols and services, including HTTP, FTP, SSH, and more. 
+
+To use `hydra` for password cracking, you can use the following command:
+
+- ```bash
+hydra -l username -P /path/to/wordlist.txt target_ip service
+```
+This command will perform a password cracking attack against the target IP address `target_ip` using the username `username` and the wordlist `/path/to/wordlist.txt` for the specified service
+
+- ```bash
+hydra -L /path/to/usernames.txt -P /path/to/wordlist.txt target_ip service
+```
+This command will perform a password cracking attack against the target IP address `target_ip` using the usernames in the file `/path/to/usernames.txt` and the wordlist `/path/to/wordlist.txt` for the specified service
+
+- ```bash
+hydra -l username -P /path/to/wordlist.txt target_ip -s port service
+```
+This command will perform a password cracking attack against the target IP address `target_ip` on the specified port using the username `username` and the wordlist `/path/to/wordlist.txt` for the specified service
 
 ## searchsploit
 
