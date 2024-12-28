@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bpiaple.github.io/contact.html</loc>
-    <lastmod>2024-12-28T00:58:44.185Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bpiaple.github.io/blog/hacking.html</loc>
-    <lastmod>2024-12-28T00:58:44.185Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bpiaple.github.io/about.html</loc>
-    <lastmod>2024-12-28T00:58:44.185Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bpiaple.github.io/index.html</loc>
-    <lastmod>2024-12-28T00:58:44.187Z</lastmod>
+    <loc>https://bpiaple.github.io/Stages/index.html</loc>
+    <lastmod>2024-12-28T01:45:52.862Z</lastmod>
   </url>
   <url>
     <loc>https://bpiaple.github.io/blog/index.html</loc>
-    <lastmod>2024-12-28T00:58:44.185Z</lastmod>
+    <lastmod>2024-12-28T01:45:52.872Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bpiaple.github.io/index.html</loc>
+    <lastmod>2024-12-28T01:45:52.873Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bpiaple.github.io/about.html</loc>
+    <lastmod>2024-12-28T01:45:52.871Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bpiaple.github.io/blog/hacking.html</loc>
+    <lastmod>2024-12-28T01:45:52.871Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bpiaple.github.io/contact.html</loc>
+    <lastmod>2024-12-28T01:45:52.872Z</lastmod>
   </url>
 </urlset>
