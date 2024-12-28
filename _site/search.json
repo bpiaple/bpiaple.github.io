@@ -124,5 +124,19 @@
     "title": "My Hacking Commands",
     "section": "metasploit",
     "text": "metasploit\nMetasploit is a penetration testing framework that allows you to develop, test, and execute exploit code against a remote target. It provides a wide range of tools and modules for various stages of the penetration testing process.\nTo use Metasploit, you can use the following commands:\n\nmsfconsole\nThis command will start the Metasploit console\nuse exploit_name\nThis command will select the exploit module exploit_name\nset RHOST target_ip\nThis command will set the remote host IP address to target_ip\nset RPORT target_port\nThis command will set the remote host port to target_port\nset LHOST local_ip\nThis command will set the local host IP address to local_ip\nexploit\nThis command will execute the selected exploit against the target host\nrun\nThis command will run the selected exploit against the target host"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "In this section, I will share some of my favorite hacking commands that I use for web application testing and security assessments.\n\nTo access to the section, click here."
+  },
+  {
+    "objectID": "blog/index.html#my-hacking-commands",
+    "href": "blog/index.html#my-hacking-commands",
+    "title": "Blog",
+    "section": "",
+    "text": "In this section, I will share some of my favorite hacking commands that I use for web application testing and security assessments.\n\nTo access to the section, click here."
   }
 ]

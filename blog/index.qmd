@@ -1,3 +1,10 @@
 ---
 title: Blog
 ---
+
+## My Hacking Commands
+
+In this section, I will share some of my favorite hacking commands that I use for web application testing and security assessments.
+
+> To access to the section, click [here](/blog/hacking.html).
+
