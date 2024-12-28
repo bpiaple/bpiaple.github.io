@@ -27,5 +27,8 @@
   },
   "blog/hacking.qmd": {
     "hacking.html": "3852f277"
+  },
+  "Stages/index.qmd": {
+    "index.html": "f8b7e458"
   }
 }

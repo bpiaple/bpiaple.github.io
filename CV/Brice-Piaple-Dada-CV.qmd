@@ -24,6 +24,9 @@ author:
     - icon: fa brands x-twitter
       text: twitter
       url: https://twitter.com/bpiaple
+    - icon: fa brands credly
+      text: credly
+      url: https://www.credly.com/users/bpiaple
 style:
   color-accent: 222fff
 format:
