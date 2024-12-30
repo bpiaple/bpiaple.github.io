@@ -1,0 +1,43 @@
+---
+title: Mr. Robot Challenge
+---
+
+## Finding some open ports on the target machine
+
+We will begin by scan the network to find the IP address of the target machine. We will use the `nmap` command to scan the network and find the IP address of the target machine.
+
+```bash
+nmap -sC -sV 10.10.155.161
+```
+
+## Use `gobuster` to find hidden directories on the target machine
+
+We will use the `gobuster` command to find hidden directories on the target machine. We will use the following command to find hidden directories on the target machine.
+
+```bash
+gobuster dir -u 10.10.155.161 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt 
+```
+
+## Open the hidden directory on the target machine and find the flag
+
+We will open the hidden directory on the target machine and find the flag. We will use the following command to open the hidden directory on the target machine.
+
+> We will open the `/robots` directory on the target machine and find the flag.
+
+## Download the fsocity.disc file from the hidden directory
+
+We will download the `fsocity.disc` file from the hidden directory on the target machine. We will use the following command to download the `fsocity.disc` file from the hidden directory on the target machine.
+
+```bash
+wget http://10.10.155.161/fsocity.dic
+```
+
+## Find the passeord for the admin account of the WordPress site
+
+To find the password for the admin account, we will go to the `/license` directory on the target machine. We will inspect the page and find some hach codes. *_We will use [CyberChef](https://gchq.github.io/CyberChef/) to decode the hash codes and find the password for the admin account._* The username and the pass are `Elliot` and `ER28-0652`. These informations are hach using the `Base64` algorithm.
+
+## Use a reverse shell to get access to the target machine
+
+We will use a reverse shell to get access to the target machine. We will use the following command to get access to the target machine. The code of this reverse shell is available on the [Pentest Monkey](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php) website.
+
+We will modify the `404.php` page of the WordPress site to include the reverse shell code. 

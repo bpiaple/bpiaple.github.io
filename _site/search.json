@@ -152,5 +152,222 @@
     "title": "Stages",
     "section": "",
     "text": "MicreAge : MicroAge est une entreprise de services informatiques qui offre des solutions technologiques sur mesure pour les entreprises. Elle est situé à Québec. Voici son adresse : 5125 1ere Avenue, Quebec (Quebec) G1H 2V1\n\n\nPour cette entreprise, une candidature spontanée est possible.\n\n\nGDG : GDG est une entreprise de services-conseils en informatique qui offre des solutions technologiques sur mesure pour les entreprises. Elle est situé à Québec. VOici son adresse : 330, rue Saint-Vallier Est, bureau 023 Québec (Québec) G1K 9C5 Canada\n\n\nPour ces entreprises, une candidature spontanée est possible.\n\n\nMS Solutions : MS Solutions offre de nombreux services et produits TI pour les entreprises québécoises, adaptés aux besoins de chaque organisation! Elle est situé à Québec. Voici son adresse : 1035 Avenue Wilfrid-Pelletier, Tour B, Bureau 370, Québec, QC, G1W 0C5\n\n\nPour cette entreprise, une candifature spontanée est possible.\n\n\nMicroCom : MicroCom est une entreprise de services informatiques qui offre des solutions technologiques sur mesure pour les entreprises. Elle est situé à Montréal. Voici son adresse : 2019 Rue Moreau, Montréal, QC H1W 2M1\n\n\nPour cette entreprise, une candidature spontanée est possible.\n\n\nMiracom : Miracom est une entreprise de services informatiques qui offre des solutions technologiques sur mesure pour les entreprises. Elle est situé à Québec et Montréal. Voici ses adresses : 601 Avenue du Cénacle Québec (Québec) G1E 6W4 et Boulevard Saint-Martin Ouest Laval (Québec) H7T 3C2\n\n\nPour cette entreprise, afin de postuler, il faut envoyer un courriel à l’adresse suivante : cv@miracom.ca. Voici le lien du pdf pour postuler : Postuler chez Miracom\n\n\nSolulan : Une entreprise informatique polyvalente et expérimentée. Vous cherchez l’entreprise informatique parfaite pour accompagner votre entreprise? Solulan est la face cachée qu’il vous faut! Nous proposons tous les services TI gérés, solutions infonuagiques et services de cybersécurité nécessaires au fonctionnement, à la productivité et surtout à la sécurité de votre entreprise. Nos experts certifiés sont là pour vous accompagner dans vos projets technologiques, et ce, depuis 1999. Elle est situé à Québec, Montreéal et Toronto.\n\n\nPour cette entreprise, une candidature spontanée est possible. Voici le lien pour postuler : Postuler chez Solulan"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html",
+    "href": "blog/Mr-Robot/index.html",
+    "title": "Mr. Robot Challenge",
+    "section": "",
+    "text": "We will begin by scan the network to find the IP address of the target machine. We will use the nmap command to scan the network and find the IP address of the target machine.\nnmap -sC -sV 10.10.155.161"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#first-command",
+    "href": "blog/Mr-Robot/index.html#first-command",
+    "title": "Mr. Robot Challenge",
+    "section": "",
+    "text": "We will begin by scan the network to find the IP address of the target machine. We will use the nmap command to scan the network and find the IP address of the target machine.\nnmap -sC -sV 10.10.155.161"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#find",
+    "href": "blog/Mr-Robot/index.html#find",
+    "title": "Mr. Robot Challenge",
+    "section": "",
+    "text": "We will begin by scan the network to find the IP address of the target machine. We will use the nmap command to scan the network and find the IP address of the target machine.\nnmap -sC -sV 10.10.155.161"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#fin",
+    "href": "blog/Mr-Robot/index.html#fin",
+    "title": "Mr. Robot Challenge",
+    "section": "",
+    "text": "We will begin by scan the network to find the IP address of the target machine. We will use the nmap command to scan the network and find the IP address of the target machine.\nnmap -sC -sV 10.10.155.161"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#finding",
+    "href": "blog/Mr-Robot/index.html#finding",
+    "title": "Mr. Robot Challenge",
+    "section": "",
+    "text": "We will begin by scan the network to find the IP address of the target machine. We will use the nmap command to scan the network and find the IP address of the target machine.\nnmap -sC -sV 10.10.155.161"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#finding-po",
+    "href": "blog/Mr-Robot/index.html#finding-po",
+    "title": "Mr. Robot Challenge",
+    "section": "",
+    "text": "We will begin by scan the network to find the IP address of the target machine. We will use the nmap command to scan the network and find the IP address of the target machine.\nnmap -sC -sV 10.10.155.161"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#finding-the",
+    "href": "blog/Mr-Robot/index.html#finding-the",
+    "title": "Mr. Robot Challenge",
+    "section": "",
+    "text": "We will begin by scan the network to find the IP address of the target machine. We will use the nmap command to scan the network and find the IP address of the target machine.\nnmap -sC -sV 10.10.155.161"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#finding-some-open",
+    "href": "blog/Mr-Robot/index.html#finding-some-open",
+    "title": "Mr. Robot Challenge",
+    "section": "",
+    "text": "We will begin by scan the network to find the IP address of the target machine. We will use the nmap command to scan the network and find the IP address of the target machine.\nnmap -sC -sV 10.10.155.161"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#finding-some-open-ports",
+    "href": "blog/Mr-Robot/index.html#finding-some-open-ports",
+    "title": "Mr. Robot Challenge",
+    "section": "",
+    "text": "We will begin by scan the network to find the IP address of the target machine. We will use the nmap command to scan the network and find the IP address of the target machine.\nnmap -sC -sV 10.10.155.161"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#finding-some-open-ports-on-the-target-machine",
+    "href": "blog/Mr-Robot/index.html#finding-some-open-ports-on-the-target-machine",
+    "title": "Mr. Robot Challenge",
+    "section": "",
+    "text": "We will begin by scan the network to find the IP address of the target machine. We will use the nmap command to scan the network and find the IP address of the target machine.\nnmap -sC -sV 10.10.155.161"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#use",
+    "href": "blog/Mr-Robot/index.html#use",
+    "title": "Mr. Robot Challenge",
+    "section": "Use",
+    "text": "Use"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#use-gob",
+    "href": "blog/Mr-Robot/index.html#use-gob",
+    "title": "Mr. Robot Challenge",
+    "section": "Use `gob",
+    "text": "Use `gob"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#use-gobuster-to-find-hidden-directories",
+    "href": "blog/Mr-Robot/index.html#use-gobuster-to-find-hidden-directories",
+    "title": "Mr. Robot Challenge",
+    "section": "Use gobuster to find hidden directories",
+    "text": "Use gobuster to find hidden directories"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#use-gobuster-to-find-hidden-directories-on-the-target-machine",
+    "href": "blog/Mr-Robot/index.html#use-gobuster-to-find-hidden-directories-on-the-target-machine",
+    "title": "Mr. Robot Challenge",
+    "section": "Use gobuster to find hidden directories on the target machine",
+    "text": "Use gobuster to find hidden directories on the target machine\nWe will use the gobuster command to find hidden directories on the target machine. We will use the following command to find hidden directories on the target machine.\ngobuster dir -u 10.10.155.161 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#open",
+    "href": "blog/Mr-Robot/index.html#open",
+    "title": "Mr. Robot Challenge",
+    "section": "Open",
+    "text": "Open"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#open-the-hidden-directory-on-the-target-machine",
+    "href": "blog/Mr-Robot/index.html#open-the-hidden-directory-on-the-target-machine",
+    "title": "Mr. Robot Challenge",
+    "section": "Open the hidden directory on the target machine",
+    "text": "Open the hidden directory on the target machine"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#open-the-hidden-directory-on-the-target-machine-and-find-the-flag",
+    "href": "blog/Mr-Robot/index.html#open-the-hidden-directory-on-the-target-machine-and-find-the-flag",
+    "title": "Mr. Robot Challenge",
+    "section": "Open the hidden directory on the target machine and find the flag",
+    "text": "Open the hidden directory on the target machine and find the flag\nWe will open the hidden directory on the target machine and find the flag. We will use the following command to open the hidden directory on the target machine.\n\nWe will open the /robots directory on the target machine and find the flag."
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#download",
+    "href": "blog/Mr-Robot/index.html#download",
+    "title": "Mr. Robot Challenge",
+    "section": "Download",
+    "text": "Download"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#download-the-wordli",
+    "href": "blog/Mr-Robot/index.html#download-the-wordli",
+    "title": "Mr. Robot Challenge",
+    "section": "Download the wordli",
+    "text": "Download the wordli"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#download-the-wordlist",
+    "href": "blog/Mr-Robot/index.html#download-the-wordlist",
+    "title": "Mr. Robot Challenge",
+    "section": "Download the wordlist",
+    "text": "Download the wordlist"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#download-the-f",
+    "href": "blog/Mr-Robot/index.html#download-the-f",
+    "title": "Mr. Robot Challenge",
+    "section": "Download the f",
+    "text": "Download the f"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#download-the-fso",
+    "href": "blog/Mr-Robot/index.html#download-the-fso",
+    "title": "Mr. Robot Challenge",
+    "section": "Download the fso",
+    "text": "Download the fso"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#download-the-fsocity.de",
+    "href": "blog/Mr-Robot/index.html#download-the-fsocity.de",
+    "title": "Mr. Robot Challenge",
+    "section": "Download the fsocity.de",
+    "text": "Download the fsocity.de"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#download-the-fsocity.disc",
+    "href": "blog/Mr-Robot/index.html#download-the-fsocity.disc",
+    "title": "Mr. Robot Challenge",
+    "section": "Download the fsocity.disc",
+    "text": "Download the fsocity.disc"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#download-the-fsocity.disc-file-from-the-hidden-directory",
+    "href": "blog/Mr-Robot/index.html#download-the-fsocity.disc-file-from-the-hidden-directory",
+    "title": "Mr. Robot Challenge",
+    "section": "Download the fsocity.disc file from the hidden directory",
+    "text": "Download the fsocity.disc file from the hidden directory\nWe will download the fsocity.disc file from the hidden directory on the target machine. We will use the following command to download the fsocity.disc file from the hidden directory on the target machine.\nwget http://10.10.155.161/fsocity.dic"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#find-the-passeor",
+    "href": "blog/Mr-Robot/index.html#find-the-passeor",
+    "title": "Mr. Robot Challenge",
+    "section": "Find the passeor",
+    "text": "Find the passeor"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#find-the-passeord-for-the-admin",
+    "href": "blog/Mr-Robot/index.html#find-the-passeord-for-the-admin",
+    "title": "Mr. Robot Challenge",
+    "section": "Find the passeord for the admin",
+    "text": "Find the passeord for the admin"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#find-the-passeord-for-the-admin-account-of-the-w",
+    "href": "blog/Mr-Robot/index.html#find-the-passeord-for-the-admin-account-of-the-w",
+    "title": "Mr. Robot Challenge",
+    "section": "Find the passeord for the admin account of the W",
+    "text": "Find the passeord for the admin account of the W"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#find-the-passeord-for-the-admin-account-of-the-wordpress-site",
+    "href": "blog/Mr-Robot/index.html#find-the-passeord-for-the-admin-account-of-the-wordpress-site",
+    "title": "Mr. Robot Challenge",
+    "section": "Find the passeord for the admin account of the WordPress site",
+    "text": "Find the passeord for the admin account of the WordPress site\nTo find the password for the admin account, we will go to the /license directory on the target machine. We will inspect the page and find some hach codes. We will use CyberChef to decode the hash codes and find the password for the admin account. The username and the pass are Elliot and ER28-0652. These informations are hach using the Base64 algorithm."
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#use-a-rever",
+    "href": "blog/Mr-Robot/index.html#use-a-rever",
+    "title": "Mr. Robot Challenge",
+    "section": "Use a rever",
+    "text": "Use a rever"
+  },
+  {
+    "objectID": "blog/Mr-Robot/index.html#use-a-reverse-shell-to-get-access-to-the-target-machine",
+    "href": "blog/Mr-Robot/index.html#use-a-reverse-shell-to-get-access-to-the-target-machine",
+    "title": "Mr. Robot Challenge",
+    "section": "Use a reverse shell to get access to the target machine",
+    "text": "Use a reverse shell to get access to the target machine\nWe will use a reverse shell to get access to the target machine. We will use the following command to get access to the target machine. The code of this reverse shell is available on the Pentest Monkey website.\nWe will modify the 404.php page of the WordPress site to include the reverse shell code."
   }
 ]
