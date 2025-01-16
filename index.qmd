@@ -16,7 +16,7 @@ Vous trouverez ici :
 
 -   Mon [**Portfolio**](/portfolio/index.qmd), qui présente mes réalisations.
 -   Mon [**Blog**](/blog/index.qmd), où je partage des articles sur des sujets qui me passionnent.
--   Mon [**CV**](CV/Brice-Piaple-Dada-CV.qmd), qui retrace mon parcours scolaire et professionnel.
+-   Mon [**CV**](CV/Brice-Piaple-Dada-CV.pdf), qui retrace mon parcours scolaire et professionnel.
 
 N'hésitez pas à me [**contacter**](/contact.qmd) si vous avez des questions ou si vous souhaitez collaborer.
 
