@@ -1,10 +1,113 @@
 ---
-title: Blog
+title: "Blog"
+toc: true
 ---
 
-## My Hacking Commands
+::: {.hero-section style="min-height: 30vh;"}
+::: {.container style="text-align: center;"}
 
-In this section, I will share some of my favorite hacking commands that I use for web application testing and security assessments.
+::: {.hero-title style="font-size: 2.5rem;"}
+Mon Blog
+:::
 
-> To access to the section, click [here](/blog/hacking.html).
+::: {.hero-subtitle}
+Articles et tutoriels sur la cybersécurité
+:::
+
+:::
+:::
+
+---
+
+::: {.section-title}
+Articles Récents
+:::
+
+::: {.section-divider}
+:::
+
+::: {.portfolio-grid}
+
+::: {.card-custom}
+### 🔧 My Hacking Commands
+
+Une collection de mes commandes favorites pour les tests d'intrusion et l'évaluation de la sécurité des applications web.
+
+**Outils abordés:**
+
+[FFuf]{.tag} [Wfuzz]{.tag} [Nmap]{.tag} [Gobuster]{.tag} [Hydra]{.tag} [Metasploit]{.tag}
+
+[Lire l'article →](/blog/hacking.html)
+:::
+
+::: {.card-custom}
+### 🤖 Mr. Robot Challenge
+
+Walkthrough complet du challenge CTF Mr. Robot. Découvrez comment trouver les flags en exploitant les vulnérabilités d'une machine virtuelle.
+
+**Techniques utilisées:**
+
+[Scan de ports]{.tag} [Fuzzing]{.tag} [WordPress]{.tag} [Reverse Shell]{.tag}
+
+[Lire l'article →](/blog/Mr-Robot/index.html)
+:::
+
+:::
+
+---
+
+::: {.section-title}
+Catégories
+:::
+
+::: {.section-divider}
+:::
+
+::: {.skills-container}
+
+::: {.skill-card}
+::: {.skill-icon}
+🛡️
+:::
+::: {.skill-title}
+Cybersécurité
+:::
+::: {.skill-description}
+Techniques de pentesting, outils de sécurité et bonnes pratiques.
+:::
+:::
+
+::: {.skill-card}
+::: {.skill-icon}
+🎯
+:::
+::: {.skill-title}
+CTF Writeups
+:::
+::: {.skill-description}
+Solutions détaillées de challenges Capture The Flag.
+:::
+:::
+
+::: {.skill-card}
+::: {.skill-icon}
+📚
+:::
+::: {.skill-title}
+Tutoriels
+:::
+::: {.skill-description}
+Guides pratiques pour apprendre et progresser.
+:::
+:::
+
+:::
+
+---
+
+::: {.footer}
+::: {.footer-text}
+© 2026 Brice Piaple Dada | Tous droits réservés
+:::
+:::
 

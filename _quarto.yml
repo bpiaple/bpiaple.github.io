@@ -4,28 +4,61 @@ project:
 website:
   title: "Brice Piaple Dada"
   favicon: "images/profile.jpg"
+  site-url: https://bpiaple.github.io
+  description: "Portfolio personnel de Brice Piaple Dada - Spécialiste en Cybersécurité & Administration Systèmes"
+  
   navbar:
+    background: dark
+    search: true
     left:
       - href: index.qmd
         text: Accueil
+        icon: house
       - href: about.qmd
-        text: A Propos
+        text: À Propos
+        icon: person
       - href: portfolio/index.qmd
         text: Portfolio
+        icon: briefcase
       - href: blog/index.qmd
         text: Blog
+        icon: journal-text
+      - href: contact.qmd
+        text: Contact
+        icon: envelope
     right:
       - href: CV/Brice-Piaple-Dada-CV.pdf
-        text: Télécharger mon CV
+        text: "📄 CV"
+      - icon: github
+        href: https://github.com/bpiaple
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://linkedin.com/in/brice-piaple-dada
+        aria-label: LinkedIn
 
+  page-footer:
+    background: dark
+    left: |
+      © 2026 Brice Piaple Dada
+    center: |
+      Fait avec ❤️ et [Quarto](https://quarto.org/)
+    right:
+      - icon: github
+        href: https://github.com/bpiaple
+      - icon: linkedin
+        href: https://linkedin.com/in/brice-piaple-dada
+      - icon: envelope
+        href: mailto:brice.piaple@email.com
 
 format:
   html:
-    theme: superhero
+    theme: 
+      dark: superhero
     css: styles.css
     toc: true
     language: fr
-
+    smooth-scroll: true
+    link-external-newwindow: true
 
 editor: 
   render-on-save: true

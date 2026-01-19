@@ -1,0 +1,206 @@
+---
+title: "Portfolio"
+toc: true
+---
+
+::: {.hero-section style="min-height: 30vh;"}
+::: {.container style="text-align: center;"}
+
+::: {.hero-title style="font-size: 2.5rem;"}
+Mon Portfolio
+:::
+
+::: {.hero-subtitle}
+Découvrez mes projets et réalisations
+:::
+
+:::
+:::
+
+---
+
+::: {.section-title}
+Projets en Cybersécurité
+:::
+
+::: {.section-divider}
+:::
+
+::: {.portfolio-grid}
+
+::: {.card-custom}
+### 🤖 Mr. Robot CTF
+
+Challenge de cybersécurité inspiré de la série Mr. Robot. Exploitation de vulnérabilités web, WordPress et escalade de privilèges sur une machine Linux.
+
+**Technologies utilisées:**
+
+[Nmap]{.tag} [Gobuster]{.tag} [Hydra]{.tag} [Metasploit]{.tag} [Linux]{.tag}
+
+[Voir le challenge →](/blog/Mr-Robot/index.qmd)
+:::
+
+::: {.card-custom}
+### 🔍 Scripts de Reconnaissance
+
+Collection de scripts personnalisés pour l'automatisation de la reconnaissance et l'énumération de cibles lors de tests d'intrusion.
+
+**Technologies utilisées:**
+
+[Python]{.tag} [Bash]{.tag} [Nmap]{.tag} [FFuf]{.tag}
+
+:::
+
+::: {.card-custom}
+### 🛡️ Laboratoire de Sécurité
+
+Mise en place d'un environnement de test virtualisé pour pratiquer les techniques de pentesting en toute sécurité.
+
+**Technologies utilisées:**
+
+[VMware]{.tag} [Kali Linux]{.tag} [Metasploitable]{.tag} [Docker]{.tag}
+
+:::
+
+:::
+
+---
+
+::: {.section-title}
+Projets d'Administration Système
+:::
+
+::: {.section-divider}
+:::
+
+::: {.portfolio-grid}
+
+::: {.card-custom}
+### 🖥️ Infrastructure Active Directory
+
+Conception et déploiement d'une infrastructure Active Directory complète avec gestion des GPO, DHCP et DNS.
+
+**Technologies utilisées:**
+
+[Windows Server]{.tag} [Active Directory]{.tag} [GPO]{.tag} [PowerShell]{.tag}
+
+:::
+
+::: {.card-custom}
+### 📊 Monitoring & Alerting
+
+Mise en place d'une solution de surveillance des systèmes et réseaux avec alertes automatisées.
+
+**Technologies utilisées:**
+
+[Zabbix]{.tag} [Grafana]{.tag} [Linux]{.tag} [SNMP]{.tag}
+
+:::
+
+::: {.card-custom}
+### 🐳 Conteneurisation
+
+Déploiement d'applications containerisées avec Docker et orchestration pour une haute disponibilité.
+
+**Technologies utilisées:**
+
+[Docker]{.tag} [Docker Compose]{.tag} [Linux]{.tag} [Nginx]{.tag}
+
+:::
+
+:::
+
+---
+
+::: {.section-title}
+Projets de Développement
+:::
+
+::: {.section-divider}
+:::
+
+::: {.portfolio-grid}
+
+::: {.card-custom}
+### 🌐 Site Portfolio Personnel
+
+Ce site web personnel que vous consultez actuellement, développé avec Quarto et hébergé sur GitHub Pages.
+
+**Technologies utilisées:**
+
+[Quarto]{.tag} [HTML/CSS]{.tag} [GitHub Pages]{.tag} [Git]{.tag}
+
+[Voir le code source →](https://github.com/bpiaple/bpiaple.github.io)
+:::
+
+::: {.card-custom}
+### 🔐 Outil d'Audit de Sécurité
+
+Script Python pour automatiser l'audit de sécurité basique d'un système Linux.
+
+**Technologies utilisées:**
+
+[Python]{.tag} [Bash]{.tag} [Linux]{.tag}
+
+:::
+
+:::
+
+---
+
+::: {.section-title}
+Compétences Démontrées
+:::
+
+::: {.section-divider}
+:::
+
+::: {.stats-container}
+
+::: {.stat-item}
+::: {.stat-number}
+5+
+:::
+::: {.stat-label}
+Projets Cybersécurité
+:::
+:::
+
+::: {.stat-item}
+::: {.stat-number}
+3+
+:::
+::: {.stat-label}
+Projets Sysadmin
+:::
+:::
+
+::: {.stat-item}
+::: {.stat-number}
+2+
+:::
+::: {.stat-label}
+Projets Dev
+:::
+:::
+
+:::
+
+---
+
+::: {.card-custom style="text-align: center;"}
+### Intéressé par mes projets ?
+
+N'hésitez pas à me contacter pour en savoir plus sur mes réalisations ou discuter d'une potentielle collaboration.
+
+[Me contacter →](/contact.qmd){.btn-custom .btn-primary-custom}
+[Voir mon CV](../CV/Brice-Piaple-Dada-CV.pdf){.btn-custom .btn-secondary-custom}
+:::
+
+---
+
+::: {.footer}
+::: {.footer-text}
+© 2026 Brice Piaple Dada | Tous droits réservés
+:::
+:::

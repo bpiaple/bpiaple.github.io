@@ -1,25 +1,200 @@
 ---
 title: ""
+page-layout: full
+toc: false
 ---
 
-::::: rows
-::: row
-![](images/profile.jpg){.rounded-circle fig-alt="Brice Piaple Dada" fig-align="center" width="250"}
+::: {.hero-section}
+::: {.container}
+
+![](images/profile.jpg){.rounded-circle fig-alt="Brice Piaple Dada" fig-align="center"}
+
+::: {.hero-title}
+Brice Piaple Dada
 :::
 
-::: row
-## Bonjour, je suis Brice Piaple Dada
-
-Passionné par l'informatique et l'innovation technologique depuis toujours, j'ai développé une solide expertise grâce à des formations spécialisées. Je suis motivé à mettre mes compétences au service de projets innovants, tout en veillant à l'efficacité et à la bonne organisation des environnements de travail.
-
-Vous trouverez ici :
-
--   Mon [**Portfolio**](/portfolio/index.qmd), qui présente mes réalisations.
--   Mon [**Blog**](/blog/index.qmd), où je partage des articles sur des sujets qui me passionnent.
--   Mon [**CV**](CV/Brice-Piaple-Dada-CV.pdf), qui retrace mon parcours scolaire et professionnel.
-
-N'hésitez pas à me [**contacter**](/contact.qmd) si vous avez des questions ou si vous souhaitez collaborer.
-
-Bonne visite !
+::: {.hero-subtitle}
+🔐 Spécialiste en Cybersécurité & Administration Systèmes
 :::
-:::::
+
+::: {.hero-description}
+Passionné par l'informatique et l'innovation technologique depuis toujours, j'ai développé une solide expertise grâce à des formations spécialisées. Je suis motivé à mettre mes compétences au service de projets innovants, tout en veillant à l'efficacité et à la sécurité des environnements informatiques.
+:::
+
+[Voir mon Portfolio](/portfolio/index.qmd){.btn-custom .btn-primary-custom}
+[Télécharger mon CV](CV/Brice-Piaple-Dada-CV.pdf){.btn-custom .btn-secondary-custom}
+
+:::
+:::
+
+---
+
+::: {.section-title}
+Mes Compétences
+:::
+
+::: {.section-divider}
+:::
+
+::: {.section-subtitle}
+Des compétences techniques solides au service de vos projets
+:::
+
+::: {.skills-container}
+
+::: {.skill-card}
+::: {.skill-icon}
+🛡️
+:::
+::: {.skill-title}
+Cybersécurité
+:::
+::: {.skill-description}
+Pentesting, analyse de vulnérabilités, sécurisation des systèmes et réseaux. Maîtrise des outils comme Nmap, Metasploit, Burp Suite.
+:::
+:::
+
+::: {.skill-card}
+::: {.skill-icon}
+🖥️
+:::
+::: {.skill-title}
+Administration Systèmes
+:::
+::: {.skill-description}
+Windows Server, Linux, Active Directory, virtualisation. Gestion et maintenance des infrastructures informatiques.
+:::
+:::
+
+::: {.skill-card}
+::: {.skill-icon}
+🌐
+:::
+::: {.skill-title}
+Réseaux
+:::
+::: {.skill-description}
+Configuration et administration des réseaux TCP/IP, routage, switching, pare-feu et VPN.
+:::
+:::
+
+::: {.skill-card}
+::: {.skill-icon}
+💻
+:::
+::: {.skill-title}
+Développement
+:::
+::: {.skill-description}
+Python, Bash scripting, automatisation des tâches. Développement d'outils de sécurité personnalisés.
+:::
+:::
+
+:::
+
+---
+
+::: {.section-title}
+Technologies Maîtrisées
+:::
+
+::: {.section-divider}
+:::
+
+::: {style="text-align: center; padding: 1rem;"}
+[Linux]{.tag} [Windows Server]{.tag} [Python]{.tag} [Bash]{.tag} [Nmap]{.tag} [Metasploit]{.tag} [Wireshark]{.tag} [Burp Suite]{.tag} [Docker]{.tag} [Git]{.tag} [Active Directory]{.tag} [VMware]{.tag} [TCP/IP]{.tag} [Firewalls]{.tag} [VPN]{.tag} [SQL]{.tag}
+:::
+
+---
+
+::: {.section-title}
+Statistiques
+:::
+
+::: {.section-divider}
+:::
+
+::: {.stats-container}
+
+::: {.stat-item}
+::: {.stat-number}
+10+
+:::
+::: {.stat-label}
+Projets Réalisés
+:::
+:::
+
+::: {.stat-item}
+::: {.stat-number}
+3+
+:::
+::: {.stat-label}
+Années d'Expérience
+:::
+:::
+
+::: {.stat-item}
+::: {.stat-number}
+15+
+:::
+::: {.stat-label}
+Technologies Maîtrisées
+:::
+:::
+
+::: {.stat-item}
+::: {.stat-number}
+100%
+:::
+::: {.stat-label}
+Passion
+:::
+:::
+
+:::
+
+---
+
+::: {.section-title}
+Explorez mon travail
+:::
+
+::: {.section-divider}
+:::
+
+::: {.portfolio-grid}
+
+::: {.card-custom}
+### 🎯 Portfolio
+
+Découvrez mes projets et réalisations dans le domaine de l'informatique et de la cybersécurité.
+
+[Voir mes projets →](/portfolio/index.qmd)
+:::
+
+::: {.card-custom}
+### 📝 Blog
+
+Articles et tutoriels sur la cybersécurité, les commandes de hacking et les bonnes pratiques.
+
+[Lire mes articles →](/blog/index.qmd)
+:::
+
+::: {.card-custom}
+### 📧 Contact
+
+Vous avez un projet ou une question ? N'hésitez pas à me contacter pour en discuter.
+
+[Me contacter →](/contact.qmd)
+:::
+
+:::
+
+---
+
+::: {.footer}
+::: {.footer-text}
+© 2026 Brice Piaple Dada | Tous droits réservés
+:::
+:::
