@@ -33,7 +33,7 @@ website:
         href: https://github.com/bpiaple
         aria-label: GitHub
       - icon: linkedin
-        href: https://linkedin.com/in/brice-piaple-dada
+        href: https://www.linkedin.com/in/bpiaple
         aria-label: LinkedIn
 
   page-footer:
@@ -46,14 +46,14 @@ website:
       - icon: github
         href: https://github.com/bpiaple
       - icon: linkedin
-        href: https://linkedin.com/in/brice-piaple-dada
+        href: https://www.linkedin.com/in/bpiaple
       - icon: envelope
         href: mailto:brice.piaple@email.com
 
 format:
   html:
     theme: 
-      dark: superhero
+      dark: slate
     css: styles.css
     toc: true
     language: fr

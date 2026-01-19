@@ -91,7 +91,7 @@ LinkedIn
 ::: {.skill-description}
 Connectez-vous avec moi sur LinkedIn pour suivre mon parcours professionnel.
 
-[Mon profil LinkedIn](https://linkedin.com/in/brice-piaple-dada){.btn-custom .btn-secondary-custom style="display: inline-block; margin-top: 1rem;"}
+[Mon profil LinkedIn](https://www.linkedin.com/in/bpiaple){.btn-custom .btn-secondary-custom style="display: inline-block; margin-top: 1rem;"}
 :::
 :::
 
