@@ -43,9 +43,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-7ebe619bc3d169066577fa11ceff3959.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-1d8f8ba668f0014fc04692f3394c0d8b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-7ebe619bc3d169066577fa11ceff3959.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f9604770c094b9940aa81e1b4920b668.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-116c9f9002b9a006cb2e440d4c19a716.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-f9604770c094b9940aa81e1b4920b668.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-dark"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -221,8 +221,10 @@ ul.task-list li input[type="checkbox"] {
         changeGiscusTheme();
       }
     };
-    const authorPrefersDark = true;
+    const authorPrefersDark = false;
     const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
     let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
     // Dark / light mode switch
     window.quartoToggleColorScheme = () => {
@@ -270,11 +272,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./portfolio/index.html"> <i class="bi bi-briefcase" role="img">
 </i> 
 <span class="menu-text">Portfolio</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./blog/index.html"> <i class="bi bi-journal-text" role="img">
-</i> 
-<span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./contact.html"> <i class="bi bi-envelope" role="img">
@@ -456,10 +453,10 @@ ul.task-list li input[type="checkbox"] {
 <p>Découvrez mes projets en développement Web .NET, Infrastructure Cloud et DevOps.</p>
 <p><a href="./portfolio/index.html">Voir mes projets →</a></p>
 </section>
-<section id="blog" class="level3 card-custom">
-<h3 class="anchored" data-anchor-id="blog">📝 Blog</h3>
-<p>Mes articles sur le hacking éthique, la cybersécurité et mes apprentissages techniques.</p>
-<p><a href="./blog/index.html">Lire mes articles →</a></p>
+<section id="cv" class="level3 card-custom">
+<h3 class="anchored" data-anchor-id="cv">📄 CV</h3>
+<p>Téléchargez mon CV pour voir mon parcours complet, mes expériences et mes projets.</p>
+<p><a href="CV/Brice-Piaple-Dada-CV.pdf">Télécharger mon CV →</a></p>
 </section>
 <section id="contact" class="level3 card-custom">
 <h3 class="anchored" data-anchor-id="contact">📧 Contact</h3>
@@ -919,7 +916,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="mailto:brice.piaple@email.com">
+    <a class="nav-link" href="mailto:brice.piaple.dada@gmail.com">
       <i class="bi bi-envelope" role="img">
 </i> 
     </a>

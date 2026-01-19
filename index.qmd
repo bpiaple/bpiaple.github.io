@@ -22,7 +22,7 @@ Finissant au DEC en informatique au Cégep de Rimouski, je possède une expérie
 :::
 
 [Voir mon Portfolio](/portfolio/index.qmd){.btn-custom .btn-primary-custom}
-[Télécharger mon CV](CV/Brice-Piaple-Dada-CV.pdf){.btn-custom .btn-secondary-custom}
+[Télécharger mon CV](CV/CV_Brice_Piaple_Dada.pdf){.btn-custom .btn-secondary-custom}
 
 :::
 :::
@@ -174,11 +174,11 @@ Découvrez mes projets en développement Web .NET, Infrastructure Cloud et DevOp
 :::
 
 ::: {.card-custom}
-### 📝 Blog
+### 📄 CV
 
-Mes articles sur le hacking éthique, la cybersécurité et mes apprentissages techniques.
+Téléchargez mon CV pour voir mon parcours complet, mes expériences et mes projets.
 
-[Lire mes articles →](/blog/index.qmd)
+[Télécharger mon CV →](CV/CV_Brice_Piaple_Dada.pdf)
 :::
 
 ::: {.card-custom}

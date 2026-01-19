@@ -18,119 +18,7 @@
     "href": "index.html",
     "title": "Brice Piaple Dada",
     "section": "",
-    "text": "Brice Piaple Dada\n\n\nTechnicien en Informatique\n\n\nFinissant au DEC en informatique au Cégep de Rimouski, je possède une expérience concrète en développement logiciel et en administration de bases de données. Passionné par la programmation orientée objet (C#) et la résolution de problèmes, je suis reconnu pour mon esprit d’équipe et mon attitude positive.\n\nVoir mon Portfolio Télécharger mon CV\n\n\n\n\nMes Compétences\n\n\n\n\n\nDéveloppement, Bases de données et Infrastructure\n\n\n\n\n💻\n\n\nDéveloppement & Programmation\n\n\nC# (.NET), Python, C++, JavaScript, HTML5/CSS3.\n\n\n\n\n🗄️\n\n\nBases de données\n\n\nSQL, Elastic Search, PostgreSQL. Gestion et administration de bases de données.\n\n\n\n\n☁️\n\n\nInfrastructure & Cloud\n\n\nAzure, Windows Server, Active Directory, PowerShell, VMware.\n\n\n\n\n🚀\n\n\nDevOps & Outils\n\n\nPipelines CI/CD, Git / GitHub, VS Code.\n\n\n\n\n\nTechnologies Maîtrisées\n\n\n\n\n\nC# (.NET) Python C++ JavaScript HTML5/CSS3 SQL Elastic Search PostgreSQL Azure Windows Server Active Directory PowerShell VMware Git GitHub CI/CD\n\n\n\nEn Chiffres\n\n\n\n\n\n\n\n3+\n\n\nProjets Majeurs\n\n\n\n\n3\n\n\nAnnées d’Expérience\n\n\n\n\n15+\n\n\nTechnologies\n\n\n\n\n100%\n\n\nMotivation\n\n\n\n\n\nExplorez mon travail\n\n\n\n\n\n\n🎯 Portfolio\nDécouvrez mes projets en développement Web .NET, Infrastructure Cloud et DevOps.\nVoir mes projets →\n\n\n📝 Blog\nMes articles sur le hacking éthique, la cybersécurité et mes apprentissages techniques.\nLire mes articles →\n\n\n📧 Contact\nDésireux d’apprendre et de m’investir dans un environnement Agile. Contactez-moi !\nMe contacter →\n\n\n\n\n\n© 2026 Brice Piaple Dada | Technicien en Informatique"
-  },
-  {
-    "objectID": "blog/Mr-Robot/index.html",
-    "href": "blog/Mr-Robot/index.html",
-    "title": "Mr. Robot Challenge",
-    "section": "",
-    "text": "We will begin by scan the network to find the IP address of the target machine. We will use the nmap command to scan the network and find the IP address of the target machine.\nnmap -sC -sV 10.10.155.161"
-  },
-  {
-    "objectID": "blog/Mr-Robot/index.html#finding-some-open-ports-on-the-target-machine",
-    "href": "blog/Mr-Robot/index.html#finding-some-open-ports-on-the-target-machine",
-    "title": "Mr. Robot Challenge",
-    "section": "",
-    "text": "We will begin by scan the network to find the IP address of the target machine. We will use the nmap command to scan the network and find the IP address of the target machine.\nnmap -sC -sV 10.10.155.161"
-  },
-  {
-    "objectID": "blog/Mr-Robot/index.html#use-gobuster-to-find-hidden-directories-on-the-target-machine",
-    "href": "blog/Mr-Robot/index.html#use-gobuster-to-find-hidden-directories-on-the-target-machine",
-    "title": "Mr. Robot Challenge",
-    "section": "Use gobuster to find hidden directories on the target machine",
-    "text": "Use gobuster to find hidden directories on the target machine\nWe will use the gobuster command to find hidden directories on the target machine. We will use the following command to find hidden directories on the target machine.\ngobuster dir -u 10.10.155.161 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt"
-  },
-  {
-    "objectID": "blog/Mr-Robot/index.html#open-the-hidden-directory-on-the-target-machine-and-find-the-flag",
-    "href": "blog/Mr-Robot/index.html#open-the-hidden-directory-on-the-target-machine-and-find-the-flag",
-    "title": "Mr. Robot Challenge",
-    "section": "Open the hidden directory on the target machine and find the flag",
-    "text": "Open the hidden directory on the target machine and find the flag\nWe will open the hidden directory on the target machine and find the flag. We will use the following command to open the hidden directory on the target machine.\n\nWe will open the /robots directory on the target machine and find the flag."
-  },
-  {
-    "objectID": "blog/Mr-Robot/index.html#download-the-fsocity.disc-file-from-the-hidden-directory",
-    "href": "blog/Mr-Robot/index.html#download-the-fsocity.disc-file-from-the-hidden-directory",
-    "title": "Mr. Robot Challenge",
-    "section": "Download the fsocity.disc file from the hidden directory",
-    "text": "Download the fsocity.disc file from the hidden directory\nWe will download the fsocity.disc file from the hidden directory on the target machine. We will use the following command to download the fsocity.disc file from the hidden directory on the target machine.\nwget http://10.10.155.161/fsocity.dic"
-  },
-  {
-    "objectID": "blog/Mr-Robot/index.html#find-the-passeord-for-the-admin-account-of-the-wordpress-site",
-    "href": "blog/Mr-Robot/index.html#find-the-passeord-for-the-admin-account-of-the-wordpress-site",
-    "title": "Mr. Robot Challenge",
-    "section": "Find the passeord for the admin account of the WordPress site",
-    "text": "Find the passeord for the admin account of the WordPress site\nTo find the password for the admin account, we will go to the /license directory on the target machine. We will inspect the page and find some hach codes. We will use CyberChef to decode the hash codes and find the password for the admin account. The username and the pass are Elliot and ER28-0652. These informations are hach using the Base64 algorithm."
-  },
-  {
-    "objectID": "blog/Mr-Robot/index.html#use-a-reverse-shell-to-get-access-to-the-target-machine",
-    "href": "blog/Mr-Robot/index.html#use-a-reverse-shell-to-get-access-to-the-target-machine",
-    "title": "Mr. Robot Challenge",
-    "section": "Use a reverse shell to get access to the target machine",
-    "text": "Use a reverse shell to get access to the target machine\nWe will use a reverse shell to get access to the target machine. We will use the following command to get access to the target machine. The code of this reverse shell is available on the Pentest Monkey website.\nWe will modify the 404.php page of the WordPress site to include the reverse shell code."
-  },
-  {
-    "objectID": "blog/hacking.html",
-    "href": "blog/hacking.html",
-    "title": "My Hacking Commands",
-    "section": "",
-    "text": "sudo nano /etc/hosts"
-  },
-  {
-    "objectID": "blog/hacking.html#change-the-dns-file-resolution-to-the-local-machine",
-    "href": "blog/hacking.html#change-the-dns-file-resolution-to-the-local-machine",
-    "title": "My Hacking Commands",
-    "section": "",
-    "text": "sudo nano /etc/hosts"
-  },
-  {
-    "objectID": "blog/hacking.html#ffuf",
-    "href": "blog/hacking.html#ffuf",
-    "title": "My Hacking Commands",
-    "section": "ffuf",
-    "text": "ffuf\nffuf is a fast web fuzzer written in Go. It is used to fuzz web applications and can be used for both content discovery and directory fuzzing\nTo use ffuf for directory fuzzing, you can use the following command:\n\nffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt\nThis command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt\nffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -e .php,.html\nThis command will fuzz the URL http://example.com/FUZZ and will append the extensions .php and .html to the wordlist entries\nffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt recursion-depth 2\nThis command will fuzz the URL http://example.com/FUZZ and will recursively fuzz the found directories up to a depth of 2\nffuf -u http://example.com/FUZZ -w /path/to/wordlist.txt -recursion-depth 2 -e .php,.html\nThis command will fuzz the URL http://example.com/FUZZ and will recursively fuzz the found directories up to a depth of 2 and will append the extensions .php and .html to the wordlist entries"
-  },
-  {
-    "objectID": "blog/hacking.html#wfuzz",
-    "href": "blog/hacking.html#wfuzz",
-    "title": "My Hacking Commands",
-    "section": "wfuzz",
-    "text": "wfuzz\nwfuzz is a web application fuzzer that allows you to fuzz web applications for vulnerabilities such as SQL injection, XSS, and more. It is written in Python and is highly customizable.\nTo use wfuzz for directory fuzzing and content discovery, you can use the following command:\n\nfuzz -c -u http://example.com/login.php -d \"username=admin&password=FUZZ\" -w /path/to/wordlist.txt\nThis command will fuzz the POST parameter password in the URL http://example.com/login.php with the wordlist /path/to/wordlist.txt\nwfuzz -c -z file/path/to/wordlist.txt http://example.com/FUZZ\nThis command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt\nwfuzz -c -z file,/path/to/wordlist.txt -t 10 http://example.com/FUZZ\nThis command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt with 10 threads\nwfuzz -c -z file,/path/to/wordlist.txt --hc 404 http://example.com/FUZZ\nThis command will fuzz the URL http://example.com/FUZZ using the wordlist /path/to/wordlist.txt and will ignore 404 responses"
-  },
-  {
-    "objectID": "blog/hacking.html#nmap",
-    "href": "blog/hacking.html#nmap",
-    "title": "My Hacking Commands",
-    "section": "nmap",
-    "text": "nmap\nnmap is a powerful network scanning tool that can be used to discover hosts and services on a network. It is commonly used for security auditing and network inventory.\nTo use nmap for host discovery and port scanning, you can use the following command:\n\nnmap -sn target\nThis command will perform a ping scan on the target host to discover live hosts\nnmap -sS -p 1-65535 -T4 -A -v target\nThis command will perform a SYN scan on all ports, use aggressive scanning options, and provide verbose output for the target host"
-  },
-  {
-    "objectID": "blog/hacking.html#gobuster",
-    "href": "blog/hacking.html#gobuster",
-    "title": "My Hacking Commands",
-    "section": "gobuster",
-    "text": "gobuster\ngobuster is a tool used for directory and file brute-forcing. It is commonly used for content discovery and directory fuzzing.\nto use gobuster for directory fuzzing and content discovery, you can use the following command:\n\ngobuster dir -u http://example.com -w /path/to/wordlist.txt\nThis command will fuzz the URL http://example.com using the wordlist /path/to/wordlist.txt\ngobuster dir -u http://example.com -w /path/to/wordlist.txt -x .php,.html\nThis command will fuzz the URL http://example.com and will append the extensions .php and .html to the wordlist entries\ngobuster dir -u http://example.com -w /path/to/wordlist.txt -r\nThis command will fuzz the URL http://example.com and will follow redirects\ngobuster dir -u http://example.com -w /path/to/wordlist.txt -t 10\nThis command will fuzz the URL http://example.com using 10 threads"
-  },
-  {
-    "objectID": "blog/hacking.html#hydra",
-    "href": "blog/hacking.html#hydra",
-    "title": "My Hacking Commands",
-    "section": "hydra",
-    "text": "hydra\nhydra is a password-cracking tool that can be used to perform online password attacks against various services. It supports a wide range of protocols and services, including HTTP, FTP, SSH, and more.\nTo use hydra for password cracking, you can use the following command:\n\nhydra -l username -P /path/to/wordlist.txt target_ip service\nThis command will perform a password cracking attack against the target IP address target_ip using the username username and the wordlist /path/to/wordlist.txt for the specified service\nhydra -L /path/to/usernames.txt -P /path/to/wordlist.txt target_ip service\nThis command will perform a password cracking attack against the target IP address target_ip using the usernames in the file /path/to/usernames.txt and the wordlist /path/to/wordlist.txt for the specified service\nhydra -l username -P /path/to/wordlist.txt target_ip -s port service\nThis command will perform a password cracking attack against the target IP address target_ip on the specified port using the username username and the wordlist /path/to/wordlist.txt for the specified service"
-  },
-  {
-    "objectID": "blog/hacking.html#searchsploit",
-    "href": "blog/hacking.html#searchsploit",
-    "title": "My Hacking Commands",
-    "section": "searchsploit",
-    "text": "searchsploit\nsearchsploit is a command-line search tool for Exploit Database, which is a repository of exploits and vulnerable software. It allows you to search for exploits based on software name, version, and other criteria.\nTo use searchsploit, you can use the following command:\n\nsearchsploit software_name\nThis command will search for exploits related to the software software_name\nsearchsploit -t software_name\nThis command will search for exploits related to the software software_name and display the title of the exploit\nsearchsploit -x exploit_id\nThis command will display the contents of the exploit with the ID exploit_id\nsearchsploit -m exploit_id\nThis command will copy the exploit with the ID exploit_id to the current directory"
-  },
-  {
-    "objectID": "blog/hacking.html#metasploit",
-    "href": "blog/hacking.html#metasploit",
-    "title": "My Hacking Commands",
-    "section": "metasploit",
-    "text": "metasploit\nMetasploit is a penetration testing framework that allows you to develop, test, and execute exploit code against a remote target. It provides a wide range of tools and modules for various stages of the penetration testing process.\nTo use Metasploit, you can use the following commands:\n\nmsfconsole\nThis command will start the Metasploit console\nuse exploit_name\nThis command will select the exploit module exploit_name\nset RHOST target_ip\nThis command will set the remote host IP address to target_ip\nset RPORT target_port\nThis command will set the remote host port to target_port\nset LHOST local_ip\nThis command will set the local host IP address to local_ip\nexploit\nThis command will execute the selected exploit against the target host\nrun\nThis command will run the selected exploit against the target host"
+    "text": "Brice Piaple Dada\n\n\nTechnicien en Informatique\n\n\nFinissant au DEC en informatique au Cégep de Rimouski, je possède une expérience concrète en développement logiciel et en administration de bases de données. Passionné par la programmation orientée objet (C#) et la résolution de problèmes, je suis reconnu pour mon esprit d’équipe et mon attitude positive.\n\nVoir mon Portfolio Télécharger mon CV\n\n\n\n\nMes Compétences\n\n\n\n\n\nDéveloppement, Bases de données et Infrastructure\n\n\n\n\n💻\n\n\nDéveloppement & Programmation\n\n\nC# (.NET), Python, C++, JavaScript, HTML5/CSS3.\n\n\n\n\n🗄️\n\n\nBases de données\n\n\nSQL, Elastic Search, PostgreSQL. Gestion et administration de bases de données.\n\n\n\n\n☁️\n\n\nInfrastructure & Cloud\n\n\nAzure, Windows Server, Active Directory, PowerShell, VMware.\n\n\n\n\n🚀\n\n\nDevOps & Outils\n\n\nPipelines CI/CD, Git / GitHub, VS Code.\n\n\n\n\n\nTechnologies Maîtrisées\n\n\n\n\n\nC# (.NET) Python C++ JavaScript HTML5/CSS3 SQL Elastic Search PostgreSQL Azure Windows Server Active Directory PowerShell VMware Git GitHub CI/CD\n\n\n\nEn Chiffres\n\n\n\n\n\n\n\n3+\n\n\nProjets Majeurs\n\n\n\n\n3\n\n\nAnnées d’Expérience\n\n\n\n\n15+\n\n\nTechnologies\n\n\n\n\n100%\n\n\nMotivation\n\n\n\n\n\nExplorez mon travail\n\n\n\n\n\n\n🎯 Portfolio\nDécouvrez mes projets en développement Web .NET, Infrastructure Cloud et DevOps.\nVoir mes projets →\n\n\n📄 CV\nTéléchargez mon CV pour voir mon parcours complet, mes expériences et mes projets.\nTélécharger mon CV →\n\n\n📧 Contact\nDésireux d’apprendre et de m’investir dans un environnement Agile. Contactez-moi !\nMe contacter →\n\n\n\n\n\n© 2026 Brice Piaple Dada | Technicien en Informatique"
   },
   {
     "objectID": "about.html",
@@ -173,13 +61,6 @@
     "title": "À Propos de Moi",
     "section": "🗣️ Langues",
     "text": "🗣️ Langues\n\nFrançais: Natif\nAnglais: Intermédiaire\n\n\n\n\n© 2026 Brice Piaple Dada | Tous droits réservés"
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Mon Blog\n\n\nArticles et tutoriels sur la cybersécurité\n\n\n\n\n\nArticles Récents\n\n\n\n\n\n\n🔧 My Hacking Commands\nUne collection de mes commandes favorites pour les tests d’intrusion et l’évaluation de la sécurité des applications web.\nOutils abordés:\nFFuf Wfuzz Nmap Gobuster Hydra Metasploit\nLire l’article →\n\n\n🤖 Mr. Robot Challenge\nWalkthrough complet du challenge CTF Mr. Robot. Découvrez comment trouver les flags en exploitant les vulnérabilités d’une machine virtuelle.\nTechniques utilisées:\nScan de ports Fuzzing WordPress Reverse Shell\nLire l’article →\n\n\n\n\nCatégories\n\n\n\n\n\n\n\n🛡️\n\n\nCybersécurité\n\n\nTechniques de pentesting, outils de sécurité et bonnes pratiques.\n\n\n\n\n🎯\n\n\nCTF Writeups\n\n\nSolutions détaillées de challenges Capture The Flag.\n\n\n\n\n📚\n\n\nTutoriels\n\n\nGuides pratiques pour apprendre et progresser.\n\n\n\n\n\n\n© 2026 Brice Piaple Dada | Tous droits réservés"
   },
   {
     "objectID": "contact.html",

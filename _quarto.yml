@@ -8,7 +8,7 @@ website:
   description: "Portfolio personnel de Brice Piaple Dada - Spécialiste en Cybersécurité & Administration Systèmes"
   
   navbar:
-    background: dark
+    background: primary
     search: true
     left:
       - href: index.qmd
@@ -20,14 +20,11 @@ website:
       - href: portfolio/index.qmd
         text: Portfolio
         icon: briefcase
-      - href: blog/index.qmd
-        text: Blog
-        icon: journal-text
       - href: contact.qmd
         text: Contact
         icon: envelope
     right:
-      - href: CV/Brice-Piaple-Dada-CV.pdf
+      - href: CV/CV_Brice_Piaple_Dada.pdf
         text: "📄 CV"
       - icon: github
         href: https://github.com/bpiaple
@@ -37,7 +34,7 @@ website:
         aria-label: LinkedIn
 
   page-footer:
-    background: dark
+    background: primary
     left: |
       © 2026 Brice Piaple Dada
     center: |
@@ -48,12 +45,13 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/bpiaple
       - icon: envelope
-        href: mailto:brice.piaple@email.com
+        href: mailto:brice.piaple.dada@gmail.com
 
 format:
   html:
-    theme: 
-      dark: slate
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
     language: fr
