@@ -14,11 +14,11 @@ Brice Piaple Dada
 :::
 
 ::: {.hero-subtitle}
-🔐 Spécialiste en Cybersécurité & Administration Systèmes
+Technicien en Informatique
 :::
 
 ::: {.hero-description}
-Passionné par l'informatique et l'innovation technologique depuis toujours, j'ai développé une solide expertise grâce à des formations spécialisées. Je suis motivé à mettre mes compétences au service de projets innovants, tout en veillant à l'efficacité et à la sécurité des environnements informatiques.
+Finissant au DEC en informatique au Cégep de Rimouski, je possède une expérience concrète en développement logiciel et en administration de bases de données. Passionné par la programmation orientée objet (C#) et la résolution de problèmes, je suis reconnu pour mon esprit d'équipe et mon attitude positive.
 :::
 
 [Voir mon Portfolio](/portfolio/index.qmd){.btn-custom .btn-primary-custom}
@@ -37,56 +37,56 @@ Mes Compétences
 :::
 
 ::: {.section-subtitle}
-Des compétences techniques solides au service de vos projets
+Développement, Bases de données et Infrastructure
 :::
 
 ::: {.skills-container}
 
 ::: {.skill-card}
 ::: {.skill-icon}
-🛡️
-:::
-::: {.skill-title}
-Cybersécurité
-:::
-::: {.skill-description}
-Pentesting, analyse de vulnérabilités, sécurisation des systèmes et réseaux. Maîtrise des outils comme Nmap, Metasploit, Burp Suite.
-:::
-:::
-
-::: {.skill-card}
-::: {.skill-icon}
-🖥️
-:::
-::: {.skill-title}
-Administration Systèmes
-:::
-::: {.skill-description}
-Windows Server, Linux, Active Directory, virtualisation. Gestion et maintenance des infrastructures informatiques.
-:::
-:::
-
-::: {.skill-card}
-::: {.skill-icon}
-🌐
-:::
-::: {.skill-title}
-Réseaux
-:::
-::: {.skill-description}
-Configuration et administration des réseaux TCP/IP, routage, switching, pare-feu et VPN.
-:::
-:::
-
-::: {.skill-card}
-::: {.skill-icon}
 💻
 :::
 ::: {.skill-title}
-Développement
+Développement & Programmation
 :::
 ::: {.skill-description}
-Python, Bash scripting, automatisation des tâches. Développement d'outils de sécurité personnalisés.
+C# (.NET), Python, C++, JavaScript, HTML5/CSS3.
+:::
+:::
+
+::: {.skill-card}
+::: {.skill-icon}
+🗄️
+:::
+::: {.skill-title}
+Bases de données
+:::
+::: {.skill-description}
+SQL, Elastic Search, PostgreSQL. Gestion et administration de bases de données.
+:::
+:::
+
+::: {.skill-card}
+::: {.skill-icon}
+☁️
+:::
+::: {.skill-title}
+Infrastructure & Cloud
+:::
+::: {.skill-description}
+Azure, Windows Server, Active Directory, PowerShell, VMware.
+:::
+:::
+
+::: {.skill-card}
+::: {.skill-icon}
+🚀
+:::
+::: {.skill-title}
+DevOps & Outils
+:::
+::: {.skill-description}
+Pipelines CI/CD, Git / GitHub, VS Code.
 :::
 :::
 
@@ -102,13 +102,13 @@ Technologies Maîtrisées
 :::
 
 ::: {style="text-align: center; padding: 1rem;"}
-[Linux]{.tag} [Windows Server]{.tag} [Python]{.tag} [Bash]{.tag} [Nmap]{.tag} [Metasploit]{.tag} [Wireshark]{.tag} [Burp Suite]{.tag} [Docker]{.tag} [Git]{.tag} [Active Directory]{.tag} [VMware]{.tag} [TCP/IP]{.tag} [Firewalls]{.tag} [VPN]{.tag} [SQL]{.tag}
+[C# (.NET)]{.tag} [Python]{.tag} [C++]{.tag} [JavaScript]{.tag} [HTML5/CSS3]{.tag} [SQL]{.tag} [Elastic Search]{.tag} [PostgreSQL]{.tag} [Azure]{.tag} [Windows Server]{.tag} [Active Directory]{.tag} [PowerShell]{.tag} [VMware]{.tag} [Git]{.tag} [GitHub]{.tag} [CI/CD]{.tag}
 :::
 
 ---
 
 ::: {.section-title}
-Statistiques
+En Chiffres
 :::
 
 ::: {.section-divider}
@@ -118,16 +118,16 @@ Statistiques
 
 ::: {.stat-item}
 ::: {.stat-number}
-10+
+3+
 :::
 ::: {.stat-label}
-Projets Réalisés
+Projets Majeurs
 :::
 :::
 
 ::: {.stat-item}
 ::: {.stat-number}
-3+
+3
 :::
 ::: {.stat-label}
 Années d'Expérience
@@ -139,7 +139,7 @@ Années d'Expérience
 15+
 :::
 ::: {.stat-label}
-Technologies Maîtrisées
+Technologies
 :::
 :::
 
@@ -148,7 +148,7 @@ Technologies Maîtrisées
 100%
 :::
 ::: {.stat-label}
-Passion
+Motivation
 :::
 :::
 
@@ -168,7 +168,7 @@ Explorez mon travail
 ::: {.card-custom}
 ### 🎯 Portfolio
 
-Découvrez mes projets et réalisations dans le domaine de l'informatique et de la cybersécurité.
+Découvrez mes projets en développement Web .NET, Infrastructure Cloud et DevOps.
 
 [Voir mes projets →](/portfolio/index.qmd)
 :::
@@ -176,7 +176,7 @@ Découvrez mes projets et réalisations dans le domaine de l'informatique et de 
 ::: {.card-custom}
 ### 📝 Blog
 
-Articles et tutoriels sur la cybersécurité, les commandes de hacking et les bonnes pratiques.
+Mes articles sur le hacking éthique, la cybersécurité et mes apprentissages techniques.
 
 [Lire mes articles →](/blog/index.qmd)
 :::
@@ -184,7 +184,7 @@ Articles et tutoriels sur la cybersécurité, les commandes de hacking et les bo
 ::: {.card-custom}
 ### 📧 Contact
 
-Vous avez un projet ou une question ? N'hésitez pas à me contacter pour en discuter.
+Désireux d'apprendre et de m'investir dans un environnement Agile. Contactez-moi !
 
 [Me contacter →](/contact.qmd)
 :::
@@ -195,6 +195,6 @@ Vous avez un projet ou une question ? N'hésitez pas à me contacter pour en dis
 
 ::: {.footer}
 ::: {.footer-text}
-© 2026 Brice Piaple Dada | Tous droits réservés
+© 2026 Brice Piaple Dada | Technicien en Informatique
 :::
 :::

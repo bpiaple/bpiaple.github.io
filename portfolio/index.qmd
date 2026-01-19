@@ -7,194 +7,75 @@ toc: true
 ::: {.container style="text-align: center;"}
 
 ::: {.hero-title style="font-size: 2.5rem;"}
-Mon Portfolio
+Mes Projets
 :::
 
 ::: {.hero-subtitle}
-Découvrez mes projets et réalisations
+Réalisations techniques & Projets académiques
 :::
 
 :::
 :::
 
 ---
-
-::: {.section-title}
-Projets en Cybersécurité
-:::
-
-::: {.section-divider}
-:::
 
 ::: {.portfolio-grid}
 
 ::: {.card-custom}
-### 🤖 Mr. Robot CTF
+### 🌐 Application Web Full-Stack (.NET & Razor)
 
-Challenge de cybersécurité inspiré de la série Mr. Robot. Exploitation de vulnérabilités web, WordPress et escalade de privilèges sur une machine Linux.
+Développement d'une solution web complète avec architecture client-serveur.
+Conception et développement d'une API RESTful performante en C# (.NET) et intégration d'une interface utilisateur dynamique utilisant le moteur de vues Razor.
 
-**Technologies utilisées:**
+**Points clés:**
+- Architecture client-serveur
+- API RESTful en C#
+- Gestion des appels API et structuration des données SQL
 
-[Nmap]{.tag} [Gobuster]{.tag} [Hydra]{.tag} [Metasploit]{.tag} [Linux]{.tag}
-
-[Voir le challenge →](/blog/Mr-Robot/index.qmd)
+**Technologies:**
+[C#]{.tag} [ASP.NET Core]{.tag} [Razor Pages]{.tag} [API REST]{.tag} [SQL]{.tag}
 :::
 
 ::: {.card-custom}
-### 🔍 Scripts de Reconnaissance
+### ☁️ Infrastructure Serveur & Intégration Cloud
 
-Collection de scripts personnalisés pour l'automatisation de la reconnaissance et l'énumération de cibles lors de tests d'intrusion.
+Mise en place d'environnements virtualisés sécurisés pour supporter des services multi-utilisateurs.
+Déploiement et configuration d'environnements Windows Server et automatisation via PowerShell. Intégration de services Azure pour la haute disponibilité.
 
-**Technologies utilisées:**
+**Points clés:**
+- Environnements virtualisés sécurisés
+- Automatisation PowerShell
+- Documentation technique (plans de reprise, sécurité)
 
-[Python]{.tag} [Bash]{.tag} [Nmap]{.tag} [FFuf]{.tag}
-
+**Technologies:**
+[Azure]{.tag} [Windows Server]{.tag} [Active Directory]{.tag} [PowerShell]{.tag} [VMware]{.tag}
 :::
 
 ::: {.card-custom}
-### 🛡️ Laboratoire de Sécurité
+### 🚀 Site Web personnel avec CI/CD
 
-Mise en place d'un environnement de test virtualisé pour pratiquer les techniques de pentesting en toute sécurité.
+Conception et déploiement de ce site web personnel avec un pipeline automatisé d'intégration et de déploiement continu (CI/CD).
 
-**Technologies utilisées:**
+**Points clés:**
+- Pipeline de déploiement continu
+- Site statique performant
+- Gestion de version avec Git
 
-[VMware]{.tag} [Kali Linux]{.tag} [Metasploitable]{.tag} [Docker]{.tag}
-
+**Technologies:**
+[GitHub Pages]{.tag} [GitHub Actions]{.tag} [Quarto]{.tag} [Markdown]{.tag}
 :::
 
 :::
 
 ---
 
-::: {.section-title}
-Projets d'Administration Système
-:::
+::: {.card-custom style="text-align: center; margin-top: 3rem;"}
+### Vous souhaitez en voir plus ?
 
-::: {.section-divider}
-:::
+Je suis toujours en train de travailler sur de nouveaux projets. Consultez mon GitHub pour voir mes contributions récentes.
 
-::: {.portfolio-grid}
-
-::: {.card-custom}
-### 🖥️ Infrastructure Active Directory
-
-Conception et déploiement d'une infrastructure Active Directory complète avec gestion des GPO, DHCP et DNS.
-
-**Technologies utilisées:**
-
-[Windows Server]{.tag} [Active Directory]{.tag} [GPO]{.tag} [PowerShell]{.tag}
-
-:::
-
-::: {.card-custom}
-### 📊 Monitoring & Alerting
-
-Mise en place d'une solution de surveillance des systèmes et réseaux avec alertes automatisées.
-
-**Technologies utilisées:**
-
-[Zabbix]{.tag} [Grafana]{.tag} [Linux]{.tag} [SNMP]{.tag}
-
-:::
-
-::: {.card-custom}
-### 🐳 Conteneurisation
-
-Déploiement d'applications containerisées avec Docker et orchestration pour une haute disponibilité.
-
-**Technologies utilisées:**
-
-[Docker]{.tag} [Docker Compose]{.tag} [Linux]{.tag} [Nginx]{.tag}
-
-:::
-
-:::
-
----
-
-::: {.section-title}
-Projets de Développement
-:::
-
-::: {.section-divider}
-:::
-
-::: {.portfolio-grid}
-
-::: {.card-custom}
-### 🌐 Site Portfolio Personnel
-
-Ce site web personnel que vous consultez actuellement, développé avec Quarto et hébergé sur GitHub Pages.
-
-**Technologies utilisées:**
-
-[Quarto]{.tag} [HTML/CSS]{.tag} [GitHub Pages]{.tag} [Git]{.tag}
-
-[Voir le code source →](https://github.com/bpiaple/bpiaple.github.io)
-:::
-
-::: {.card-custom}
-### 🔐 Outil d'Audit de Sécurité
-
-Script Python pour automatiser l'audit de sécurité basique d'un système Linux.
-
-**Technologies utilisées:**
-
-[Python]{.tag} [Bash]{.tag} [Linux]{.tag}
-
-:::
-
-:::
-
----
-
-::: {.section-title}
-Compétences Démontrées
-:::
-
-::: {.section-divider}
-:::
-
-::: {.stats-container}
-
-::: {.stat-item}
-::: {.stat-number}
-5+
-:::
-::: {.stat-label}
-Projets Cybersécurité
-:::
-:::
-
-::: {.stat-item}
-::: {.stat-number}
-3+
-:::
-::: {.stat-label}
-Projets Sysadmin
-:::
-:::
-
-::: {.stat-item}
-::: {.stat-number}
-2+
-:::
-::: {.stat-label}
-Projets Dev
-:::
-:::
-
-:::
-
----
-
-::: {.card-custom style="text-align: center;"}
-### Intéressé par mes projets ?
-
-N'hésitez pas à me contacter pour en savoir plus sur mes réalisations ou discuter d'une potentielle collaboration.
-
-[Me contacter →](/contact.qmd){.btn-custom .btn-primary-custom}
-[Voir mon CV](../CV/Brice-Piaple-Dada-CV.pdf){.btn-custom .btn-secondary-custom}
+[Voir mon GitHub](https://github.com/bpiaple){.btn-custom .btn-secondary-custom}
+[Me contacter](/contact.qmd){.btn-custom .btn-primary-custom}
 :::
 
 ---

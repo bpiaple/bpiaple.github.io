@@ -20,7 +20,7 @@ N'hésitez pas à me contacter pour toute question ou collaboration
 ---
 
 ::: {.section-title}
-Restons en contact
+Coordonnées
 :::
 
 ::: {.section-divider}
@@ -36,11 +36,50 @@ Restons en contact
 Email
 :::
 ::: {.skill-description}
-Pour toute demande professionnelle ou question, n'hésitez pas à m'envoyer un email.
+Pour toute demande professionnelle ou question, écrivez-moi.
 
-[Envoyer un email](mailto:brice.piaple@email.com){.btn-custom .btn-primary-custom style="display: inline-block; margin-top: 1rem;"}
+[brice.piaple.dada@gmail.com](mailto:brice.piaple.dada@gmail.com){.btn-custom .btn-primary-custom style="display: inline-block; margin-top: 1rem; font-size: 0.9rem;"}
 :::
 :::
+
+::: {.skill-card}
+::: {.skill-icon}
+📱
+:::
+::: {.skill-title}
+Téléphone
+:::
+::: {.skill-description}
+Disponible pour discuter de vive voix.
+
+**+1 (581) 246 5763**
+:::
+:::
+
+::: {.skill-card}
+::: {.skill-icon}
+📍
+:::
+::: {.skill-title}
+Localisation
+:::
+::: {.skill-description}
+Basé à **Rimouski, QC, Canada**
+:::
+:::
+
+:::
+
+---
+
+::: {.section-title}
+Réseaux Sociaux
+:::
+
+::: {.section-divider}
+:::
+
+::: {.skills-container}
 
 ::: {.skill-card}
 ::: {.skill-icon}
@@ -88,30 +127,9 @@ Vous avez un projet intéressant en cybersécurité ou en administration systèm
 :::
 
 ::: {.card-custom}
-### 💡 Conseil
-
-Besoin de conseils sur la sécurisation de vos systèmes ou la mise en place d'une infrastructure ? Je peux vous aider à trouver les solutions adaptées à vos besoins.
-:::
-
-::: {.card-custom}
 ### 🎓 Stage / Emploi
 
-Je suis à la recherche d'opportunités de stage ou d'emploi dans le domaine de l'informatique. N'hésitez pas à me contacter si vous avez une offre correspondant à mon profil.
-:::
-
----
-
-::: {.section-title}
-Liens Sociaux
-:::
-
-::: {.section-divider}
-:::
-
-::: {.social-links}
-[<i class="bi bi-github"></i>](https://github.com/bpiaple){.social-link title="GitHub"}
-[<i class="bi bi-linkedin"></i>](https://linkedin.com/in/brice-piaple-dada){.social-link title="LinkedIn"}
-[<i class="bi bi-envelope-fill"></i>](mailto:brice.piaple@email.com){.social-link title="Email"}
+Je suis à la recherche d'opportunités de carrière pour contribuer aux projets de la RAMQ ou d'autres organisations innovantes.
 :::
 
 ---

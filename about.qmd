@@ -13,7 +13,11 @@ Brice Piaple Dada
 :::
 
 ::: {.hero-subtitle}
-Spécialiste en Cybersécurité & Administration Systèmes
+Technicien en Informatique
+:::
+
+::: {style="color: var(--text-muted); max-width: 800px; margin: 0 auto;"}
+Finissant au DEC en informatique au Cégep de Rimouski, je suis passionné par le développement logiciel et l'administration de bases de données. Je cherche toujours à apprendre et à contribuer à des projets innovants, notamment dans des environnements Agile.
 :::
 
 :::
@@ -21,134 +25,135 @@ Spécialiste en Cybersécurité & Administration Systèmes
 
 ---
 
-## 👨‍💻 Qui suis-je ?
+## 💼 Expérience Professionnelle
 
-Je suis un passionné d'informatique et de technologies, spécialisé dans la **cybersécurité** et l'**administration des systèmes**. Mon parcours m'a permis de développer une expertise solide dans la protection des infrastructures informatiques et l'optimisation des environnements de travail.
+::: {.timeline}
 
-Ma curiosité naturelle et mon désir d'apprendre me poussent constamment à explorer de nouvelles technologies et à perfectionner mes compétences. Je suis particulièrement attiré par les défis techniques et la résolution de problèmes complexes.
+::: {.timeline-item}
+### CISSSBSL
+**Préposé au service alimentaire** | *Juin 2025 - Présent (Rimouski)*
 
----
+- Travail d'équipe efficace dans un environnement au rythme soutenu.
+- Respect rigoureux des procédures d'hygiène et des standards de qualité.
+:::
 
-## 🎓 Formation
+::: {.timeline-item}
+### Yoco Sarl Services
+**Développeur Logiciel** | *Jan. 2022 — Juil. 2023 (Yaoundé, Cameroun)*
 
-::: {.card-custom}
-### Études en Informatique
+- Déploiement et maintenance de solutions logicielles dans des environnements Windows Server et Linux.
+- Rédaction de documentation technique pour assurer la pérennité et la maintenance des systèmes.
+- Optimisation des performances systèmes, ayant mené à une réduction de 15 % des erreurs opérationnelles.
+:::
 
-Formation spécialisée en informatique avec un focus sur :
+::: {.timeline-item}
+### MTN Cameroun
+**Stagiaire en Développement Logiciel** | *Mars 2021 — Juin 2021 (Yaoundé, Cameroun)*
 
-- Administration des systèmes et réseaux
-- Cybersécurité et tests d'intrusion
-- Développement et scripting
-- Virtualisation et conteneurisation
+- Développement et maintenance d'applications internes et administration de bases de données.
+- Support technique aux utilisateurs avec un taux de satisfaction de 95 %.
+- Contribution à la mise en place de bonnes pratiques de sécurité.
+:::
+
 :::
 
 ---
 
-## 💼 Compétences Techniques
+## 🎓 Éducation
 
-### Systèmes d'exploitation
+::: {.timeline}
+
+::: {.timeline-item}
+### Cégep de Rimouski
+**Techniques de l'Informatique (DEC)** | *Août 2023 - Mai 2026 (fin prévue)*
+
+- **Cote R:** 30.887
+- **Points clés:** Développement en C# (.NET), architecture de bases de données, méthodologies de développement et sécurité applicative.
+:::
+
+::: {.timeline-item}
+### Institut Universitaire de Technologie de Bandjoun
+**Génie Logiciel (Baccalauréat)** | *Oct. 2020 - Juil. 2023*
+
+- **Moyenne:** 3.5 / 4
+- **Points clés:** Programme axé sur l'analyse, la conception de systèmes logiciels complexes et l'algorithmique avancée.
+:::
+
+:::
+
+---
+
+## 🛠️ Compétences
+
+### Techniques
 
 ::: {.progress-custom}
 ::: {.progress-bar-custom style="width: 90%;"}
 :::
 :::
-**Linux** (Ubuntu, Kali, Debian, CentOS) - 90%
-
-::: {.progress-custom}
-::: {.progress-bar-custom style="width: 85%;"}
-:::
-:::
-**Windows Server** (2016, 2019, 2022) - 85%
-
-### Cybersécurité
-
-::: {.progress-custom}
-::: {.progress-bar-custom style="width: 85%;"}
-:::
-:::
-**Pentesting** (Nmap, Metasploit, Burp Suite) - 85%
+**C# (.NET)** - Avancé
 
 ::: {.progress-custom}
 ::: {.progress-bar-custom style="width: 80%;"}
 :::
 :::
-**Analyse de vulnérabilités** - 80%
-
-### Réseaux
+**Python / C++** - Intermédiaire
 
 ::: {.progress-custom}
 ::: {.progress-bar-custom style="width: 85%;"}
 :::
 :::
-**TCP/IP, Routing, Switching** - 85%
+**HTML5 / CSS3 / JavaScript** - Avancé
 
-::: {.progress-custom}
-::: {.progress-bar-custom style="width: 80%;"}
-:::
-:::
-**Firewalls & VPN** - 80%
-
-### Programmation
-
-::: {.progress-custom}
-::: {.progress-bar-custom style="width: 80%;"}
-:::
-:::
-**Python** - 80%
-
-::: {.progress-custom}
-::: {.progress-bar-custom style="width: 85%;"}
-:::
-:::
-**Bash Scripting** - 85%
-
----
-
-## 🛠️ Outils & Technologies
-
-::: {style="padding: 1rem 0;"}
-[Kali Linux]{.tag} [Nmap]{.tag} [Metasploit]{.tag} [Wireshark]{.tag} [Burp Suite]{.tag} [Hydra]{.tag} [John the Ripper]{.tag} [Gobuster]{.tag} [FFuf]{.tag} [SQLmap]{.tag} [Docker]{.tag} [VMware]{.tag} [VirtualBox]{.tag} [Active Directory]{.tag} [Git]{.tag} [GitHub]{.tag} [VS Code]{.tag} [PowerShell]{.tag}
-:::
-
----
-
-## 🎯 Centres d'intérêt
+### Aptitudes Professionnelles
 
 ::: {.skills-container}
 
 ::: {.skill-card}
 ::: {.skill-icon}
-🔐
+🤝
 :::
 ::: {.skill-title}
-CTF & Challenges
+Travail d'équipe
 :::
 ::: {.skill-description}
-Participation à des compétitions de Capture The Flag pour tester et améliorer mes compétences en sécurité.
+Collaboration efficace et esprit d'équipe positif.
 :::
 :::
 
 ::: {.skill-card}
 ::: {.skill-icon}
-📚
+💡
 :::
 ::: {.skill-title}
-Veille Technologique
+Autonomie
 :::
 ::: {.skill-description}
-Suivi constant des nouvelles vulnérabilités, CVE et évolutions dans le domaine de la cybersécurité.
+Initiative et capacité à travailler de manière indépendante.
 :::
 :::
 
 ::: {.skill-card}
 ::: {.skill-icon}
-🌐
+⚖️
 :::
 ::: {.skill-title}
-Open Source
+Éthique
 :::
 ::: {.skill-description}
-Contribution et utilisation de projets open source pour la sécurité et l'administration système.
+Professionnalisme et respect des normes.
+:::
+:::
+
+::: {.skill-card}
+::: {.skill-icon}
+🏃
+:::
+::: {.skill-title}
+Agilité
+:::
+::: {.skill-description}
+Orientation résultats et adaptation rapide.
 :::
 :::
 
@@ -156,11 +161,32 @@ Contribution et utilisation de projets open source pour la sécurité et l'admin
 
 ---
 
-## 📄 Mon CV
+## 📜 Certifications
 
-Pour plus de détails sur mon parcours professionnel et académique, vous pouvez télécharger mon CV complet :
+::: {.portfolio-grid}
 
-[📥 Télécharger mon CV](CV/Brice-Piaple-Dada-CV.pdf){.btn-custom .btn-primary-custom}
+::: {.card-custom}
+### 🛡️ Ethical Hacker
+**Cisco (2024)**
+
+Renforcement des compétences en sécurité offensive pour mieux sécuriser le code et les applications.
+:::
+
+::: {.card-custom}
+### 🔒 Google Cybersecurity Certificate
+**Coursera (2023)**
+
+Acquisition de compétences en protection des données et analyse des risques.
+:::
+
+:::
+
+---
+
+## 🗣️ Langues
+
+- **Français:** Natif
+- **Anglais:** Intermédiaire
 
 ---
 
