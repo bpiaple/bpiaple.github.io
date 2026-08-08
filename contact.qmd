@@ -8,20 +8,20 @@ toc: false
 ::: {.cert-grid}
 ::: {.cert-text}
 ::: {.cert-name style="font-size: clamp(2.2rem, 4.5vw, 3.4rem);"}
-Contactez-moi
+Get in Touch
 :::
 
 ::: {.cert-role}
-Toute question ou collaboration bienvenue
+Questions and collaborations welcome
 :::
 
 ::: {.cert-desc}
-Le dossier se consulte, mais je réponds de vive voix, par courriel et sur les réseaux. Chaque contact est une nouvelle pièce au dossier.
+The file can be read, but I answer in person, by email and on social media. Every contact is a new document in the file.
 :::
 
 ::: {.cert-actions}
-[Écrire un courriel](mailto:brice.piaple.dada@gmail.com){.btn-seal}
-[Me joindre par téléphone](tel:+15812465763){.btn-ink}
+[Send an email](mailto:brice.piaple.dada@gmail.com){.btn-seal}
+[Call me](tel:+15812465763){.btn-ink}
 :::
 :::
 :::
@@ -32,21 +32,21 @@ Le dossier se consulte, mais je réponds de vive voix, par courriel et sur les r
 ::: {.piece}
 ::: {.piece-head}
 ::: {.piece-ref}
-Pièce N° 1
+Exhibit N° 1
 :::
 ::: {.piece-rule}
 :::
 :::
 
 ::: {.piece-title}
-Coordonnées
+Contact Details
 :::
 
 ::: {.contact-sheet}
 
 ::: {.contact-row}
 ::: {.field-label}
-<i class="bi bi-envelope" aria-hidden="true"></i> Courriel
+<i class="bi bi-envelope" aria-hidden="true"></i> Email
 :::
 ::: {.field-value}
 [brice.piaple.dada@gmail.com](mailto:brice.piaple.dada@gmail.com)
@@ -55,19 +55,19 @@ Coordonnées
 
 ::: {.contact-row}
 ::: {.field-label}
-<i class="bi bi-telephone" aria-hidden="true"></i> Téléphone
+<i class="bi bi-telephone" aria-hidden="true"></i> Phone
 :::
 ::: {.field-value}
-**+1 (581) 246 5763** — disponible pour discuter de vive voix.
+**+1 (581) 246 5763** — available for a call.
 :::
 :::
 
 ::: {.contact-row}
 ::: {.field-label}
-<i class="bi bi-geo-alt" aria-hidden="true"></i> Localisation
+<i class="bi bi-geo-alt" aria-hidden="true"></i> Location
 :::
 ::: {.field-value}
-Basé à **Rimouski, QC, Canada**
+Based in **Rimouski, QC, Canada**
 :::
 :::
 
@@ -79,14 +79,14 @@ Basé à **Rimouski, QC, Canada**
 ::: {.piece}
 ::: {.piece-head}
 ::: {.piece-ref}
-Pièce N° 2
+Exhibit N° 2
 :::
 ::: {.piece-rule}
 :::
 :::
 
 ::: {.piece-title}
-Réseaux Sociaux
+Social Networks
 :::
 
 ::: {.skill-grid}
@@ -99,10 +99,10 @@ GitHub
 :::
 
 ::: {.doc-body}
-Découvrez mes projets et contributions sur GitHub.
+Discover my projects and contributions on GitHub.
 :::
 
-[Mon GitHub](https://github.com/bpiaple){.doc-link}
+[My GitHub](https://github.com/bpiaple){.doc-link}
 :::
 
 :::
@@ -113,14 +113,14 @@ Découvrez mes projets et contributions sur GitHub.
 ::: {.piece}
 ::: {.piece-head}
 ::: {.piece-ref}
-Pièce N° 3
+Exhibit N° 3
 :::
 ::: {.piece-rule}
 :::
 :::
 
 ::: {.piece-title}
-Pourquoi me contacter ?
+Why Contact Me?
 :::
 
 ::: {.explore-grid}
@@ -133,7 +133,7 @@ Collaboration
 :::
 
 ::: {.doc-body}
-Vous avez un projet intéressant en cybersécurité ou en administration système ? Je suis toujours ouvert à de nouvelles collaborations et opportunités.
+Do you have an interesting project in cybersecurity or systems administration? I am always open to new collaborations and opportunities.
 :::
 :::
 
@@ -141,11 +141,11 @@ Vous avez un projet intéressant en cybersécurité ou en administration systèm
 <i class="bi bi-briefcase" aria-hidden="true"></i>
 
 ::: {.doc-title}
-Emploi
+Employment
 :::
 
 ::: {.doc-body}
-Je suis à la recherche d'opportunités de carrière en informatique : administration de systèmes, cybersécurité, développement logiciel ou tout autre projet technologique.
+I am looking for career opportunities in IT: systems administration, cybersecurity, software development or any other technology project.
 :::
 :::
 

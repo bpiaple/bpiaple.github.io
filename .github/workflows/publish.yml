@@ -18,11 +18,11 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render French site
+      - name: Render English site
         run: quarto render
 
-      - name: Render English site
-        run: quarto render en
+      - name: Render French site
+        run: quarto render fr
 
       - name: Publish
         uses: quarto-dev/quarto-actions/publish@v2

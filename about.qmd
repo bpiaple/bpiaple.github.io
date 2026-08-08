@@ -1,5 +1,5 @@
 ---
-title: "À Propos de Moi"
+title: "About Me"
 page-layout: full
 toc: false
 ---
@@ -14,16 +14,16 @@ Brice Piaple Dada
 :::
 
 ::: {.cert-role}
-Technicien en Informatique
+Computer Technician
 :::
 
 ::: {.cert-desc}
-Technicien informatique à la Ville de Rimouski et diplômé du DEC en Techniques de l'informatique, je combine support et administration (Windows Server, Active Directory, Microsoft 365) avec le développement logiciel (C#/.NET, API REST). Certifié en cybersécurité, je transforme chaque problème en solution documentée et fiable — en entreprise comme au quotidien.
+IT technician at Ville de Rimouski and graduate of the DEC in Computer Science Techniques, I combine support and administration (Windows Server, Active Directory, Microsoft 365) with software development (C#/.NET, REST APIs). Certified in cybersecurity, I turn every problem into a documented, reliable solution — at work and in everyday life.
 :::
 
 ::: {.cert-actions}
-[Télécharger mon CV (FR)](CV/Brice_Piaple_Dada_CV_Fr.pdf){.btn-seal}
-[Télécharger mon CV (EN)](CV/Brice_Piaple_Dada_CV_En.pdf){.btn-ink}
+[Download my CV (FR)](CV/Brice_Piaple_Dada_CV_Fr.pdf){.btn-seal}
+[Download my CV (EN)](CV/Brice_Piaple_Dada_CV_En.pdf){.btn-ink}
 :::
 :::
 :::
@@ -34,66 +34,66 @@ Technicien informatique à la Ville de Rimouski et diplômé du DEC en Technique
 ::: {.piece}
 ::: {.piece-head}
 ::: {.piece-ref}
-Pièce N° 1
+Exhibit N° 1
 :::
 ::: {.piece-rule}
 :::
 :::
 
 ::: {.piece-title}
-Expérience Professionnelle
+Professional Experience
 :::
 
 ::: {.timeline}
 
 ::: {.timeline-item}
 ::: {.tl-date}
-Mars 2026 — Présent · Rimouski
+March 2026 — Present · Rimouski
 :::
 ::: {.tl-org}
 Ville de Rimouski
 :::
 ::: {.tl-role}
-Technicien informatique
+IT Technician
 :::
 ::: {.tl-desc}
-- Support de premier et deuxième niveau pour les incidents liés aux postes de travail, logiciels, périphériques et réseaux.
-- Administration des identités Microsoft 365, des accès et des permissions.
-- Participation aux opérations Windows Server et Active Directory et maintenance de la documentation technique.
+- First- and second-level support for incidents related to workstations, software, peripherals and networks.
+- Administration of Microsoft 365 identities, access and permissions.
+- Involvement in Windows Server and Active Directory operations and maintenance of technical documentation.
 :::
 :::
 
 ::: {.timeline-item}
 ::: {.tl-date}
-Jan. 2022 — Juil. 2023 · Yaoundé, Cameroun
+Jan. 2022 — Jul. 2023 · Yaoundé, Cameroon
 :::
 ::: {.tl-org}
 Yoco Sarl Services
 :::
 ::: {.tl-role}
-Développeur Logiciel
+Software Developer
 :::
 ::: {.tl-desc}
-- Déploiement et maintenance de solutions logicielles dans des environnements Windows Server et Linux.
-- Rédaction de documentation technique pour assurer la pérennité et la maintenance des systèmes.
-- Optimisation des performances systèmes, ayant mené à une réduction de 15 % des erreurs opérationnelles.
+- Deployment and maintenance of software solutions in Windows Server and Linux environments.
+- Writing technical documentation to ensure system longevity and maintainability.
+- System performance optimization, leading to a 15% reduction in operational errors.
 :::
 :::
 
 ::: {.timeline-item}
 ::: {.tl-date}
-Mars 2021 — Juin 2021 · Yaoundé, Cameroun
+March 2021 — June 2021 · Yaoundé, Cameroon
 :::
 ::: {.tl-org}
-MTN Cameroun
+MTN Cameroon
 :::
 ::: {.tl-role}
-Stagiaire en Développement Logiciel
+Software Development Intern
 :::
 ::: {.tl-desc}
-- Développement et maintenance d'applications internes et administration de bases de données.
-- Support technique aux utilisateurs avec un taux de satisfaction de 95 %.
-- Contribution à la mise en place de bonnes pratiques de sécurité.
+- Development and maintenance of internal applications and database administration.
+- User technical support with a 95% satisfaction rate.
+- Contribution to the implementation of security best practices.
 :::
 :::
 
@@ -105,47 +105,47 @@ Stagiaire en Développement Logiciel
 ::: {.piece}
 ::: {.piece-head}
 ::: {.piece-ref}
-Pièce N° 2
+Exhibit N° 2
 :::
 ::: {.piece-rule}
 :::
 :::
 
 ::: {.piece-title}
-Éducation
+Education
 :::
 
 ::: {.timeline}
 
 ::: {.timeline-item}
 ::: {.tl-date}
-Août 2023 — Mai 2026 · Rimouski
+August 2023 — May 2026 · Rimouski
 :::
 ::: {.tl-org}
 Cégep de Rimouski
 :::
 ::: {.tl-role}
-Techniques de l'Informatique (DEC)
+Computer Science Techniques (DEC)
 :::
 ::: {.tl-desc}
-- **Cote R:** 30.887
-- **Points clés:** Développement en C# (.NET), architecture de bases de données, méthodologies de développement et sécurité applicative.
+- **R-score:** 30.887
+- **Highlights:** C# (.NET) development, database architecture, development methodologies and application security.
 :::
 :::
 
 ::: {.timeline-item}
 ::: {.tl-date}
-Oct. 2020 — Juil. 2023 · Bandjoun, Cameroun
+Oct. 2020 — Jul. 2023 · Bandjoun, Cameroon
 :::
 ::: {.tl-org}
-Institut Universitaire de Technologie de Bandjoun
+Bandjoun University Institute of Technology
 :::
 ::: {.tl-role}
-Génie Logiciel (Baccalauréat)
+Software Engineering (Bachelor's)
 :::
 ::: {.tl-desc}
-- **Moyenne:** 3.5 / 4
-- **Points clés:** Programme axé sur l'analyse, la conception de systèmes logiciels complexes et l'algorithmique avancée.
+- **GPA:** 3.5 / 4
+- **Highlights:** Program focused on analysis, design of complex software systems and advanced algorithms.
 :::
 :::
 
@@ -157,35 +157,35 @@ Génie Logiciel (Baccalauréat)
 ::: {.piece}
 ::: {.piece-head}
 ::: {.piece-ref}
-Pièce N° 3
+Exhibit N° 3
 :::
 ::: {.piece-rule}
 :::
 :::
 
 ::: {.piece-title}
-Compétences
+Skills
 :::
 
 ::: {.piece-sub}
-Mes compétences sont démontrées par mes projets, mes expériences et mon parcours académique.
+My skills are demonstrated by my projects, my experience and my academic background.
 :::
 
-### Techniques
+### Technical
 
 ::: {#dev}
-**Développement** : [C# (.NET)]{.tag} [Python / C++]{.tag} [HTML5 / CSS3]{.tag} [JavaScript]{.tag} [SQL]{.tag} [API REST]{.tag}
+**Development** : [C# (.NET)]{.tag} [Python / C++]{.tag} [HTML5 / CSS3]{.tag} [JavaScript]{.tag} [SQL]{.tag} [REST API]{.tag}
 :::
 
 ::: {#sysres}
-**Systèmes & Réseaux** : [Windows Server]{.tag} [Active Directory]{.tag} [Microsoft 365]{.tag} [Linux]{.tag} [DNS / DHCP]{.tag} [VMware]{.tag}
+**Systems & Networking** : [Windows Server]{.tag} [Active Directory]{.tag} [Microsoft 365]{.tag} [Linux]{.tag} [DNS / DHCP]{.tag} [VMware]{.tag}
 :::
 
 ::: {#devops}
-**Automatisation & DevOps** : [PowerShell]{.tag} [Bash]{.tag} [Git]{.tag} [GitHub Actions]{.tag} [CI/CD]{.tag} [Azure]{.tag}
+**Automation & DevOps** : [PowerShell]{.tag} [Bash]{.tag} [Git]{.tag} [GitHub Actions]{.tag} [CI/CD]{.tag} [Azure]{.tag}
 :::
 
-### Aptitudes Professionnelles
+### Professional Skills
 
 ::: {.skill-grid}
 
@@ -193,11 +193,11 @@ Mes compétences sont démontrées par mes projets, mes expériences et mon parc
 <i class="bi bi-people" aria-hidden="true"></i>
 
 ::: {.doc-title}
-Travail d'équipe
+Teamwork
 :::
 
 ::: {.doc-body}
-Collaboration efficace et esprit d'équipe positif.
+Effective collaboration and a positive team spirit.
 :::
 :::
 
@@ -205,11 +205,11 @@ Collaboration efficace et esprit d'équipe positif.
 <i class="bi bi-lightbulb" aria-hidden="true"></i>
 
 ::: {.doc-title}
-Autonomie
+Autonomy
 :::
 
 ::: {.doc-body}
-Initiative et capacité à travailler de manière indépendante.
+Initiative and the ability to work independently.
 :::
 :::
 
@@ -217,11 +217,11 @@ Initiative et capacité à travailler de manière indépendante.
 <i class="bi bi-balance-scale" aria-hidden="true"></i>
 
 ::: {.doc-title}
-Éthique
+Ethics
 :::
 
 ::: {.doc-body}
-Professionnalisme et respect des normes.
+Professionalism and respect for standards.
 :::
 :::
 
@@ -229,11 +229,11 @@ Professionnalisme et respect des normes.
 <i class="bi bi-lightning-charge" aria-hidden="true"></i>
 
 ::: {.doc-title}
-Agilité
+Agility
 :::
 
 ::: {.doc-body}
-Orientation résultats et adaptation rapide.
+Results orientation and rapid adaptation.
 :::
 :::
 
@@ -245,7 +245,7 @@ Orientation résultats et adaptation rapide.
 ::: {.piece}
 ::: {.piece-head}
 ::: {.piece-ref}
-Pièce N° 4
+Exhibit N° 4
 :::
 ::: {.piece-rule}
 :::
@@ -267,7 +267,7 @@ Ethical Hacker
 ::: {.doc-body}
 **Cisco (2024)**
 
-Renforcement des compétences en sécurité offensive pour mieux sécuriser le code et les applications.
+Strengthened offensive security skills to better secure code and applications.
 :::
 :::
 
@@ -281,7 +281,7 @@ Google Cybersecurity Certificate
 ::: {.doc-body}
 **Coursera (2023)**
 
-Acquisition de compétences en protection des données et analyse des risques.
+Gained skills in data protection and risk analysis.
 :::
 :::
 
@@ -293,14 +293,14 @@ Acquisition de compétences en protection des données et analyse des risques.
 ::: {.piece}
 ::: {.piece-head}
 ::: {.piece-ref}
-Pièce N° 5
+Exhibit N° 5
 :::
 ::: {.piece-rule}
 :::
 :::
 
 ::: {.piece-title}
-Distinctions
+Awards & Distinctions
 :::
 
 ::: {.skill-grid}
@@ -309,13 +309,13 @@ Distinctions
 <i class="bi bi-award" aria-hidden="true"></i>
 
 ::: {.doc-title}
-Bourse d'excellence
+Excellence Scholarship
 :::
 
 ::: {.doc-body}
 **Fédération des cégeps (2023 - 2026)**
 
-Distinction académique reçue pour la constance des résultats.
+Academic distinction awarded for consistent results.
 :::
 :::
 
@@ -323,13 +323,13 @@ Distinction académique reçue pour la constance des résultats.
 <i class="bi bi-star" aria-hidden="true"></i>
 
 ::: {.doc-title}
-Distinction au Gala de réussite
+Success Gala Distinction
 :::
 
 ::: {.doc-body}
-**Fondation du Cégep de Rimouski (2025)**
+**Cégep de Rimouski Foundation (2025)**
 
-Reconnaissance pour les réalisations académiques et personnelles.
+Recognition for academic and personal achievements.
 :::
 :::
 
@@ -341,33 +341,33 @@ Reconnaissance pour les réalisations académiques et personnelles.
 ::: {.piece}
 ::: {.piece-head}
 ::: {.piece-ref}
-Pièce N° 6
+Exhibit N° 6
 :::
 ::: {.piece-rule}
 :::
 :::
 
 ::: {.piece-title}
-Langues
+Languages
 :::
 
 ::: {.contact-sheet}
 
 ::: {.contact-row}
 ::: {.field-label}
-Français
+French
 :::
 ::: {.field-value}
-Natif
+Native
 :::
 :::
 
 ::: {.contact-row}
 ::: {.field-label}
-Anglais
+English
 :::
 ::: {.field-value}
-Intermédiaire
+Intermediate
 :::
 :::
 

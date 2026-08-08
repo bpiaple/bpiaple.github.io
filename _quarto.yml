@@ -17,9 +17,9 @@ website:
 
   navbar:
     left:
-      - text: Accueil
+      - text: Home
         href: index.qmd
-      - text: À Propos
+      - text: About
         href: about.qmd
       - text: Portfolio
         href: portfolio/index.qmd
@@ -27,18 +27,18 @@ website:
         href: contact.qmd
     right:
       - text: CV
-        href: CV/Brice_Piaple_Dada_CV_Fr.pdf
+        href: CV/Brice_Piaple_Dada_CV_En.pdf
       - icon: github
         href: https://github.com/bpiaple
-      - text: EN
-        href: /en/
+      - text: FR
+        href: /fr/
 
   page-footer:
     background: primary
     left: |
       © 2026 Brice Piaple Dada
     center: |
-      Fait avec <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-label="love" role="img" style="vertical-align: -2px;"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg> et [Quarto](https://quarto.org/)
+      Made with <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-label="love" role="img" style="vertical-align: -2px;"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg> and [Quarto](https://quarto.org/)
     right:
       - icon: github
         href: https://github.com/bpiaple
@@ -47,8 +47,8 @@ website:
 
 format:
   html:
-    lang: fr
-    language: fr
+    lang: en
+    language: en
     theme:
       light: [flatly, themes/dossier.scss]
       dark: [darkly, themes/dossier-dark.scss]

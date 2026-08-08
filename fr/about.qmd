@@ -1,0 +1,375 @@
+---
+title: "À Propos de Moi"
+page-layout: full
+toc: false
+---
+
+::: {.certificate}
+::: {.cert-grid}
+![](../images/profile.jpg){.cert-photo fig-alt="Brice Piaple Dada" fig-align="center"}
+
+::: {.cert-text}
+::: {.cert-name style="font-size: clamp(2.2rem, 4.5vw, 3.4rem);"}
+Brice Piaple Dada
+:::
+
+::: {.cert-role}
+Technicien en Informatique
+:::
+
+::: {.cert-desc}
+Technicien informatique à la Ville de Rimouski et diplômé du DEC en Techniques de l'informatique, je combine support et administration (Windows Server, Active Directory, Microsoft 365) avec le développement logiciel (C#/.NET, API REST). Certifié en cybersécurité, je transforme chaque problème en solution documentée et fiable — en entreprise comme au quotidien.
+:::
+
+::: {.cert-actions}
+[Télécharger mon CV (FR)](../CV/Brice_Piaple_Dada_CV_Fr.pdf){.btn-seal}
+[Télécharger mon CV (EN)](../CV/Brice_Piaple_Dada_CV_En.pdf){.btn-ink}
+:::
+:::
+:::
+:::
+
+---
+
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 1
+:::
+::: {.piece-rule}
+:::
+:::
+
+::: {.piece-title}
+Expérience Professionnelle
+:::
+
+::: {.timeline}
+
+::: {.timeline-item}
+::: {.tl-date}
+Mars 2026 — Présent · Rimouski
+:::
+::: {.tl-org}
+Ville de Rimouski
+:::
+::: {.tl-role}
+Technicien informatique
+:::
+::: {.tl-desc}
+- Support de premier et deuxième niveau pour les incidents liés aux postes de travail, logiciels, périphériques et réseaux.
+- Administration des identités Microsoft 365, des accès et des permissions.
+- Participation aux opérations Windows Server et Active Directory et maintenance de la documentation technique.
+:::
+:::
+
+::: {.timeline-item}
+::: {.tl-date}
+Jan. 2022 — Juil. 2023 · Yaoundé, Cameroun
+:::
+::: {.tl-org}
+Yoco Sarl Services
+:::
+::: {.tl-role}
+Développeur Logiciel
+:::
+::: {.tl-desc}
+- Déploiement et maintenance de solutions logicielles dans des environnements Windows Server et Linux.
+- Rédaction de documentation technique pour assurer la pérennité et la maintenance des systèmes.
+- Optimisation des performances systèmes, ayant mené à une réduction de 15 % des erreurs opérationnelles.
+:::
+:::
+
+::: {.timeline-item}
+::: {.tl-date}
+Mars 2021 — Juin 2021 · Yaoundé, Cameroun
+:::
+::: {.tl-org}
+MTN Cameroun
+:::
+::: {.tl-role}
+Stagiaire en Développement Logiciel
+:::
+::: {.tl-desc}
+- Développement et maintenance d'applications internes et administration de bases de données.
+- Support technique aux utilisateurs avec un taux de satisfaction de 95 %.
+- Contribution à la mise en place de bonnes pratiques de sécurité.
+:::
+:::
+
+:::
+:::
+
+---
+
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 2
+:::
+::: {.piece-rule}
+:::
+:::
+
+::: {.piece-title}
+Éducation
+:::
+
+::: {.timeline}
+
+::: {.timeline-item}
+::: {.tl-date}
+Août 2023 — Mai 2026 · Rimouski
+:::
+::: {.tl-org}
+Cégep de Rimouski
+:::
+::: {.tl-role}
+Techniques de l'Informatique (DEC)
+:::
+::: {.tl-desc}
+- **Cote R:** 30.887
+- **Points clés:** Développement en C# (.NET), architecture de bases de données, méthodologies de développement et sécurité applicative.
+:::
+:::
+
+::: {.timeline-item}
+::: {.tl-date}
+Oct. 2020 — Juil. 2023 · Bandjoun, Cameroun
+:::
+::: {.tl-org}
+Institut Universitaire de Technologie de Bandjoun
+:::
+::: {.tl-role}
+Génie Logiciel (Baccalauréat)
+:::
+::: {.tl-desc}
+- **Moyenne:** 3.5 / 4
+- **Points clés:** Programme axé sur l'analyse, la conception de systèmes logiciels complexes et l'algorithmique avancée.
+:::
+:::
+
+:::
+:::
+
+---
+
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 3
+:::
+::: {.piece-rule}
+:::
+:::
+
+::: {.piece-title}
+Compétences
+:::
+
+::: {.piece-sub}
+Mes compétences sont démontrées par mes projets, mes expériences et mon parcours académique.
+:::
+
+### Techniques
+
+::: {#dev}
+**Développement** : [C# (.NET)]{.tag} [Python / C++]{.tag} [HTML5 / CSS3]{.tag} [JavaScript]{.tag} [SQL]{.tag} [API REST]{.tag}
+:::
+
+::: {#sysres}
+**Systèmes & Réseaux** : [Windows Server]{.tag} [Active Directory]{.tag} [Microsoft 365]{.tag} [Linux]{.tag} [DNS / DHCP]{.tag} [VMware]{.tag}
+:::
+
+::: {#devops}
+**Automatisation & DevOps** : [PowerShell]{.tag} [Bash]{.tag} [Git]{.tag} [GitHub Actions]{.tag} [CI/CD]{.tag} [Azure]{.tag}
+:::
+
+### Aptitudes Professionnelles
+
+::: {.skill-grid}
+
+::: {.doc-card}
+<i class="bi bi-people" aria-hidden="true"></i>
+
+::: {.doc-title}
+Travail d'équipe
+:::
+
+::: {.doc-body}
+Collaboration efficace et esprit d'équipe positif.
+:::
+:::
+
+::: {.doc-card}
+<i class="bi bi-lightbulb" aria-hidden="true"></i>
+
+::: {.doc-title}
+Autonomie
+:::
+
+::: {.doc-body}
+Initiative et capacité à travailler de manière indépendante.
+:::
+:::
+
+::: {.doc-card}
+<i class="bi bi-balance-scale" aria-hidden="true"></i>
+
+::: {.doc-title}
+Éthique
+:::
+
+::: {.doc-body}
+Professionnalisme et respect des normes.
+:::
+:::
+
+::: {.doc-card}
+<i class="bi bi-lightning-charge" aria-hidden="true"></i>
+
+::: {.doc-title}
+Agilité
+:::
+
+::: {.doc-body}
+Orientation résultats et adaptation rapide.
+:::
+:::
+
+:::
+:::
+
+---
+
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 4
+:::
+::: {.piece-rule}
+:::
+:::
+
+::: {.piece-title}
+Certifications
+:::
+
+::: {.skill-grid}
+
+::: {.doc-card}
+<i class="bi bi-shield-check" aria-hidden="true"></i>
+
+::: {.doc-title}
+Ethical Hacker
+:::
+
+::: {.doc-body}
+**Cisco (2024)**
+
+Renforcement des compétences en sécurité offensive pour mieux sécuriser le code et les applications.
+:::
+:::
+
+::: {.doc-card}
+<i class="bi bi-lock" aria-hidden="true"></i>
+
+::: {.doc-title}
+Google Cybersecurity Certificate
+:::
+
+::: {.doc-body}
+**Coursera (2023)**
+
+Acquisition de compétences en protection des données et analyse des risques.
+:::
+:::
+
+:::
+:::
+
+---
+
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 5
+:::
+::: {.piece-rule}
+:::
+:::
+
+::: {.piece-title}
+Distinctions
+:::
+
+::: {.skill-grid}
+
+::: {.doc-card}
+<i class="bi bi-award" aria-hidden="true"></i>
+
+::: {.doc-title}
+Bourse d'excellence
+:::
+
+::: {.doc-body}
+**Fédération des cégeps (2023 - 2026)**
+
+Distinction académique reçue pour la constance des résultats.
+:::
+:::
+
+::: {.doc-card}
+<i class="bi bi-star" aria-hidden="true"></i>
+
+::: {.doc-title}
+Distinction au Gala de réussite
+:::
+
+::: {.doc-body}
+**Fondation du Cégep de Rimouski (2025)**
+
+Reconnaissance pour les réalisations académiques et personnelles.
+:::
+:::
+
+:::
+:::
+
+---
+
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 6
+:::
+::: {.piece-rule}
+:::
+:::
+
+::: {.piece-title}
+Langues
+:::
+
+::: {.contact-sheet}
+
+::: {.contact-row}
+::: {.field-label}
+Français
+:::
+::: {.field-value}
+Natif
+:::
+:::
+
+::: {.contact-row}
+::: {.field-label}
+Anglais
+:::
+::: {.field-value}
+Intermédiaire
+:::
+:::
+
+:::
+:::
