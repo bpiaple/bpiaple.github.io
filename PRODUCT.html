@@ -91,13 +91,17 @@ document.addEventListener("DOMContentLoaded", function () {
     if (t === "EN" || t === "FR") target = a;
   });
   if (!target) return;
-  var path = window.location.pathname.replace(/\/$/, "");
-  var inFr = path === "/fr" || path.indexOf("/fr/") === 0;
-  var stem = inFr ? path.slice(3) : path;
-  stem = stem === "" ? "/" : stem;
-  target.href = inFr
-    ? stem
-    : (stem === "/" ? "/fr/" : "/fr" + stem);
+
+  var brand = document.querySelector(".navbar-brand");
+  if (!brand) return;
+
+  var rootIdx = new URL(brand.href).pathname.replace(/index\.html$/, "");
+  var inFr = /\/fr\/$/.test(rootIdx);
+  var here = window.location.pathname.replace(/\/$/, "");
+  var rel = here.slice(rootIdx.length);
+
+  var twinDir = inFr ? rootIdx.replace(/\/fr\/$/, "/") : rootIdx + "fr/";
+  target.href = twinDir + rel + (window.location.hash || "");
 });
 </script>
 
