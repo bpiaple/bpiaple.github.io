@@ -46,10 +46,6 @@ Technicien en informatique — Ville de Rimouski
 <svg class="cert-seal" viewbox="0 0 140 140" role="img" aria-label="Sceau du dossier">
 <circle cx="70" cy="70" r="70" fill="none" stroke="currentColor" stroke-width="3.5" stroke-dasharray="0.5 6.2"></circle> <circle cx="70" cy="70" r="62" fill="none" stroke="currentColor" stroke-width="2"></circle> <circle cx="70" cy="70" r="55" fill="none" stroke="currentColor" stroke-width="1" stroke-dasharray="1 5"></circle> <circle cx="70" cy="70" r="44" fill="none" stroke="currentColor" stroke-width="1.5"></circle> <text x="70" y="66" text-anchor="middle" font-family="var(--font-display)" font-weight="900" font-size="34" fill="currentColor">BP</text> <text x="70" y="84" text-anchor="middle" font-family="var(--font-mono)" font-size="8.5" letter-spacing="2.5" fill="currentColor">2026</text>
 </svg>
-
-::: {.cert-legend}
-Dossier SCELLÉ · Rimouski, Québec — Août 2026
-:::
 :::
 :::
 
