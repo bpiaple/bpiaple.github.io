@@ -92,15 +92,13 @@ document.addEventListener("DOMContentLoaded", function () {
     if (t === "EN" || t === "FR") target = a;
   });
   if (!target) return;
-  var goEn = target.textContent.trim() === "EN";
   var path = window.location.pathname.replace(/\/$/, "");
-  var enIdx = path.lastIndexOf("/en");
-  var inEn = enIdx >= 0 && path.length === enIdx + 3;
-  var stem = inEn ? path.slice(0, enIdx) + path.slice(enIdx + 3) : path;
+  var inFr = path === "/fr" || path.indexOf("/fr/") === 0;
+  var stem = inFr ? path.slice(3) : path;
   stem = stem === "" ? "/" : stem;
-  target.href = goEn
-    ? (inEn ? stem : (stem === "/" ? "/en/" : "/en" + stem))
-    : (inEn ? stem : stem);
+  target.href = inFr
+    ? stem
+    : (stem === "/" ? "/fr/" : "/fr" + stem);
 });
 </script>
 
