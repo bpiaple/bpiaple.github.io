@@ -22,7 +22,8 @@ Finissant au DEC en informatique au Cégep de Rimouski, je possède une expérie
 :::
 
 [Voir mon Portfolio](/portfolio/index.qmd){.btn-custom .btn-primary-custom}
-[Télécharger mon CV](CV/CV_Brice_Piaple_Dada.pdf){.btn-custom .btn-secondary-custom}
+[Télécharger mon CV (FR)](CV/CV_Brice_Piaple_Dada.pdf){.btn-custom .btn-secondary-custom}
+[Télécharger mon CV (EN)](CV/CV_Brice_Piaple_Dada_EN.pdf){.btn-custom .btn-secondary-custom}
 
 :::
 :::
@@ -178,7 +179,8 @@ Découvrez mes projets en développement Web .NET, Infrastructure Cloud et DevOp
 
 Téléchargez mon CV pour voir mon parcours complet, mes expériences et mes projets.
 
-[Télécharger mon CV →](CV/CV_Brice_Piaple_Dada.pdf)
+[Télécharger mon CV (FR) →](CV/CV_Brice_Piaple_Dada.pdf)
+[Télécharger mon CV (EN) →](CV/CV_Brice_Piaple_Dada_EN.pdf)
 :::
 
 ::: {.card-custom}

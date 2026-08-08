@@ -1,0 +1,193 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Brice Piaple Dada
+  headline: Technicien en informatique et développeur logiciel
+  location: Rimouski, Quebec, Canada
+  email: brice.piaple.dada@gmail.com
+  photo:
+  phone: "+15812465763"
+  website: https://bpiaple.github.io
+  custom_connections:
+  sections:
+    Profil:
+      - Professionnel de l'informatique, finissant au DEC en Techniques de l'informatique en mai 2026, avec une expérience concrète en développement logiciel, en administration de systèmes et en soutien informatique. Compétences en C#/.NET, SQL, API REST, Windows Server, Active Directory, Microsoft 365 et Linux. Reconnu pour la qualité de sa documentation technique, sa capacité d'analyse et sa collaboration fiable dans des environnements au rythme soutenu.
+    Expérience professionnelle:
+      - company: Ville de Rimouski
+        position: Technicien informatique
+        date:
+        start_date: 2026-03
+        end_date: present
+        location: Rimouski, Quebec
+        summary:
+        highlights:
+          - Fournir un support de premier et deuxième niveau pour les incidents liés aux postes de travail, logiciels, périphériques et réseaux.
+          - Configurer et maintenir les postes de travail, les appareils partagés et les environnements logiciels en environnement Windows.
+          - Administrer les identités Microsoft 365, les accès et les changements de permissions conformément aux politiques.
+          - Participer aux opérations Windows Server et Active Directory et maintenir la documentation technique.
+          - Contribuer à l'amélioration de la qualité du service grâce à des notes de dépannage claires et un suivi des processus.
+      - company: CISSSBSL
+        position: Préposé au service alimentaire
+        date:
+        start_date: 2025-06
+        end_date: 2026-06
+        location: Rimouski, Quebec
+        summary:
+        highlights:
+          - Offrir un service à la clientèle fiable dans un environnement à volume élevé.
+          - Respecter les procédures documentées et les exigences de qualité.
+          - Coordonner les opérations quotidiennes avec des équipes multifonctionnelles.
+      - company: Yoco Sarl Services
+        position: Développeur logiciel et administrateur système
+        date:
+        start_date: 2022-01
+        end_date: 2023-07
+        location: Yaoundé, Cameroun
+        summary:
+        highlights:
+          - Déployer et maintenir des solutions logicielles dans des environnements Windows Server et Linux.
+          - Optimiser les performances des systèmes, réduisant les erreurs opérationnelles de 15 %.
+          - Automatiser les tâches administratives récurrentes et les routines de sauvegarde.
+          - Rédiger la documentation technique pour le dépannage et le transfert de connaissances.
+      - company: MTN Cameroun
+        position: Stagiaire en développement et support
+        date:
+        start_date: 2021-03
+        end_date: 2021-06
+        location: Yaoundé, Cameroun
+        summary:
+        highlights:
+          - Développer et maintenir des applications internes et contribuer à l'administration de bases de données.
+          - Assurer le support technique aux utilisateurs finaux avec un taux de satisfaction d'environ 95 %.
+          - Soutenir l'application des bonnes pratiques de sécurité et des procédures internes.
+    Projets techniques:
+      - name: Application Web Full Stack et API REST
+        date:
+        start_date:
+        end_date:
+        location:
+        summary: Solution client-serveur complète avec C#/.NET, SQL et documentation opérationnelle.
+        highlights:
+          - Implémenter des services API REST et la logique applicative en C# et .NET.
+          - Gérer les requêtes SQL et les opérations de données.
+          - Développer une interface utilisateur dynamique et documenter les procédures de déploiement et de support.
+      - name: Infrastructure serveur et intégration cloud
+        date:
+        start_date:
+        end_date:
+        location:
+        summary: Conception et documentation d'une infrastructure multi-utilisateurs sécurisée répondant aux besoins d'entreprise.
+        highlights:
+          - Déployer des environnements Windows Server et Linux en virtualisation pour des scénarios de services multi-utilisateurs.
+          - Implémenter des domaines Active Directory, groupes, permissions et contrôles d'accès de base.
+          - Configurer les services DNS et DHCP et automatiser la maintenance avec PowerShell.
+          - Rédiger des procédures de sauvegarde, de reprise et de sécurité.
+      - name: Site Web personnel avec CI/CD
+        date:
+        start_date:
+        end_date:
+        location:
+        summary: Site public avec workflows automatisés de validation et de déploiement.
+        highlights:
+          - Utiliser GitHub Actions pour automatiser les vérifications et la publication.
+          - Gérer le contenu et les versions avec GitHub Pages, Markdown et Quarto.
+    Formation:
+      - institution: Cégep de Rimouski
+        area: Techniques de l'informatique
+        degree: Diplôme d'études collégiales (DEC)
+        date:
+        start_date: 2023-08
+        end_date: 2026-05
+        location: Rimouski, Quebec
+        summary:
+        highlights:
+          - Administration de réseaux et de serveurs Windows, notamment Active Directory, DNS et DHCP.
+          - Développement d'applications et de services Web avec C#, .NET, HTML, CSS, JavaScript et SQL.
+          - Cybersécurité, déploiement d'infrastructures et pratiques de dépannage.
+          - Notions de développement mobile avec Flutter et Dart.
+      - institution: Institut Universitaire de Technologie de Bandjoun
+        area: Génie logiciel
+        degree: Baccalauréat en informatique
+        date:
+        start_date: 2020-11
+        end_date: 2023-06
+        location: Bandjoun, Cameroun
+        summary:
+        highlights:
+          - Conception de logiciels, analyse de systèmes d'information et fondements des bases de données.
+          - Conception d'algorithmes, structures de données et développement d'applications.
+    Certifications:
+      - name: Google Cybersecurity Certificate
+        date: 2023
+        start_date:
+        end_date:
+        location: Coursera
+        summary: Protection des données, analyse des risques et fondements de la sécurité.
+        highlights:
+      - name: Ethical Hacker
+        date: 2024
+        start_date:
+        end_date:
+        location: Cisco
+        summary: Techniques de sécurité offensive et pratiques de contrôle défensif.
+        highlights:
+    Distinctions:
+      - name: Bourse d'excellence
+        date: 2023 - 2026
+        start_date:
+        end_date:
+        location: Fédération des cégeps
+        summary: Distinction académique reçue pour la constance des résultats.
+        highlights:
+      - name: Distinction au Gala de réussite
+        date: 2025
+        start_date:
+        end_date:
+        location: Fondation du Cégep de Rimouski
+        summary: Reconnaissance pour les réalisations académiques et personnelles.
+        highlights:
+    Compétences techniques:
+      - label: Développement
+        details: C# et .NET, JavaScript, HTML/CSS, Python, SQL, Flutter et Dart, Git et GitHub
+      - label: Systèmes et infrastructure
+        details: Windows Server, Active Directory, Microsoft 365, Linux, DNS, DHCP, virtualisation (VMware)
+      - label: Réseautique et sécurité
+        details: TCP/IP, dépannage LAN, notions de pare-feu et de contrôle d'accès, sauvegarde et reprise, correctifs
+      - label: Automatisation et DevOps
+        details: PowerShell, bash, GitHub Actions, CI/CD, GitHub Pages, Quarto
+      - label: Bases de données
+        details: SQL, PostgreSQL, optimisation de requêtes, modélisation, sauvegarde et reprise
+      - label: Soutien opérationnel
+        details: Support de niveau 1 et 2, dépannage à distance, documentation des incidents, inventaire du parc informatique
+    Informations complémentaires:
+      - label: Disponibilité
+        details: Ouvert aux postes à distance, hybrides ou sur site et disponible pour la relocalisation.
+    Langues:
+      - label: Français
+        details: Natif
+      - label: Anglais
+        details: Maîtrise professionnelle (écrit et parlé)
+
+design:
+  theme: ember
+  page:
+    show_top_note: false
+locale:
+  language: french
+settings:
+  current_date: today
+  render_command:
+    output_folder: rendercv_output_fr
+    design:
+    locale:
+    typst_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV_Fr.pdf
+    markdown_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.md
+    html_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.html
+    png_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []
+  pdf_title: Brice Piaple Dada - CV

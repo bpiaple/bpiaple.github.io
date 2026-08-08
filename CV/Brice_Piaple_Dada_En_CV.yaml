@@ -1,0 +1,193 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Brice Piaple Dada
+  headline: IT Technician and Software Developer
+  location: Rimouski, Quebec, Canada
+  email: brice.piaple.dada@gmail.com
+  photo:
+  phone: "+15812465763"
+  website: https://bpiaple.github.io
+  custom_connections:
+  sections:
+    summary:
+      - IT professional completing a DEC in Computer Technology in May 2026, with hands-on experience in software development, systems administration, and IT support. Skilled in C#/.NET, SQL, REST APIs, Windows Server, Active Directory, Microsoft 365, and Linux. Known for clear technical documentation, analytical problem-solving, and reliable collaboration in fast-paced environments.
+    experience:
+      - company: Ville de Rimouski
+        position: IT Technician
+        date:
+        start_date: 2026-03
+        end_date: present
+        location: Rimouski, Quebec
+        summary:
+        highlights:
+          - Provide level 1 and level 2 support for desktop, software, network, and peripheral incidents across municipal teams.
+          - Configure and maintain workstations, shared devices, and software environments in a Windows-based environment.
+          - Administer Microsoft 365 identities, access rights, and permission changes aligned with policy.
+          - Support Windows Server and Active Directory operations and maintain technical documentation.
+          - Contribute to service quality improvements through clear troubleshooting notes and process follow-up.
+      - company: CISSSBSL
+        position: Food Service Attendant
+        date:
+        start_date: 2025-06
+        end_date: 2026-06
+        location: Rimouski, Quebec
+        summary:
+        highlights:
+          - Provide reliable client-facing service in a high-volume environment.
+          - Follow documented procedures and quality requirements.
+          - Coordinate daily operations with cross-functional teams.
+      - company: Yoco Sarl Services
+        position: Software Developer and Systems Administrator
+        date:
+        start_date: 2022-01
+        end_date: 2023-07
+        location: Yaounde, Cameroon
+        summary:
+        highlights:
+          - Deployed and maintained software solutions in Windows Server and Linux environments.
+          - Optimized system performance, reducing operational errors by 15%.
+          - Automated recurring administrative tasks and backup routines.
+          - Produced technical documentation for troubleshooting and handoff.
+      - company: MTN Cameroon
+        position: Development and Support Intern
+        date:
+        start_date: 2021-03
+        end_date: 2021-06
+        location: Yaounde, Cameroon
+        summary:
+        highlights:
+          - Developed and maintained internal applications and supported database administration.
+          - Delivered end-user technical support with about 95% satisfaction.
+          - Supported the application of security best practices and internal procedures.
+    projects:
+      - name: Full-Stack Web Application and API
+        date:
+        start_date:
+        end_date:
+        location:
+        summary: Built a client-server solution with C#/.NET, SQL, and operational documentation.
+        highlights:
+          - Implemented REST API services and application logic in C# and .NET.
+          - Managed SQL queries and data operations.
+          - Developed a dynamic user interface and documented deployment and support procedures.
+      - name: Infrastructure Server and Cloud Integration
+        date:
+        start_date:
+        end_date:
+        location:
+        summary: Designed and documented a secure multi-user infrastructure aligned with enterprise support needs.
+        highlights:
+          - Deployed Windows Server and Linux environments in virtualization for multi-user service scenarios.
+          - Implemented Active Directory domains, groups, permissions, and baseline access controls.
+          - Configured DNS and DHCP services and automated maintenance with PowerShell.
+          - Authored backup and recovery runbooks and security procedures.
+      - name: Personal Website with CI/CD
+        date:
+        start_date:
+        end_date:
+        location:
+        summary: Maintained a public website with automated validation and deployment workflows.
+        highlights:
+          - Used GitHub Actions to automate checks and publishing.
+          - Managed content and releases with GitHub Pages, Markdown, and Quarto.
+    education:
+      - institution: Cegep de Rimouski
+        area: Computer Technology
+        degree: Diploma of College Studies (DEC)
+        date:
+        start_date: 2023-08
+        end_date: 2026-05
+        location: Rimouski, Quebec
+        summary:
+        highlights:
+          - Systems and network administration with Windows Server, Active Directory, DNS, and DHCP.
+          - Software and web development with C#, .NET, HTML, CSS, JavaScript, and SQL.
+          - Cybersecurity, infrastructure deployment, and troubleshooting practices.
+          - Mobile development fundamentals with Flutter and Dart.
+      - institution: Institut Universitaire de Technologie de Bandjoun
+        area: Software Engineering
+        degree: Bachelor of Computer Science
+        date:
+        start_date: 2020-11
+        end_date: 2023-06
+        location: Bandjoun, Cameroon
+        summary:
+        highlights:
+          - Software design, information systems analysis, and database fundamentals.
+          - Algorithm design, data structures, and application development.
+    certifications:
+      - name: Google Cybersecurity Certificate
+        date: 2023
+        start_date:
+        end_date:
+        location: Coursera
+        summary: Data protection, risk analysis, and security foundations.
+        highlights:
+      - name: Ethical Hacker
+        date: 2024
+        start_date:
+        end_date:
+        location: Cisco
+        summary: Offensive security techniques and defensive control practices.
+        highlights:
+    distinctions:
+      - name: Excellence Scholarship
+        date: 2023 - 2026
+        start_date:
+        end_date:
+        location: Federation des cegeps
+        summary: Academic distinction awarded for sustained high performance.
+        highlights:
+      - name: Gala Achievement Distinction
+        date: 2025
+        start_date:
+        end_date:
+        location: Fondation du Cegep de Rimouski
+        summary: Recognition for outstanding academic and personal achievement.
+        highlights:
+    technical_skills:
+      - label: Development
+        details: C# and .NET, JavaScript, HTML/CSS, Python, SQL, Flutter and Dart, Git and GitHub
+      - label: Systems and Infrastructure
+        details: Windows Server, Active Directory, Microsoft 365, Linux, DNS, DHCP, virtualization (VMware)
+      - label: Network and Security
+        details: TCP/IP, LAN troubleshooting, firewall and access control concepts, backup and recovery, patching
+      - label: Automation and DevOps
+        details: PowerShell, bash, GitHub Actions, CI/CD, GitHub Pages, Quarto
+      - label: Databases
+        details: SQL, PostgreSQL, query troubleshooting, data modeling, backup and recovery
+      - label: Support Operations
+        details: L1 and L2 support, remote troubleshooting, incident documentation, IT asset inventory
+    additional_information:
+      - label: Availability
+        details: Open to remote, hybrid, or on-site roles and available for relocation.
+    languages:
+      - label: French
+        details: Native
+      - label: English
+        details: Professional working proficiency
+
+design:
+  theme: ember
+  page:
+    show_top_note: false
+locale:
+  language: english
+settings:
+  current_date: today
+  render_command:
+    output_folder: rendercv_output_en
+    design:
+    locale:
+    typst_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV_En.pdf
+    markdown_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.md
+    html_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.html
+    png_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []
+  pdf_title: Brice Piaple Dada - CV

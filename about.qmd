@@ -17,8 +17,11 @@ Technicien en Informatique
 :::
 
 ::: {style="color: var(--text-muted); max-width: 800px; margin: 0 auto;"}
-Finissant au DEC en informatique au Cégep de Rimouski, je suis passionné par le développement logiciel et l'administration de bases de données. Je cherche toujours à apprendre et à contribuer à des projets innovants, notamment dans des environnements Agile.
+Finissant au DEC en informatique au Cégep de Rimouski, je suis passionné par le développement logiciel et l'administration de systèmes et de bases de données. Je cherche toujours à apprendre et à contribuer à des projets innovants, notamment dans des environnements Agile.
 :::
+
+[Télécharger mon CV (FR)](CV/CV_Brice_Piaple_Dada.pdf){.btn-custom .btn-primary-custom}
+[Télécharger mon CV (EN)](CV/CV_Brice_Piaple_Dada_EN.pdf){.btn-custom .btn-secondary-custom}
 
 :::
 :::
@@ -28,6 +31,15 @@ Finissant au DEC en informatique au Cégep de Rimouski, je suis passionné par l
 ## 💼 Expérience Professionnelle
 
 ::: {.timeline}
+
+::: {.timeline-item}
+### Ville de Rimouski
+**Technicien informatique** | *Mars 2026 - Présent (Rimouski)*
+
+- Support de premier et deuxième niveau pour les incidents liés aux postes de travail, logiciels, périphériques et réseaux.
+- Administration des identités Microsoft 365, des accès et des permissions.
+- Participation aux opérations Windows Server et Active Directory et maintenance de la documentation technique.
+:::
 
 ::: {.timeline-item}
 ### CISSSBSL
@@ -177,6 +189,28 @@ Renforcement des compétences en sécurité offensive pour mieux sécuriser le c
 **Coursera (2023)**
 
 Acquisition de compétences en protection des données et analyse des risques.
+:::
+
+:::
+
+---
+
+## 🏆 Distinctions
+
+::: {.portfolio-grid}
+
+::: {.card-custom}
+### 🎓 Bourse d'excellence
+**Fédération des cégeps (2023 - 2026)**
+
+Distinction académique reçue pour la constance des résultats.
+:::
+
+::: {.card-custom}
+### 🌟 Distinction au Gala de réussite
+**Fondation du Cégep de Rimouski (2025)**
+
+Reconnaissance pour les réalisations académiques et personnelles.
 :::
 
 :::
