@@ -18,7 +18,7 @@ Technicien en Informatique
 :::
 
 ::: {.cert-desc}
-Finissant au DEC en informatique au Cégep de Rimouski, je suis passionné par le développement logiciel et l'administration de systèmes et de bases de données. Je cherche toujours à apprendre et à contribuer à des projets innovants, notamment dans des environnements Agile.
+Technicien informatique à la Ville de Rimouski et diplômé du DEC en Techniques de l'informatique, je combine support et administration (Windows Server, Active Directory, Microsoft 365) avec le développement logiciel (C#/.NET, API REST). Certifié en cybersécurité, je transforme chaque problème en solution documentée et fiable — en entreprise comme au quotidien.
 :::
 
 ::: {.cert-actions}

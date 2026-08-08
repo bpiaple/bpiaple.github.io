@@ -18,7 +18,7 @@ Technicien en Informatique
 :::
 
 ::: {.cert-desc}
-Finissant au DEC en informatique au Cégep de Rimouski, je possède une expérience concrète en développement logiciel et en administration de bases de données. Passionné par la programmation orientée objet (C#) et la résolution de problèmes, je suis reconnu pour mon esprit d'équipe et mon attitude positive.
+Diplômé du DEC en informatique au Cégep de Rimouski, je possède une expérience concrète en développement logiciel et en administration de bases de données. Passionné par la programmation orientée objet (C#) et la résolution de problèmes, je suis reconnu pour mon esprit d'équipe et mon attitude positive.
 :::
 
 ::: {.cert-actions}
