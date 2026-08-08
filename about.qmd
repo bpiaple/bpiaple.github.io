@@ -1,15 +1,10 @@
 ---
 title: "À Propos de Moi"
+page-layout: full
 toc: false
 ---
 
 ::: {.certificate}
-::: {.cert-header}
-::: {.cert-monogram}
-BP
-:::
-:::
-
 ::: {.cert-grid}
 ![](images/profile.jpg){.cert-photo fig-alt="Brice Piaple Dada" fig-align="center"}
 

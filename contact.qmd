@@ -1,15 +1,10 @@
 ---
 title: "Contact"
+page-layout: full
 toc: false
 ---
 
 ::: {.certificate}
-::: {.cert-header}
-::: {.cert-monogram}
-BP
-:::
-:::
-
 ::: {.cert-grid}
 ::: {.cert-text}
 ::: {.cert-name style="font-size: clamp(2.2rem, 4.5vw, 3.4rem);"}
