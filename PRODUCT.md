@@ -12,7 +12,7 @@ Recruteurs et employeurs TI au Québec (prioritairement), naviguant le portfolio
 
 ## Product Purpose
 
-Portfolio personnel qui présente le profil, les compétences, les expériences, les certifications, les projets et les CV de Brice Piaple Dada. Le succès = décrocher des entrevues et des opportunités (emploi/stage) comme technicien informatique.
+Portfolio personnel qui présente le profil, les compétences, les expériences, les certifications, les projets et les CV de Brice Piaple Dada. Le succès = décrocher des entrevues et des opportunités (emploi) comme technicien informatique.
 
 ## Positioning
 
@@ -21,21 +21,21 @@ Positionnement confirmé : **technicien informatique généraliste** — profil 
 ## Operating Context
 
 - Marché de l'emploi TI québécois, visiteur francophone, souvent sur mobile.
-- Évaluation rapide de crédibilité : CV téléchargeables (FR + EN), liens LinkedIn/GitHub, coordonnées directes (email, téléphone, localisation Rimouski).
+- Évaluation rapide de crédibilité : CV téléchargeables (FR + EN), lien GitHub, coordonnées directes (email, téléphone, localisation Rimouski).
 - Hébergement GitHub Pages avec déploiement CI/CD via GitHub Actions.
 
 ## Capabilities and Constraints
 
 - Site statique Quarto (HTML/CSS), déployé sur GitHub Pages via `.github/workflows/publish.yml`.
 - Surfaces actuelles : Accueil, À Propos, Portfolio, Contact. Navbar avec recherche, thème clair/sombre (flatly/darkly), TOC.
-- Contenu factuel à préserver tel quel : expériences (Ville de Rimouski, CISSSBSL, Yoco Sarl, MTN Cameroun), éducation (DEC Cégep de Rimouski, Cote R 30.887), certifications (Cisco Ethical Hacker 2024, Google Cybersecurity 2023), distinctions, langues, coordonnées, CVs FR/EN.
+- Contenu factuel à préserver tel quel : expériences (Ville de Rimouski, Yoco Sarl, MTN Cameroun), éducation (DEC Cégep de Rimouski, Cote R 30.887), certifications (Cisco Ethical Hacker 2024, Google Cybersecurity 2023), distinctions, langues, coordonnées, CVs FR/EN.
 - **Décision ouverte :** la description meta du site indique « Spécialiste en Cybersécurité & Administration Systèmes », en contradiction avec le positionnement généraliste confirmé — à réconcilier lors du rafraîchissement.
 - **Décision ouverte :** rafraîchissement complet du design du site demandé (détails visuels traités dans new-work, pas ici).
 - Aucune fabrication de contenu : pas de témoignages, clients, benchmarks ou statistiques inventés.
 
 ## Brand Commitments
 
-Identité personnelle réelle : nom, photo (images/profile.jpg), présence GitHub (bpiaple) et LinkedIn (in/bpiaple), email brice.piaple.dada@gmail.com, téléphone +1 (581) 246 5763, CVs aux chemins CV/CV_Brice_Piaple_Dada.pdf (FR) et CV/CV_Brice_Piaple_Dada_EN.pdf (EN). Langue de contenu : français.
+Identité personnelle réelle : nom, photo (images/profile.jpg), présence GitHub (bpiaple), email brice.piaple.dada@gmail.com, téléphone +1 (581) 246 5763, CVs aux chemins CV/CV_Brice_Piaple_Dada.pdf (FR) et CV/CV_Brice_Piaple_Dada_EN.pdf (EN). Langue de contenu : français.
 
 ## Evidence on Hand
 

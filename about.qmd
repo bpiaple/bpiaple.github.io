@@ -75,22 +75,6 @@ Technicien informatique
 
 ::: {.timeline-item}
 ::: {.tl-date}
-Juin 2025 — Présent · Rimouski
-:::
-::: {.tl-org}
-CISSSBSL
-:::
-::: {.tl-role}
-Préposé au service alimentaire
-:::
-::: {.tl-desc}
-- Travail d'équipe efficace dans un environnement au rythme soutenu.
-- Respect rigoureux des procédures d'hygiène et des standards de qualité.
-:::
-:::
-
-::: {.timeline-item}
-::: {.tl-date}
 Jan. 2022 — Juil. 2023 · Yaoundé, Cameroun
 :::
 ::: {.tl-org}

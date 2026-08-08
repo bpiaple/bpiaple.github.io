@@ -25,17 +25,6 @@ cv:
           - Administrer les identités Microsoft 365, les accès et les changements de permissions conformément aux politiques.
           - Participer aux opérations Windows Server et Active Directory et maintenir la documentation technique.
           - Contribuer à l'amélioration de la qualité du service grâce à des notes de dépannage claires et un suivi des processus.
-      - company: CISSSBSL
-        position: Préposé au service alimentaire
-        date:
-        start_date: 2025-06
-        end_date: 2026-06
-        location: Rimouski, Quebec
-        summary:
-        highlights:
-          - Offrir un service à la clientèle fiable dans un environnement à volume élevé.
-          - Respecter les procédures documentées et les exigences de qualité.
-          - Coordonner les opérations quotidiennes avec des équipes multifonctionnelles.
       - company: Yoco Sarl Services
         position: Développeur logiciel et administrateur système
         date:

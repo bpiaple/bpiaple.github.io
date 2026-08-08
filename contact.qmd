@@ -102,20 +102,6 @@ Réseaux Sociaux
 ::: {.skill-grid}
 
 ::: {.doc-card}
-<i class="bi bi-linkedin" aria-hidden="true"></i>
-
-::: {.doc-title}
-LinkedIn
-:::
-
-::: {.doc-body}
-Connectez-vous avec moi sur LinkedIn pour suivre mon parcours professionnel.
-:::
-
-[Mon profil LinkedIn](https://www.linkedin.com/in/bpiaple){.doc-link}
-:::
-
-::: {.doc-card}
 <i class="bi bi-github" aria-hidden="true"></i>
 
 ::: {.doc-title}
@@ -165,7 +151,7 @@ Vous avez un projet intéressant en cybersécurité ou en administration systèm
 <i class="bi bi-briefcase" aria-hidden="true"></i>
 
 ::: {.doc-title}
-Stage / Emploi
+Emploi
 :::
 
 ::: {.doc-body}

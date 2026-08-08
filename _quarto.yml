@@ -29,9 +29,6 @@ website:
       - icon: github
         href: https://github.com/bpiaple
         aria-label: GitHub
-      - icon: linkedin
-        href: https://www.linkedin.com/in/bpiaple
-        aria-label: LinkedIn
 
   page-footer:
     background: primary
@@ -42,8 +39,6 @@ website:
     right:
       - icon: github
         href: https://github.com/bpiaple
-      - icon: linkedin
-        href: https://www.linkedin.com/in/bpiaple
       - icon: envelope
         href: mailto:brice.piaple.dada@gmail.com
 

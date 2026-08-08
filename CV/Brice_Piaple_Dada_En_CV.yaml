@@ -25,17 +25,6 @@ cv:
           - Administer Microsoft 365 identities, access rights, and permission changes aligned with policy.
           - Support Windows Server and Active Directory operations and maintain technical documentation.
           - Contribute to service quality improvements through clear troubleshooting notes and process follow-up.
-      - company: CISSSBSL
-        position: Food Service Attendant
-        date:
-        start_date: 2025-06
-        end_date: 2026-06
-        location: Rimouski, Quebec
-        summary:
-        highlights:
-          - Provide reliable client-facing service in a high-volume environment.
-          - Follow documented procedures and quality requirements.
-          - Coordinate daily operations with cross-functional teams.
       - company: Yoco Sarl Services
         position: Software Developer and Systems Administrator
         date:

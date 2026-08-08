@@ -1,6 +1,6 @@
 ---
 name: Dossier de Qualifications — Brice Piaple Dada
-description: Portfolio personnel comme dossier officiel de qualifications : certificats, sceaux, parchemin et lettrage gravé.
+description: "Portfolio personnel comme dossier officiel de qualifications : certificats, sceaux, parchemin et lettrage gravé."
 colors:
   paper: "#f5f1e6"
   paper-raised: "#faf7ee"
