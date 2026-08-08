@@ -1,87 +1,144 @@
 ---
 title: "Portfolio"
-toc: true
+toc: false
 ---
 
-::: {.hero-section style="min-height: 30vh;"}
-::: {.container style="text-align: center;"}
+::: {.certificate}
+::: {.cert-header}
+::: {.cert-ref}
+Dossier N° BP-2026-001 · Annexes
+Établi à Rimouski · Québec — Août 2026
+:::
 
-::: {.hero-title style="font-size: 2.5rem;"}
+::: {.cert-monogram}
+BP
+:::
+:::
+
+::: {.cert-grid}
+::: {.cert-text}
+::: {.cert-name style="font-size: clamp(2.2rem, 4.5vw, 3.4rem);"}
 Mes Projets
 :::
 
-::: {.hero-subtitle}
-Réalisations techniques & Projets académiques
+::: {.cert-role}
+Réalisations techniques & projets académiques
 :::
 
+::: {.cert-desc}
+Le catalogue des pièces livrées : applications web, infrastructures et automatisations — avec les technologies attestées pour chacune.
+:::
+
+::: {.cert-actions}
+[Voir mon GitHub](https://github.com/bpiaple){.btn-seal}
+[Me contacter](/contact.qmd){.btn-ink}
+:::
+:::
 :::
 :::
 
 ---
 
-::: {.portfolio-grid}
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 1
+:::
+::: {.piece-rule}
+:::
+:::
 
-::: {.card-custom}
-### 🌐 Application Web Full-Stack (.NET & Razor)
+::: {.piece-title}
+Catalogue des Réalisations
+:::
 
-Développement d'une solution web complète avec architecture client-serveur.
-Conception et développement d'une API RESTful performante en C# (.NET) et intégration d'une interface utilisateur dynamique utilisant le moteur de vues Razor.
+::: {.project-card}
+<i class="bi bi-globe" aria-hidden="true" style="font-size: 1.4rem; color: var(--seal);"></i>
 
-**Points clés:**
+::: {.doc-title}
+Application Web Full-Stack (.NET & Razor)
+:::
+
+::: {.doc-body}
+Développement d'une solution web complète avec architecture client-serveur. Conception et développement d'une API RESTful performante en C# (.NET) et intégration d'une interface utilisateur dynamique utilisant le moteur de vues Razor.
+:::
+
+<h4>Points clés</h4>
+
 - Architecture client-serveur
 - API RESTful en C#
 - Gestion des appels API et structuration des données SQL
 
-**Technologies:**
+<h4>Technologies</h4>
+
+::: {.doc-tags}
 [C#]{.tag} [ASP.NET Core]{.tag} [Razor Pages]{.tag} [API REST]{.tag} [SQL]{.tag}
 :::
+:::
 
-::: {.card-custom}
-### ☁️ Infrastructure Serveur & Intégration Cloud
+::: {.project-card}
+<i class="bi bi-cloud" aria-hidden="true" style="font-size: 1.4rem; color: var(--seal);"></i>
 
-Mise en place d'environnements virtualisés sécurisés pour supporter des services multi-utilisateurs.
-Déploiement et configuration d'environnements Windows Server et automatisation via PowerShell. Intégration de services Azure pour la haute disponibilité.
+::: {.doc-title}
+Infrastructure Serveur & Intégration Cloud
+:::
 
-**Points clés:**
+::: {.doc-body}
+Mise en place d'environnements virtualisés sécurisés pour supporter des services multi-utilisateurs. Déploiement et configuration d'environnements Windows Server et automatisation via PowerShell. Intégration de services Azure pour la haute disponibilité.
+:::
+
+<h4>Points clés</h4>
+
 - Environnements virtualisés sécurisés
 - Automatisation PowerShell
 - Documentation technique (plans de reprise, sécurité)
 
-**Technologies:**
+<h4>Technologies</h4>
+
+::: {.doc-tags}
 [Azure]{.tag} [Windows Server]{.tag} [Active Directory]{.tag} [PowerShell]{.tag} [VMware]{.tag}
 :::
+:::
 
-::: {.card-custom}
-### 🚀 Site Web personnel avec CI/CD
+::: {.project-card}
+<i class="bi bi-diagram-3" aria-hidden="true" style="font-size: 1.4rem; color: var(--seal);"></i>
 
+::: {.doc-title}
+Site Web personnel avec CI/CD
+:::
+
+::: {.doc-body}
 Conception et déploiement de ce site web personnel avec un pipeline automatisé d'intégration et de déploiement continu (CI/CD).
+:::
 
-**Points clés:**
+<h4>Points clés</h4>
+
 - Pipeline de déploiement continu
 - Site statique performant
 - Gestion de version avec Git
 
-**Technologies:**
+<h4>Technologies</h4>
+
+::: {.doc-tags}
 [GitHub Pages]{.tag} [GitHub Actions]{.tag} [Quarto]{.tag} [Markdown]{.tag}
 :::
+:::
 
 :::
 
 ---
 
-::: {.card-custom style="text-align: center; margin-top: 3rem;"}
-### Vous souhaitez en voir plus ?
+::: {.doc-card style="text-align: center; margin-top: 3rem;"}
+<i class="bi bi-plus-square" aria-hidden="true"></i>
 
+::: {.doc-title}
+Vous souhaitez en voir plus ?
+:::
+
+::: {.doc-body}
 Je suis toujours en train de travailler sur de nouveaux projets. Consultez mon GitHub pour voir mes contributions récentes.
-
-[Voir mon GitHub](https://github.com/bpiaple){.btn-custom .btn-secondary-custom}
-[Me contacter](/contact.qmd){.btn-custom .btn-primary-custom}
 :::
 
----
-
-::: {.footer}
-::: {.footer-text}
-© 2026 Brice Piaple Dada | Tous droits réservés
-:::
+[Voir mon GitHub](https://github.com/bpiaple){.btn-seal}
+[Me contacter](/contact.qmd){.btn-ink}
 :::

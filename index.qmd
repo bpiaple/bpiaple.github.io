@@ -4,121 +4,180 @@ page-layout: full
 toc: false
 ---
 
-::: {.hero-section}
-::: {.container}
+::: {.certificate}
+::: {.cert-header}
+::: {.cert-ref}
+Dossier N° BP-2026-001
+Établi à Rimouski · Québec — Août 2026
+:::
 
-![](images/profile.jpg){.rounded-circle fig-alt="Brice Piaple Dada" fig-align="center"}
+::: {.cert-monogram}
+BP
+:::
+:::
 
-::: {.hero-title}
+::: {.cert-grid}
+![](images/profile.jpg){.cert-photo fig-alt="Brice Piaple Dada" fig-align="center"}
+
+::: {.cert-text}
+::: {.cert-name}
 Brice Piaple Dada
 :::
 
-::: {.hero-subtitle}
+::: {.cert-role}
 Technicien en Informatique
 :::
 
-::: {.hero-description}
+::: {.cert-desc}
 Finissant au DEC en informatique au Cégep de Rimouski, je possède une expérience concrète en développement logiciel et en administration de bases de données. Passionné par la programmation orientée objet (C#) et la résolution de problèmes, je suis reconnu pour mon esprit d'équipe et mon attitude positive.
 :::
 
-[Voir mon Portfolio](/portfolio/index.qmd){.btn-custom .btn-primary-custom}
-[Télécharger mon CV (FR)](CV/CV_Brice_Piaple_Dada.pdf){.btn-custom .btn-secondary-custom}
-[Télécharger mon CV (EN)](CV/CV_Brice_Piaple_Dada_EN.pdf){.btn-custom .btn-secondary-custom}
+::: {.cert-actions}
+[Voir mon Portfolio](/portfolio/index.qmd){.btn-seal}
+[Télécharger mon CV (FR)](CV/Brice_Piaple_Dada_CV_Fr.pdf){.btn-ink}
+[Télécharger mon CV (EN)](CV/Brice_Piaple_Dada_CV_En.pdf){.btn-ink}
+:::
+:::
+:::
 
+::: {.cert-footer}
+::: {.cert-signature}
+::: {.sig-line}
+:::
+::: {.sig-name}
+Brice Piaple Dada
+:::
+::: {.sig-role}
+Technicien en informatique — Ville de Rimouski
+:::
+:::
+
+<svg class="cert-seal" viewBox="0 0 140 140" role="img" aria-label="Sceau du dossier">
+  <circle cx="70" cy="70" r="70" fill="none" stroke="currentColor" stroke-width="3.5" stroke-dasharray="0.5 6.2"/>
+  <circle cx="70" cy="70" r="62" fill="none" stroke="currentColor" stroke-width="2"/>
+  <circle cx="70" cy="70" r="55" fill="none" stroke="currentColor" stroke-width="1" stroke-dasharray="1 5"/>
+  <circle cx="70" cy="70" r="44" fill="none" stroke="currentColor" stroke-width="1.5"/>
+  <text x="70" y="66" text-anchor="middle" font-family="var(--font-display)" font-weight="900" font-size="34" fill="currentColor">BP</text>
+  <text x="70" y="84" text-anchor="middle" font-family="var(--font-mono)" font-size="8.5" letter-spacing="2.5" fill="currentColor">2026</text>
+</svg>
 :::
 :::
 
 ---
 
-::: {.section-title}
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 1
+:::
+::: {.piece-rule}
+:::
+:::
+
+::: {.piece-title}
 Mes Compétences
 :::
 
-::: {.section-divider}
+::: {.piece-sub}
+Développement, bases de données et infrastructure — l'éventail complet du technicien polyvalent.
 :::
 
-::: {.section-subtitle}
-Développement, Bases de données et Infrastructure
-:::
+::: {.skill-grid}
 
-::: {.skills-container}
+::: {.doc-card}
+<i class="bi bi-code-slash" aria-hidden="true"></i>
 
-::: {.skill-card}
-::: {.skill-icon}
-💻
-:::
-::: {.skill-title}
+::: {.doc-title}
 Développement & Programmation
 :::
-::: {.skill-description}
+
+::: {.doc-body}
 C# (.NET), Python, C++, JavaScript, HTML5/CSS3.
 :::
 :::
 
-::: {.skill-card}
-::: {.skill-icon}
-🗄️
-:::
-::: {.skill-title}
+::: {.doc-card}
+<i class="bi bi-database" aria-hidden="true"></i>
+
+::: {.doc-title}
 Bases de données
 :::
-::: {.skill-description}
+
+::: {.doc-body}
 SQL, Elastic Search, PostgreSQL. Gestion et administration de bases de données.
 :::
 :::
 
-::: {.skill-card}
-::: {.skill-icon}
-☁️
-:::
-::: {.skill-title}
+::: {.doc-card}
+<i class="bi bi-cloud" aria-hidden="true"></i>
+
+::: {.doc-title}
 Infrastructure & Cloud
 :::
-::: {.skill-description}
+
+::: {.doc-body}
 Azure, Windows Server, Active Directory, PowerShell, VMware.
 :::
 :::
 
-::: {.skill-card}
-::: {.skill-icon}
-🚀
-:::
-::: {.skill-title}
+::: {.doc-card}
+<i class="bi bi-rocket-takeoff" aria-hidden="true"></i>
+
+::: {.doc-title}
 DevOps & Outils
 :::
-::: {.skill-description}
+
+::: {.doc-body}
 Pipelines CI/CD, Git / GitHub, VS Code.
 :::
 :::
 
 :::
+:::
 
 ---
 
-::: {.section-title}
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 2
+:::
+::: {.piece-rule}
+:::
+:::
+
+::: {.piece-title}
 Technologies Maîtrisées
 :::
 
-::: {.section-divider}
+::: {.piece-sub}
+L'inventaire exact du dossier, pièce par pièce.
 :::
 
-::: {style="text-align: center; padding: 1rem;"}
+::: {.tech-block}
 [C# (.NET)]{.tag} [Python]{.tag} [C++]{.tag} [JavaScript]{.tag} [HTML5/CSS3]{.tag} [SQL]{.tag} [Elastic Search]{.tag} [PostgreSQL]{.tag} [Azure]{.tag} [Windows Server]{.tag} [Active Directory]{.tag} [PowerShell]{.tag} [VMware]{.tag} [Git]{.tag} [GitHub]{.tag} [CI/CD]{.tag}
+:::
 :::
 
 ---
 
-::: {.section-title}
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 3
+:::
+::: {.piece-rule}
+:::
+:::
+
+::: {.piece-title}
 En Chiffres
 :::
 
-::: {.section-divider}
-:::
+::: {.stats-doc}
 
-::: {.stats-container}
-
-::: {.stat-item}
-::: {.stat-number}
+::: {.stat-row}
+::: {.stat-num}
 3+
 :::
 ::: {.stat-label}
@@ -126,8 +185,8 @@ Projets Majeurs
 :::
 :::
 
-::: {.stat-item}
-::: {.stat-number}
+::: {.stat-row}
+::: {.stat-num}
 3
 :::
 ::: {.stat-label}
@@ -135,8 +194,8 @@ Années d'Expérience
 :::
 :::
 
-::: {.stat-item}
-::: {.stat-number}
+::: {.stat-row}
+::: {.stat-num}
 15+
 :::
 ::: {.stat-label}
@@ -144,8 +203,8 @@ Technologies
 :::
 :::
 
-::: {.stat-item}
-::: {.stat-number}
+::: {.stat-row}
+::: {.stat-num}
 100%
 :::
 ::: {.stat-label}
@@ -154,49 +213,71 @@ Motivation
 :::
 
 :::
+:::
 
 ---
 
-::: {.section-title}
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 4
+:::
+::: {.piece-rule}
+:::
+:::
+
+::: {.piece-title}
 Explorez mon travail
 :::
 
-::: {.section-divider}
+::: {.piece-sub}
+Les annexes du dossier : projets, curriculum et coordonnées.
 :::
 
-::: {.portfolio-grid}
+::: {.explore-grid}
 
-::: {.card-custom}
-### 🎯 Portfolio
+::: {.doc-card}
+<i class="bi bi-briefcase" aria-hidden="true"></i>
 
+::: {.doc-title}
+Portfolio
+:::
+
+::: {.doc-body}
 Découvrez mes projets en développement Web .NET, Infrastructure Cloud et DevOps.
-
-[Voir mes projets →](/portfolio/index.qmd)
 :::
 
-::: {.card-custom}
-### 📄 CV
+[Voir mes projets →](/portfolio/index.qmd){.doc-link}
+:::
 
+::: {.doc-card}
+<i class="bi bi-file-earmark-text" aria-hidden="true"></i>
+
+::: {.doc-title}
+CV
+:::
+
+::: {.doc-body}
 Téléchargez mon CV pour voir mon parcours complet, mes expériences et mes projets.
-
-[Télécharger mon CV (FR) →](CV/CV_Brice_Piaple_Dada.pdf)
-[Télécharger mon CV (EN) →](CV/CV_Brice_Piaple_Dada_EN.pdf)
 :::
 
-::: {.card-custom}
-### 📧 Contact
+[Télécharger mon CV (FR) →](CV/Brice_Piaple_Dada_CV_Fr.pdf){.doc-link}
+[Télécharger mon CV (EN) →](CV/Brice_Piaple_Dada_CV_En.pdf){.doc-link}
+:::
 
+::: {.doc-card}
+<i class="bi bi-envelope" aria-hidden="true"></i>
+
+::: {.doc-title}
+Contact
+:::
+
+::: {.doc-body}
 Désireux d'apprendre et de m'investir dans un environnement Agile. Contactez-moi !
-
-[Me contacter →](/contact.qmd)
 :::
 
+[Me contacter →](/contact.qmd){.doc-link}
 :::
 
----
-
-::: {.footer}
-::: {.footer-text}
-© 2026 Brice Piaple Dada | Technicien en Informatique
 :::
 :::

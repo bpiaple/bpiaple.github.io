@@ -1,231 +1,434 @@
 ---
 title: "À Propos de Moi"
-toc: true
+toc: false
 ---
 
-::: {.hero-section style="min-height: 40vh;"}
-::: {.container style="text-align: center;"}
+::: {.certificate}
+::: {.cert-header}
+::: {.cert-ref}
+Dossier N° BP-2026-001 · Suite
+Établi à Rimouski · Québec — Août 2026
+:::
 
-![](images/profile.jpg){.rounded-circle fig-alt="Brice Piaple Dada" width="180"}
+::: {.cert-monogram}
+BP
+:::
+:::
 
-::: {.hero-title style="font-size: 2.5rem;"}
+::: {.cert-grid}
+![](images/profile.jpg){.cert-photo fig-alt="Brice Piaple Dada" fig-align="center"}
+
+::: {.cert-text}
+::: {.cert-name style="font-size: clamp(2.2rem, 4.5vw, 3.4rem);"}
 Brice Piaple Dada
 :::
 
-::: {.hero-subtitle}
+::: {.cert-role}
 Technicien en Informatique
 :::
 
-::: {style="color: var(--text-muted); max-width: 800px; margin: 0 auto;"}
+::: {.cert-desc}
 Finissant au DEC en informatique au Cégep de Rimouski, je suis passionné par le développement logiciel et l'administration de systèmes et de bases de données. Je cherche toujours à apprendre et à contribuer à des projets innovants, notamment dans des environnements Agile.
 :::
 
-[Télécharger mon CV (FR)](CV/CV_Brice_Piaple_Dada.pdf){.btn-custom .btn-primary-custom}
-[Télécharger mon CV (EN)](CV/CV_Brice_Piaple_Dada_EN.pdf){.btn-custom .btn-secondary-custom}
-
+::: {.cert-actions}
+[Télécharger mon CV (FR)](CV/Brice_Piaple_Dada_CV_Fr.pdf){.btn-seal}
+[Télécharger mon CV (EN)](CV/Brice_Piaple_Dada_CV_En.pdf){.btn-ink}
+:::
+:::
 :::
 :::
 
 ---
 
-## 💼 Expérience Professionnelle
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 1
+:::
+::: {.piece-rule}
+:::
+:::
+
+::: {.piece-title}
+Expérience Professionnelle
+:::
 
 ::: {.timeline}
 
 ::: {.timeline-item}
-### Ville de Rimouski
-**Technicien informatique** | *Mars 2026 - Présent (Rimouski)*
-
+::: {.tl-date}
+Mars 2026 — Présent · Rimouski
+:::
+::: {.tl-org}
+Ville de Rimouski
+:::
+::: {.tl-role}
+Technicien informatique
+:::
+::: {.tl-desc}
 - Support de premier et deuxième niveau pour les incidents liés aux postes de travail, logiciels, périphériques et réseaux.
 - Administration des identités Microsoft 365, des accès et des permissions.
 - Participation aux opérations Windows Server et Active Directory et maintenance de la documentation technique.
 :::
-
-::: {.timeline-item}
-### CISSSBSL
-**Préposé au service alimentaire** | *Juin 2025 - Présent (Rimouski)*
-
-- Travail d'équipe efficace dans un environnement au rythme soutenu.
-- Respect rigoureux des procédures d'hygiène et des standards de qualité.
 :::
 
 ::: {.timeline-item}
-### Yoco Sarl Services
-**Développeur Logiciel** | *Jan. 2022 — Juil. 2023 (Yaoundé, Cameroun)*
+::: {.tl-date}
+Juin 2025 — Présent · Rimouski
+:::
+::: {.tl-org}
+CISSSBSL
+:::
+::: {.tl-role}
+Préposé au service alimentaire
+:::
+::: {.tl-desc}
+- Travail d'équipe efficace dans un environnement au rythme soutenu.
+- Respect rigoureux des procédures d'hygiène et des standards de qualité.
+:::
+:::
 
+::: {.timeline-item}
+::: {.tl-date}
+Jan. 2022 — Juil. 2023 · Yaoundé, Cameroun
+:::
+::: {.tl-org}
+Yoco Sarl Services
+:::
+::: {.tl-role}
+Développeur Logiciel
+:::
+::: {.tl-desc}
 - Déploiement et maintenance de solutions logicielles dans des environnements Windows Server et Linux.
 - Rédaction de documentation technique pour assurer la pérennité et la maintenance des systèmes.
 - Optimisation des performances systèmes, ayant mené à une réduction de 15 % des erreurs opérationnelles.
 :::
+:::
 
 ::: {.timeline-item}
-### MTN Cameroun
-**Stagiaire en Développement Logiciel** | *Mars 2021 — Juin 2021 (Yaoundé, Cameroun)*
-
+::: {.tl-date}
+Mars 2021 — Juin 2021 · Yaoundé, Cameroun
+:::
+::: {.tl-org}
+MTN Cameroun
+:::
+::: {.tl-role}
+Stagiaire en Développement Logiciel
+:::
+::: {.tl-desc}
 - Développement et maintenance d'applications internes et administration de bases de données.
 - Support technique aux utilisateurs avec un taux de satisfaction de 95 %.
 - Contribution à la mise en place de bonnes pratiques de sécurité.
 :::
+:::
 
+:::
 :::
 
 ---
 
-## 🎓 Éducation
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 2
+:::
+::: {.piece-rule}
+:::
+:::
+
+::: {.piece-title}
+Éducation
+:::
 
 ::: {.timeline}
 
 ::: {.timeline-item}
-### Cégep de Rimouski
-**Techniques de l'Informatique (DEC)** | *Août 2023 - Mai 2026 (fin prévue)*
-
+::: {.tl-date}
+Août 2023 — Mai 2026 · Rimouski
+:::
+::: {.tl-org}
+Cégep de Rimouski
+:::
+::: {.tl-role}
+Techniques de l'Informatique (DEC)
+:::
+::: {.tl-desc}
 - **Cote R:** 30.887
 - **Points clés:** Développement en C# (.NET), architecture de bases de données, méthodologies de développement et sécurité applicative.
 :::
+:::
 
 ::: {.timeline-item}
-### Institut Universitaire de Technologie de Bandjoun
-**Génie Logiciel (Baccalauréat)** | *Oct. 2020 - Juil. 2023*
-
+::: {.tl-date}
+Oct. 2020 — Juil. 2023 · Bandjoun, Cameroun
+:::
+::: {.tl-org}
+Institut Universitaire de Technologie de Bandjoun
+:::
+::: {.tl-role}
+Génie Logiciel (Baccalauréat)
+:::
+::: {.tl-desc}
 - **Moyenne:** 3.5 / 4
 - **Points clés:** Programme axé sur l'analyse, la conception de systèmes logiciels complexes et l'algorithmique avancée.
 :::
+:::
 
+:::
 :::
 
 ---
 
-## 🛠️ Compétences
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 3
+:::
+::: {.piece-rule}
+:::
+:::
+
+::: {.piece-title}
+Compétences
+:::
+
+::: {.piece-sub}
+Niveaux attestés par mes réalisations et mes évaluations académiques.
+:::
 
 ### Techniques
 
-::: {.progress-custom}
-::: {.progress-bar-custom style="width: 90%;"}
+::: {.measure}
+::: {.measure-label}
+::: {.measure-name}
+C# (.NET)
+:::
+::: {.measure-value}
+Avancé · 90 %
 :::
 :::
-**C# (.NET)** - Avancé
+::: {.measure-track}
+::: {.measure-fill style="width: 90%;"}
+:::
+:::
+:::
 
-::: {.progress-custom}
-::: {.progress-bar-custom style="width: 80%;"}
+::: {.measure}
+::: {.measure-label}
+::: {.measure-name}
+Python / C++
+:::
+::: {.measure-value}
+Intermédiaire · 80 %
 :::
 :::
-**Python / C++** - Intermédiaire
+::: {.measure-track}
+::: {.measure-fill style="width: 80%;"}
+:::
+:::
+:::
 
-::: {.progress-custom}
-::: {.progress-bar-custom style="width: 85%;"}
+::: {.measure}
+::: {.measure-label}
+::: {.measure-name}
+HTML5 / CSS3 / JavaScript
+:::
+::: {.measure-value}
+Avancé · 85 %
 :::
 :::
-**HTML5 / CSS3 / JavaScript** - Avancé
+::: {.measure-track}
+::: {.measure-fill style="width: 85%;"}
+:::
+:::
+:::
 
 ### Aptitudes Professionnelles
 
-::: {.skills-container}
+::: {.skill-grid}
 
-::: {.skill-card}
-::: {.skill-icon}
-🤝
-:::
-::: {.skill-title}
+::: {.doc-card}
+<i class="bi bi-people" aria-hidden="true"></i>
+
+::: {.doc-title}
 Travail d'équipe
 :::
-::: {.skill-description}
+
+::: {.doc-body}
 Collaboration efficace et esprit d'équipe positif.
 :::
 :::
 
-::: {.skill-card}
-::: {.skill-icon}
-💡
-:::
-::: {.skill-title}
+::: {.doc-card}
+<i class="bi bi-lightbulb" aria-hidden="true"></i>
+
+::: {.doc-title}
 Autonomie
 :::
-::: {.skill-description}
+
+::: {.doc-body}
 Initiative et capacité à travailler de manière indépendante.
 :::
 :::
 
-::: {.skill-card}
-::: {.skill-icon}
-⚖️
-:::
-::: {.skill-title}
+::: {.doc-card}
+<i class="bi bi-balance-scale" aria-hidden="true"></i>
+
+::: {.doc-title}
 Éthique
 :::
-::: {.skill-description}
+
+::: {.doc-body}
 Professionnalisme et respect des normes.
 :::
 :::
 
-::: {.skill-card}
-::: {.skill-icon}
-🏃
-:::
-::: {.skill-title}
+::: {.doc-card}
+<i class="bi bi-lightning-charge" aria-hidden="true"></i>
+
+::: {.doc-title}
 Agilité
 :::
-::: {.skill-description}
+
+::: {.doc-body}
 Orientation résultats et adaptation rapide.
 :::
 :::
 
 :::
+:::
 
 ---
 
-## 📜 Certifications
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 4
+:::
+::: {.piece-rule}
+:::
+:::
 
-::: {.portfolio-grid}
+::: {.piece-title}
+Certifications
+:::
 
-::: {.card-custom}
-### 🛡️ Ethical Hacker
+::: {.skill-grid}
+
+::: {.doc-card}
+<i class="bi bi-shield-check" aria-hidden="true"></i>
+
+::: {.doc-title}
+Ethical Hacker
+:::
+
+::: {.doc-body}
 **Cisco (2024)**
 
 Renforcement des compétences en sécurité offensive pour mieux sécuriser le code et les applications.
 :::
+:::
 
-::: {.card-custom}
-### 🔒 Google Cybersecurity Certificate
+::: {.doc-card}
+<i class="bi bi-lock" aria-hidden="true"></i>
+
+::: {.doc-title}
+Google Cybersecurity Certificate
+:::
+
+::: {.doc-body}
 **Coursera (2023)**
 
 Acquisition de compétences en protection des données et analyse des risques.
 :::
+:::
 
+:::
 :::
 
 ---
 
-## 🏆 Distinctions
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 5
+:::
+::: {.piece-rule}
+:::
+:::
 
-::: {.portfolio-grid}
+::: {.piece-title}
+Distinctions
+:::
 
-::: {.card-custom}
-### 🎓 Bourse d'excellence
+::: {.skill-grid}
+
+::: {.doc-card}
+<i class="bi bi-award" aria-hidden="true"></i>
+
+::: {.doc-title}
+Bourse d'excellence
+:::
+
+::: {.doc-body}
 **Fédération des cégeps (2023 - 2026)**
 
 Distinction académique reçue pour la constance des résultats.
 :::
+:::
 
-::: {.card-custom}
-### 🌟 Distinction au Gala de réussite
+::: {.doc-card}
+<i class="bi bi-star" aria-hidden="true"></i>
+
+::: {.doc-title}
+Distinction au Gala de réussite
+:::
+
+::: {.doc-body}
 **Fondation du Cégep de Rimouski (2025)**
 
 Reconnaissance pour les réalisations académiques et personnelles.
 :::
+:::
 
+:::
 :::
 
 ---
 
-## 🗣️ Langues
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Pièce N° 6
+:::
+::: {.piece-rule}
+:::
+:::
 
-- **Français:** Natif
-- **Anglais:** Intermédiaire
+::: {.piece-title}
+Langues
+:::
 
----
+::: {.contact-sheet}
 
-::: {.footer}
-::: {.footer-text}
-© 2026 Brice Piaple Dada | Tous droits réservés
+::: {.contact-row}
+::: {.field-label}
+Français
+:::
+::: {.field-value}
+Natif
+:::
+:::
+
+::: {.contact-row}
+::: {.field-label}
+Anglais
+:::
+::: {.field-value}
+Intermédiaire
+:::
+:::
+
 :::
 :::

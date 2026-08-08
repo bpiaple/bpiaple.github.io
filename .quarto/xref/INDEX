@@ -33,5 +33,38 @@
   },
   "blog/Mr-Robot/index.qmd": {
     "index.html": "ae6d3471"
+  },
+  "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.md": {
+    "Brice_Piaple_Dada_CV.html": "1e8dd292"
+  },
+  "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.md": {
+    "Brice_Piaple_Dada_CV.html": "1ee147cd"
+  },
+  "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.md": {
+    "Brice_Piaple_Dada_CV.html": "8cff1685"
+  },
+  "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.md": {
+    "Brice_Piaple_Dada_CV.html": "e6cb59f3"
+  },
+  "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.md": {
+    "Brice_Piaple_Dada_CV.html": "3c9e56c1"
+  },
+  "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.md": {
+    "Brice_Piaple_Dada_CV.html": "586ca538"
+  },
+  "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.md": {
+    "Brice_Piaple_Dada_CV.html": "5c86e2f2"
+  },
+  "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.md": {
+    "Brice_Piaple_Dada_CV.html": "2d02e1a6"
+  },
+  "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.md": {
+    "Brice_Piaple_Dada_Resume.html": "cca94461"
+  },
+  "CV/rendercv_output_fr/Brice_Piaple_Dada_CV.md": {
+    "Brice_Piaple_Dada_CV.html": "4de9cc93"
+  },
+  "PRODUCT.md": {
+    "PRODUCT.html": "2c1db5b6"
   }
 }
