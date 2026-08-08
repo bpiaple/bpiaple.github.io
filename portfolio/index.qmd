@@ -5,11 +5,6 @@ toc: false
 
 ::: {.certificate}
 ::: {.cert-header}
-::: {.cert-ref}
-Dossier N° BP-2026-001 · Annexes
-Établi à Rimouski · Québec — Août 2026
-:::
-
 ::: {.cert-monogram}
 BP
 :::

@@ -5,11 +5,6 @@ toc: false
 
 ::: {.certificate}
 ::: {.cert-header}
-::: {.cert-ref}
-Dossier N° BP-2026-001 · Correspondance
-Établi à Rimouski · Québec — Août 2026
-:::
-
 ::: {.cert-monogram}
 BP
 :::
@@ -155,7 +150,7 @@ Emploi
 :::
 
 ::: {.doc-body}
-Je suis à la recherche d'opportunités de carrière pour contribuer aux projets de la RAMQ ou d'autres organisations innovantes.
+Je suis à la recherche d'opportunités de carrière en informatique : administration de systèmes, cybersécurité, développement logiciel ou tout autre projet technologique.
 :::
 :::
 
