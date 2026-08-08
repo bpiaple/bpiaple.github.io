@@ -168,55 +168,16 @@ Compétences
 :::
 
 ::: {.piece-sub}
-Niveaux attestés par mes réalisations et mes évaluations académiques.
+Mes compétences sont démontrées par mes projets, mes expériences et mon parcours académique.
 :::
 
 ### Techniques
 
-::: {.measure}
-::: {.measure-label}
-::: {.measure-name}
-C# (.NET)
-:::
-::: {.measure-value}
-Avancé · 90 %
-:::
-:::
-::: {.measure-track}
-::: {.measure-fill style="width: 90%;"}
-:::
-:::
-:::
+**Développement** : [C# (.NET)]{.tag} [Python / C++]{.tag} [HTML5 / CSS3]{.tag} [JavaScript]{.tag} [SQL]{.tag} [API REST]{.tag}
 
-::: {.measure}
-::: {.measure-label}
-::: {.measure-name}
-Python / C++
-:::
-::: {.measure-value}
-Intermédiaire · 80 %
-:::
-:::
-::: {.measure-track}
-::: {.measure-fill style="width: 80%;"}
-:::
-:::
-:::
+**Systèmes & Réseaux** : [Windows Server]{.tag} [Active Directory]{.tag} [Microsoft 365]{.tag} [Linux]{.tag} [DNS / DHCP]{.tag} [VMware]{.tag}
 
-::: {.measure}
-::: {.measure-label}
-::: {.measure-name}
-HTML5 / CSS3 / JavaScript
-:::
-::: {.measure-value}
-Avancé · 85 %
-:::
-:::
-::: {.measure-track}
-::: {.measure-fill style="width: 85%;"}
-:::
-:::
-:::
+**Automatisation & DevOps** : [PowerShell]{.tag} [Bash]{.tag} [Git]{.tag} [GitHub Actions]{.tag} [CI/CD]{.tag} [Azure]{.tag}
 
 ### Aptitudes Professionnelles
 
