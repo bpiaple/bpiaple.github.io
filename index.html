@@ -82,6 +82,26 @@ ul.task-list li input[type="checkbox"] {
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500;6..96,600;6..96,700;6..96,800;6..96,900&amp;family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&amp;family=IBM+Plex+Mono:wght@400;500;600&amp;display=swap" rel="stylesheet">
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var links = document.querySelectorAll(".navbar-nav .nav-link");
+  var target = null;
+  links.forEach(function (a) {
+    var t = (a.textContent || "").trim();
+    if (t === "EN" || t === "FR") target = a;
+  });
+  if (!target) return;
+  var goEn = target.textContent.trim() === "EN";
+  var path = window.location.pathname.replace(/\/$/, "");
+  var enIdx = path.lastIndexOf("/en");
+  var inEn = enIdx >= 0 && path.length === enIdx + 3;
+  var stem = inEn ? path.slice(0, enIdx) + path.slice(enIdx + 3) : path;
+  stem = stem === "" ? "/" : stem;
+  target.href = goEn
+    ? (inEn ? stem : (stem === "/" ? "/en/" : "/en" + stem))
+    : (inEn ? stem : stem);
+});
+</script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -267,23 +287,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> <i class="bi bi-house" role="img">
-</i> 
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
 <span class="menu-text">Accueil</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> <i class="bi bi-person" role="img">
-</i> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">À Propos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./portfolio/index.html"> <i class="bi bi-briefcase" role="img">
-</i> 
+    <a class="nav-link" href="./portfolio/index.html"> 
 <span class="menu-text">Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> <i class="bi bi-envelope" role="img">
-</i> 
+    <a class="nav-link" href="./contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -293,9 +309,13 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/bpiaple"> <i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/bpiaple"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./en/"> 
+<span class="menu-text">EN</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -363,6 +383,9 @@ ul.task-list li input[type="checkbox"] {
 <svg class="cert-seal" viewbox="0 0 140 140" role="img" aria-label="Sceau du dossier">
 <circle cx="70" cy="70" r="70" fill="none" stroke="currentColor" stroke-width="3.5" stroke-dasharray="0.5 6.2"></circle> <circle cx="70" cy="70" r="62" fill="none" stroke="currentColor" stroke-width="2"></circle> <circle cx="70" cy="70" r="55" fill="none" stroke="currentColor" stroke-width="1" stroke-dasharray="1 5"></circle> <circle cx="70" cy="70" r="44" fill="none" stroke="currentColor" stroke-width="1.5"></circle> <text x="70" y="66" text-anchor="middle" font-family="var(--font-display)" font-weight="900" font-size="34" fill="currentColor">BP</text> <text x="70" y="84" text-anchor="middle" font-family="var(--font-mono)" font-size="8.5" letter-spacing="2.5" fill="currentColor">2026</text>
 </svg>
+<div class="cert-legend">
+<p>Dossier SCELLÉ · Rimouski, Québec — Août 2026</p>
+</div>
 </div>
 </div>
 <hr>
@@ -376,47 +399,41 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="piece-title">
-<p>Mes Compétences</p>
+<p>Ce que je fais</p>
 </div>
 <div class="piece-sub">
-<p>Développement, bases de données et infrastructure — l’éventail complet du technicien polyvalent.</p>
+<p>Trois domaines qui m’animent et que je pratique au quotidien.</p>
 </div>
-<div class="skill-grid">
+<div class="explore-grid">
+<div class="doc-card">
+<p><i class="bi bi-shield-check" aria-hidden="true"></i></p>
+<div class="doc-title">
+<p>Cybersécurité &amp; Administration</p>
+</div>
+<div class="doc-body">
+<p>Sécurisation des systèmes, gestion des identités et des accès, administration Windows Server et Active Directory.</p>
+</div>
+<p><a href="./about.html#sysres" class="doc-link">En savoir plus</a> <a href="./contact.html" class="doc-link">Contact</a></p>
+</div>
 <div class="doc-card">
 <p><i class="bi bi-code-slash" aria-hidden="true"></i></p>
 <div class="doc-title">
-<p>Développement &amp; Programmation</p>
+<p>Développement Logiciel</p>
 </div>
 <div class="doc-body">
-<p>C# (.NET), Python, C++, JavaScript, HTML5/CSS3.</p>
+<p>Applications C# .NET, API REST, bases de données SQL et projets académiques complets.</p>
 </div>
+<p><a href="./about.html#dev" class="doc-link">En savoir plus</a> <a href="./portfolio/index.html" class="doc-link">Portfolio</a></p>
 </div>
 <div class="doc-card">
-<p><i class="bi bi-database" aria-hidden="true"></i></p>
+<p><i class="bi bi-cloud-arrow-up" aria-hidden="true"></i></p>
 <div class="doc-title">
-<p>Bases de données</p>
+<p>Cloud &amp; Infrastructure</p>
 </div>
 <div class="doc-body">
-<p>SQL, Elastic Search, PostgreSQL. Gestion et administration de bases de données.</p>
+<p>Services Azure, virtualisation VMware, conteneurisation et déploiement CI/CD.</p>
 </div>
-</div>
-<div class="doc-card">
-<p><i class="bi bi-cloud" aria-hidden="true"></i></p>
-<div class="doc-title">
-<p>Infrastructure &amp; Cloud</p>
-</div>
-<div class="doc-body">
-<p>Azure, Windows Server, Active Directory, PowerShell, VMware.</p>
-</div>
-</div>
-<div class="doc-card">
-<p><i class="bi bi-rocket-takeoff" aria-hidden="true"></i></p>
-<div class="doc-title">
-<p>DevOps &amp; Outils</p>
-</div>
-<div class="doc-body">
-<p>Pipelines CI/CD, Git / GitHub, VS Code.</p>
-</div>
+<p><a href="./about.html#devops" class="doc-link">En savoir plus</a></p>
 </div>
 </div>
 </div>
@@ -431,14 +448,13 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="piece-title">
-<p>Technologies Maîtrisées</p>
+<p>Compétences</p>
 </div>
 <div class="piece-sub">
-<p>L’inventaire exact du dossier, pièce par pièce.</p>
+<p>Une vitrine des outils et technologies que je maîtrise.</p>
 </div>
 <div class="tech-block">
 <p><span class="tag">C# (.NET)</span> <span class="tag">Python</span> <span class="tag">C++</span> <span class="tag">JavaScript</span> <span class="tag">HTML5/CSS3</span> <span class="tag">SQL</span> <span class="tag">Elastic Search</span> <span class="tag">PostgreSQL</span> <span class="tag">Azure</span> <span class="tag">Windows Server</span> <span class="tag">Active Directory</span> <span class="tag">PowerShell</span> <span class="tag">VMware</span> <span class="tag">Git</span> <span class="tag">GitHub</span> <span class="tag">CI/CD</span></p>
-</div>
 </div>
 <hr>
 <div class="piece">
@@ -451,40 +467,59 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="piece-title">
-<p>En Chiffres</p>
+<p>Réalisations</p>
 </div>
-<div class="stats-doc">
-<div class="stat-row">
-<div class="stat-num">
-<p>3+</p>
+<div class="piece-sub">
+<p>Projets sélectionnés qui montrent l’étendue de mes compétences — du développement à l’infrastructure.</p>
 </div>
-<div class="stat-label">
-<p>Projets Majeurs</p>
+<div class="explore-grid">
+<div class="project-card">
+<div class="project-head">
+<div class="project-index">
+<p>01</p>
 </div>
+<div class="project-title">
+<p>Application Web .NET (C#)</p>
 </div>
-<div class="stat-row">
-<div class="stat-num">
-<p>3</p>
+<div class="project-tags">
+<p><span class="tag">C#</span> <span class="tag">ASP.NET Core</span> <span class="tag">API REST</span> <span class="tag">SQL</span></p>
 </div>
-<div class="stat-label">
-<p>Années d’Expérience</p>
+<div class="project-body">
+<p>Application web complète (frontend + backend) avec API RESTful et base de données SQL, développée en C# (.NET).</p>
 </div>
+<p><a href="https://github.com/bpiaple" class="doc-link">Voir le projet sur GitHub</a></p>
 </div>
-<div class="stat-row">
-<div class="stat-num">
-<p>15+</p>
+<div class="project-card">
+<div class="project-head">
+<div class="project-index">
+<p>02</p>
 </div>
-<div class="stat-label">
-<p>Technologies</p>
+<div class="project-title">
+<p>Infrastructure Cloud et Windows Server</p>
 </div>
+<div class="project-tags">
+<p><span class="tag">Windows Server</span> <span class="tag">Active Directory</span> <span class="tag">Azure</span> <span class="tag">VMware</span></p>
 </div>
-<div class="stat-row">
-<div class="stat-num">
-<p>100%</p>
+<div class="project-body">
+<p>Environnements Windows Server virtualisés, intégration de services Azure et administration Active Directory.</p>
 </div>
-<div class="stat-label">
-<p>Motivation</p>
+<p><a href="https://github.com/bpiaple" class="doc-link">Voir le projet sur GitHub</a></p>
 </div>
+<div class="project-card">
+<div class="project-head">
+<div class="project-index">
+<p>03</p>
+</div>
+<div class="project-title">
+<p>Site Portfolio avec CI/CD</p>
+</div>
+<div class="project-tags">
+<p><span class="tag">GitHub Pages</span> <span class="tag">GitHub Actions</span> <span class="tag">Quarto</span> <span class="tag">Markdown</span></p>
+</div>
+<div class="project-body">
+<p>Site web personnel avec déploiement automatisé sur GitHub Pages via GitHub Actions (CI/CD).</p>
+</div>
+<p><a href="https://github.com/bpiaple" class="doc-link">Voir le projet sur GitHub</a></p>
 </div>
 </div>
 </div>
@@ -499,46 +534,96 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="piece-title">
-<p>Explorez mon travail</p>
+<p>Parcours</p>
 </div>
 <div class="piece-sub">
-<p>Les annexes du dossier : projets, curriculum et coordonnées.</p>
+<p>Un aperçu de mon parcours et de mes projets récents.</p>
 </div>
-<div class="explore-grid">
-<div class="doc-card">
-<p><i class="bi bi-briefcase" aria-hidden="true"></i></p>
-<div class="doc-title">
-<p>Portfolio</p>
+<div class="timeline">
+<div class="timeline-item">
+<div class="tl-date">
+<p>Mars 2026 — Présent · Rimouski</p>
 </div>
-<div class="doc-body">
-<p>Découvrez mes projets en développement Web .NET, Infrastructure Cloud et DevOps.</p>
+<div class="tl-org">
+<p>Ville de Rimouski</p>
 </div>
-<p><a href="./portfolio/index.html" class="doc-link">Voir mes projets →</a></p>
+<div class="tl-role">
+<p>Technicien informatique</p>
 </div>
-<div class="doc-card">
-<p><i class="bi bi-file-earmark-text" aria-hidden="true"></i></p>
-<div class="doc-title">
-<p>CV</p>
-</div>
-<div class="doc-body">
-<p>Téléchargez mon CV pour voir mon parcours complet, mes expériences et mes projets.</p>
-</div>
-<p><a href="CV/Brice_Piaple_Dada_CV_Fr.pdf" class="doc-link">Télécharger mon CV (FR) →</a> <a href="CV/Brice_Piaple_Dada_CV_En.pdf" class="doc-link">Télécharger mon CV (EN) →</a></p>
-</div>
-<div class="doc-card">
-<p><i class="bi bi-envelope" aria-hidden="true"></i></p>
-<div class="doc-title">
-<p>Contact</p>
-</div>
-<div class="doc-body">
-<p>Désireux d’apprendre et de m’investir dans un environnement Agile. Contactez-moi !</p>
-</div>
-<p><a href="./contact.html" class="doc-link">Me contacter →</a></p>
+<div class="tl-desc">
+<p>Support de premier et deuxième niveau, administration Microsoft 365, Windows Server, Active Directory et documentation technique.</p>
 </div>
 </div>
+<div class="timeline-item">
+<div class="tl-date">
+<p>Jan.&nbsp;2022 — Juil. 2023 · Yaoundé, Cameroun</p>
+</div>
+<div class="tl-org">
+<p>Yoco Sarl Services</p>
+</div>
+<div class="tl-role">
+<p>Développeur Logiciel</p>
+</div>
+<div class="tl-desc">
+<p>Développement et maintenance de solutions logicielles, documentation technique et optimisation des systèmes.</p>
+</div>
+</div>
+<div class="timeline-item">
+<div class="tl-date">
+<p>Mars 2021 — Juin 2021 · Yaoundé, Cameroun</p>
+</div>
+<div class="tl-org">
+<p>MTN Cameroun</p>
+</div>
+<div class="tl-role">
+<p>Stagiaire en Développement Logiciel</p>
+</div>
+<div class="tl-desc">
+<p>Développement d’applications internes, administration de bases de données et support technique aux utilisateurs.</p>
+</div>
+</div>
+<div class="timeline-item">
+<div class="tl-date">
+<p>Août 2023 — Mai 2026 · Rimouski</p>
+</div>
+<div class="tl-org">
+<p>Cégep de Rimouski</p>
+</div>
+<div class="tl-role">
+<p>DEC en Techniques de l’informatique</p>
+</div>
+<div class="tl-desc">
+<p>Formation en programmation, cybersécurité, réseaux, bases de données et administration de systèmes.</p>
+</div>
+</div>
+</div>
+</div>
+<hr>
+<div class="piece">
+<div class="piece-head">
+<div class="piece-ref">
+<p>Pièce N° 5</p>
+</div>
+<div class="piece-rule">
+
+</div>
+</div>
+<div class="piece-title">
+<p>Compétences transversales</p>
+</div>
+<div class="piece-sub">
+<p>Des qualités qui font la différence au quotidien.</p>
+</div>
+<div class="tag-cloud">
+<p><span class="tag">Autonomie</span> <span class="tag">Rigueur</span> <span class="tag">Esprit d’équipe</span> <span class="tag">Communication claire</span> <span class="tag">Résolution de problèmes</span> <span class="tag">Sens du service</span></p>
 </div>
 
 
+</div>
+</div>
+</div>
+</div>
+</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -966,7 +1051,7 @@ ul.task-list li input[type="checkbox"] {
 <p>© 2026 Brice Piaple Dada</p>
 </div>   
     <div class="nav-footer-center">
-<p>Fait avec <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-label="amour" role="img" style="vertical-align: -2px;"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg> et <a href="https://quarto.org/">Quarto</a></p>
+<p>Fait avec <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-label="love" role="img" style="vertical-align: -2px;"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg> et <a href="https://quarto.org/">Quarto</a></p>
 </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
