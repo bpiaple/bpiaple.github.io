@@ -71,6 +71,15 @@ Based in **Rimouski, QC, Canada**
 :::
 :::
 
+::: {.contact-row}
+::: {.field-label}
+<i class="bi bi-airplane" aria-hidden="true"></i> Mobility
+:::
+::: {.field-value}
+**Willing to relocate** — open to opportunities across Canada and remote work.
+:::
+:::
+
 :::
 :::
 
