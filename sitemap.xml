@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bpiaple.github.io/portfolio/index.html</loc>
-    <lastmod>2026-08-08T19:09:09.179Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bpiaple.github.io/Stages/index.html</loc>
-    <lastmod>2026-08-08T19:09:09.171Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bpiaple.github.io/about.html</loc>
-    <lastmod>2026-08-08T19:09:09.178Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bpiaple.github.io/contact.html</loc>
-    <lastmod>2026-08-08T19:09:09.178Z</lastmod>
+    <lastmod>2026-08-08T20:07:09.692Z</lastmod>
   </url>
   <url>
     <loc>https://bpiaple.github.io/index.html</loc>
-    <lastmod>2026-08-08T19:09:09.179Z</lastmod>
+    <lastmod>2026-08-08T20:07:09.692Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bpiaple.github.io/DESIGN.html</loc>
+    <lastmod>2026-08-08T20:07:09.685Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bpiaple.github.io/about.html</loc>
+    <lastmod>2026-08-08T20:07:09.691Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bpiaple.github.io/contact.html</loc>
+    <lastmod>2026-08-08T20:07:09.691Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bpiaple.github.io/PRODUCT.html</loc>
+    <lastmod>2026-08-08T20:07:09.685Z</lastmod>
   </url>
 </urlset>
