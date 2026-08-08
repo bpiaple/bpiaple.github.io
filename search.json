@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "portfolio/index.html",
+    "href": "portfolio/index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Mes Projets\n\n\nRéalisations techniques & Projets académiques\n\n\n\n\n\n\n🌐 Application Web Full-Stack (.NET & Razor)\nDéveloppement d’une solution web complète avec architecture client-serveur. Conception et développement d’une API RESTful performante en C# (.NET) et intégration d’une interface utilisateur dynamique utilisant le moteur de vues Razor.\nPoints clés: - Architecture client-serveur - API RESTful en C# - Gestion des appels API et structuration des données SQL\nTechnologies: C# ASP.NET Core Razor Pages API REST SQL\n\n\n☁️ Infrastructure Serveur & Intégration Cloud\nMise en place d’environnements virtualisés sécurisés pour supporter des services multi-utilisateurs. Déploiement et configuration d’environnements Windows Server et automatisation via PowerShell. Intégration de services Azure pour la haute disponibilité.\nPoints clés: - Environnements virtualisés sécurisés - Automatisation PowerShell - Documentation technique (plans de reprise, sécurité)\nTechnologies: Azure Windows Server Active Directory PowerShell VMware\n\n\n🚀 Site Web personnel avec CI/CD\nConception et déploiement de ce site web personnel avec un pipeline automatisé d’intégration et de déploiement continu (CI/CD).\nPoints clés: - Pipeline de déploiement continu - Site statique performant - Gestion de version avec Git\nTechnologies: GitHub Pages GitHub Actions Quarto Markdown\n\n\n\n\nVous souhaitez en voir plus ?\nJe suis toujours en train de travailler sur de nouveaux projets. Consultez mon GitHub pour voir mes contributions récentes.\nVoir mon GitHub Me contacter\n\n\n\n\n© 2026 Brice Piaple Dada | Tous droits réservés"
+  },
+  {
     "objectID": "Stages/index.html",
     "href": "Stages/index.html",
     "title": "Stages",
@@ -18,14 +25,14 @@
     "href": "about.html",
     "title": "À Propos de Moi",
     "section": "",
-    "text": "Brice Piaple Dada\n\n\nTechnicien en Informatique\n\n\nFinissant au DEC en informatique au Cégep de Rimouski, je suis passionné par le développement logiciel et l’administration de bases de données. Je cherche toujours à apprendre et à contribuer à des projets innovants, notamment dans des environnements Agile."
+    "text": "Brice Piaple Dada\n\n\nTechnicien en Informatique\n\n\nFinissant au DEC en informatique au Cégep de Rimouski, je suis passionné par le développement logiciel et l’administration de systèmes et de bases de données. Je cherche toujours à apprendre et à contribuer à des projets innovants, notamment dans des environnements Agile.\n\nTélécharger mon CV (FR) Télécharger mon CV (EN)"
   },
   {
     "objectID": "about.html#expérience-professionnelle",
     "href": "about.html#expérience-professionnelle",
     "title": "À Propos de Moi",
     "section": "💼 Expérience Professionnelle",
-    "text": "💼 Expérience Professionnelle\n\n\nCISSSBSL\nPréposé au service alimentaire | Juin 2025 - Présent (Rimouski)\n\nTravail d’équipe efficace dans un environnement au rythme soutenu.\nRespect rigoureux des procédures d’hygiène et des standards de qualité.\n\n\n\nYoco Sarl Services\nDéveloppeur Logiciel | Jan. 2022 — Juil. 2023 (Yaoundé, Cameroun)\n\nDéploiement et maintenance de solutions logicielles dans des environnements Windows Server et Linux.\nRédaction de documentation technique pour assurer la pérennité et la maintenance des systèmes.\nOptimisation des performances systèmes, ayant mené à une réduction de 15 % des erreurs opérationnelles.\n\n\n\nMTN Cameroun\nStagiaire en Développement Logiciel | Mars 2021 — Juin 2021 (Yaoundé, Cameroun)\n\nDéveloppement et maintenance d’applications internes et administration de bases de données.\nSupport technique aux utilisateurs avec un taux de satisfaction de 95 %.\nContribution à la mise en place de bonnes pratiques de sécurité."
+    "text": "💼 Expérience Professionnelle\n\n\nVille de Rimouski\nTechnicien informatique | Mars 2026 - Présent (Rimouski)\n\nSupport de premier et deuxième niveau pour les incidents liés aux postes de travail, logiciels, périphériques et réseaux.\nAdministration des identités Microsoft 365, des accès et des permissions.\nParticipation aux opérations Windows Server et Active Directory et maintenance de la documentation technique.\n\n\n\nCISSSBSL\nPréposé au service alimentaire | Juin 2025 - Présent (Rimouski)\n\nTravail d’équipe efficace dans un environnement au rythme soutenu.\nRespect rigoureux des procédures d’hygiène et des standards de qualité.\n\n\n\nYoco Sarl Services\nDéveloppeur Logiciel | Jan. 2022 — Juil. 2023 (Yaoundé, Cameroun)\n\nDéploiement et maintenance de solutions logicielles dans des environnements Windows Server et Linux.\nRédaction de documentation technique pour assurer la pérennité et la maintenance des systèmes.\nOptimisation des performances systèmes, ayant mené à une réduction de 15 % des erreurs opérationnelles.\n\n\n\nMTN Cameroun\nStagiaire en Développement Logiciel | Mars 2021 — Juin 2021 (Yaoundé, Cameroun)\n\nDéveloppement et maintenance d’applications internes et administration de bases de données.\nSupport technique aux utilisateurs avec un taux de satisfaction de 95 %.\nContribution à la mise en place de bonnes pratiques de sécurité."
   },
   {
     "objectID": "about.html#éducation",
@@ -49,18 +56,18 @@
     "text": "📜 Certifications\n\n\n🛡️ Ethical Hacker\nCisco (2024)\nRenforcement des compétences en sécurité offensive pour mieux sécuriser le code et les applications.\n\n\n🔒 Google Cybersecurity Certificate\nCoursera (2023)\nAcquisition de compétences en protection des données et analyse des risques."
   },
   {
+    "objectID": "about.html#distinctions",
+    "href": "about.html#distinctions",
+    "title": "À Propos de Moi",
+    "section": "🏆 Distinctions",
+    "text": "🏆 Distinctions\n\n\n🎓 Bourse d’excellence\nFédération des cégeps (2023 - 2026)\nDistinction académique reçue pour la constance des résultats.\n\n\n🌟 Distinction au Gala de réussite\nFondation du Cégep de Rimouski (2025)\nReconnaissance pour les réalisations académiques et personnelles."
+  },
+  {
     "objectID": "about.html#langues",
     "href": "about.html#langues",
     "title": "À Propos de Moi",
     "section": "🗣️ Langues",
     "text": "🗣️ Langues\n\nFrançais: Natif\nAnglais: Intermédiaire\n\n\n\n\n© 2026 Brice Piaple Dada | Tous droits réservés"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Brice Piaple Dada",
-    "section": "",
-    "text": "Brice Piaple Dada\n\n\nTechnicien en Informatique\n\n\nFinissant au DEC en informatique au Cégep de Rimouski, je possède une expérience concrète en développement logiciel et en administration de bases de données. Passionné par la programmation orientée objet (C#) et la résolution de problèmes, je suis reconnu pour mon esprit d’équipe et mon attitude positive.\n\nVoir mon Portfolio Télécharger mon CV\n\n\n\n\nMes Compétences\n\n\n\n\n\nDéveloppement, Bases de données et Infrastructure\n\n\n\n\n💻\n\n\nDéveloppement & Programmation\n\n\nC# (.NET), Python, C++, JavaScript, HTML5/CSS3.\n\n\n\n\n🗄️\n\n\nBases de données\n\n\nSQL, Elastic Search, PostgreSQL. Gestion et administration de bases de données.\n\n\n\n\n☁️\n\n\nInfrastructure & Cloud\n\n\nAzure, Windows Server, Active Directory, PowerShell, VMware.\n\n\n\n\n🚀\n\n\nDevOps & Outils\n\n\nPipelines CI/CD, Git / GitHub, VS Code.\n\n\n\n\n\nTechnologies Maîtrisées\n\n\n\n\n\nC# (.NET) Python C++ JavaScript HTML5/CSS3 SQL Elastic Search PostgreSQL Azure Windows Server Active Directory PowerShell VMware Git GitHub CI/CD\n\n\n\nEn Chiffres\n\n\n\n\n\n\n\n3+\n\n\nProjets Majeurs\n\n\n\n\n3\n\n\nAnnées d’Expérience\n\n\n\n\n15+\n\n\nTechnologies\n\n\n\n\n100%\n\n\nMotivation\n\n\n\n\n\nExplorez mon travail\n\n\n\n\n\n\n🎯 Portfolio\nDécouvrez mes projets en développement Web .NET, Infrastructure Cloud et DevOps.\nVoir mes projets →\n\n\n📄 CV\nTéléchargez mon CV pour voir mon parcours complet, mes expériences et mes projets.\nTélécharger mon CV →\n\n\n📧 Contact\nDésireux d’apprendre et de m’investir dans un environnement Agile. Contactez-moi !\nMe contacter →\n\n\n\n\n\n© 2026 Brice Piaple Dada | Technicien en Informatique"
   },
   {
     "objectID": "contact.html",
@@ -70,10 +77,10 @@
     "text": "Contactez-moi\n\n\nN’hésitez pas à me contacter pour toute question ou collaboration\n\n\n\n\n\nCoordonnées\n\n\n\n\n\n\n\n📧\n\n\nEmail\n\n\nPour toute demande professionnelle ou question, écrivez-moi.\nbrice.piaple.dada@gmail.com\n\n\n\n\n📱\n\n\nTéléphone\n\n\nDisponible pour discuter de vive voix.\n+1 (581) 246 5763\n\n\n\n\n📍\n\n\nLocalisation\n\n\nBasé à Rimouski, QC, Canada\n\n\n\n\n\nRéseaux Sociaux\n\n\n\n\n\n\n\n💼\n\n\nLinkedIn\n\n\nConnectez-vous avec moi sur LinkedIn pour suivre mon parcours professionnel.\nMon profil LinkedIn\n\n\n\n\n🐙\n\n\nGitHub\n\n\nDécouvrez mes projets et contributions sur GitHub.\nMon GitHub\n\n\n\n\n\nPourquoi me contacter ?\n\n\n\n\n\n🤝 Collaboration\nVous avez un projet intéressant en cybersécurité ou en administration système ? Je suis toujours ouvert à de nouvelles collaborations et opportunités.\n\n\n🎓 Stage / Emploi\nJe suis à la recherche d’opportunités de carrière pour contribuer aux projets de la RAMQ ou d’autres organisations innovantes.\n\n\n\n\n© 2026 Brice Piaple Dada | Tous droits réservés"
   },
   {
-    "objectID": "portfolio/index.html",
-    "href": "portfolio/index.html",
-    "title": "Portfolio",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brice Piaple Dada",
     "section": "",
-    "text": "Mes Projets\n\n\nRéalisations techniques & Projets académiques\n\n\n\n\n\n\n🌐 Application Web Full-Stack (.NET & Razor)\nDéveloppement d’une solution web complète avec architecture client-serveur. Conception et développement d’une API RESTful performante en C# (.NET) et intégration d’une interface utilisateur dynamique utilisant le moteur de vues Razor.\nPoints clés: - Architecture client-serveur - API RESTful en C# - Gestion des appels API et structuration des données SQL\nTechnologies: C# ASP.NET Core Razor Pages API REST SQL\n\n\n☁️ Infrastructure Serveur & Intégration Cloud\nMise en place d’environnements virtualisés sécurisés pour supporter des services multi-utilisateurs. Déploiement et configuration d’environnements Windows Server et automatisation via PowerShell. Intégration de services Azure pour la haute disponibilité.\nPoints clés: - Environnements virtualisés sécurisés - Automatisation PowerShell - Documentation technique (plans de reprise, sécurité)\nTechnologies: Azure Windows Server Active Directory PowerShell VMware\n\n\n🚀 Site Web personnel avec CI/CD\nConception et déploiement de ce site web personnel avec un pipeline automatisé d’intégration et de déploiement continu (CI/CD).\nPoints clés: - Pipeline de déploiement continu - Site statique performant - Gestion de version avec Git\nTechnologies: GitHub Pages GitHub Actions Quarto Markdown\n\n\n\n\nVous souhaitez en voir plus ?\nJe suis toujours en train de travailler sur de nouveaux projets. Consultez mon GitHub pour voir mes contributions récentes.\nVoir mon GitHub Me contacter\n\n\n\n\n© 2026 Brice Piaple Dada | Tous droits réservés"
+    "text": "Brice Piaple Dada\n\n\nTechnicien en Informatique\n\n\nFinissant au DEC en informatique au Cégep de Rimouski, je possède une expérience concrète en développement logiciel et en administration de bases de données. Passionné par la programmation orientée objet (C#) et la résolution de problèmes, je suis reconnu pour mon esprit d’équipe et mon attitude positive.\n\nVoir mon Portfolio Télécharger mon CV (FR) Télécharger mon CV (EN)\n\n\n\n\nMes Compétences\n\n\n\n\n\nDéveloppement, Bases de données et Infrastructure\n\n\n\n\n💻\n\n\nDéveloppement & Programmation\n\n\nC# (.NET), Python, C++, JavaScript, HTML5/CSS3.\n\n\n\n\n🗄️\n\n\nBases de données\n\n\nSQL, Elastic Search, PostgreSQL. Gestion et administration de bases de données.\n\n\n\n\n☁️\n\n\nInfrastructure & Cloud\n\n\nAzure, Windows Server, Active Directory, PowerShell, VMware.\n\n\n\n\n🚀\n\n\nDevOps & Outils\n\n\nPipelines CI/CD, Git / GitHub, VS Code.\n\n\n\n\n\nTechnologies Maîtrisées\n\n\n\n\n\nC# (.NET) Python C++ JavaScript HTML5/CSS3 SQL Elastic Search PostgreSQL Azure Windows Server Active Directory PowerShell VMware Git GitHub CI/CD\n\n\n\nEn Chiffres\n\n\n\n\n\n\n\n3+\n\n\nProjets Majeurs\n\n\n\n\n3\n\n\nAnnées d’Expérience\n\n\n\n\n15+\n\n\nTechnologies\n\n\n\n\n100%\n\n\nMotivation\n\n\n\n\n\nExplorez mon travail\n\n\n\n\n\n\n🎯 Portfolio\nDécouvrez mes projets en développement Web .NET, Infrastructure Cloud et DevOps.\nVoir mes projets →\n\n\n📄 CV\nTéléchargez mon CV pour voir mon parcours complet, mes expériences et mes projets.\nTélécharger mon CV (FR) → Télécharger mon CV (EN) →\n\n\n📧 Contact\nDésireux d’apprendre et de m’investir dans un environnement Agile. Contactez-moi !\nMe contacter →\n\n\n\n\n\n© 2026 Brice Piaple Dada | Technicien en Informatique"
   }
 ]
