@@ -6,7 +6,7 @@ toc: false
 
 ::: {.certificate}
 ::: {.cert-grid}
-![](images/profile.jpg){.cert-photo fig-alt="Brice Piaple Dada" fig-align="center"}
+![](../images/profile.jpg){.cert-photo fig-alt="Brice Piaple Dada" fig-align="center"}
 
 ::: {.cert-text}
 ::: {.cert-name}
@@ -14,17 +14,17 @@ Brice Piaple Dada
 :::
 
 ::: {.cert-role}
-Technicien en Informatique
+Computer Technician
 :::
 
 ::: {.cert-desc}
-Diplômé du DEC en informatique au Cégep de Rimouski, je possède une expérience concrète en développement logiciel et en administration de bases de données. Passionné par la programmation orientée objet (C#) et la résolution de problèmes, je suis reconnu pour mon esprit d'équipe et mon attitude positive.
+A graduate of the DEC in Computer Science at Cégep de Rimouski, I have hands-on experience in software development and database administration. Passionate about object-oriented programming (C#) and problem solving, I am recognized for my teamwork and positive attitude.
 :::
 
 ::: {.cert-actions}
-[Voir mon Portfolio](/portfolio/index.qmd){.btn-seal}
-[Télécharger mon CV (FR)](CV/Brice_Piaple_Dada_CV_Fr.pdf){.btn-ink}
-[Télécharger mon CV (EN)](CV/Brice_Piaple_Dada_CV_En.pdf){.btn-ink}
+[View my Portfolio](portfolio/index.qmd){.btn-seal}
+[Download my CV (FR)](../CV/Brice_Piaple_Dada_CV_Fr.pdf){.btn-ink}
+[Download my CV (EN)](../CV/Brice_Piaple_Dada_CV_En.pdf){.btn-ink}
 :::
 :::
 :::
@@ -37,11 +37,11 @@ Diplômé du DEC en informatique au Cégep de Rimouski, je possède une expérie
 Brice Piaple Dada
 :::
 ::: {.sig-role}
-Technicien en informatique — Ville de Rimouski
+Computer Technician — Ville de Rimouski
 :::
 :::
 
-<svg class="cert-seal" viewBox="0 0 140 140" role="img" aria-label="Sceau du dossier">
+<svg class="cert-seal" viewBox="0 0 140 140" role="img" aria-label="Sealed file">
   <circle cx="70" cy="70" r="70" fill="none" stroke="currentColor" stroke-width="3.5" stroke-dasharray="0.5 6.2"/>
   <circle cx="70" cy="70" r="62" fill="none" stroke="currentColor" stroke-width="2"/>
   <circle cx="70" cy="70" r="55" fill="none" stroke="currentColor" stroke-width="1" stroke-dasharray="1 5"/>
@@ -51,7 +51,7 @@ Technicien en informatique — Ville de Rimouski
 </svg>
 
 ::: {.cert-legend}
-Dossier SCELLÉ · Rimouski, Québec — Août 2026
+SEALED FILE · Rimouski, Québec — August 2026
 :::
 :::
 :::
@@ -61,18 +61,18 @@ Dossier SCELLÉ · Rimouski, Québec — Août 2026
 ::: {.piece}
 ::: {.piece-head}
 ::: {.piece-ref}
-Pièce N° 1
+Exhibit N° 1
 :::
 ::: {.piece-rule}
 :::
 :::
 
 ::: {.piece-title}
-Ce que je fais
+What I Do
 :::
 
 ::: {.piece-sub}
-Trois domaines qui m'animent et que je pratique au quotidien.
+Three fields I am passionate about and practice every day.
 :::
 
 ::: {.explore-grid}
@@ -81,30 +81,30 @@ Trois domaines qui m'animent et que je pratique au quotidien.
 <i class="bi bi-shield-check" aria-hidden="true"></i>
 
 ::: {.doc-title}
-Cybersécurité & Administration
+Cybersecurity & Administration
 :::
 
 ::: {.doc-body}
-Sécurisation des systèmes, gestion des identités et des accès, administration Windows Server et Active Directory.
+System hardening, identity and access management, Windows Server and Active Directory administration.
 :::
+[Learn more](about.qmd#sysres){.doc-link}
 
-[En savoir plus](/about.qmd#sysres){.doc-link}
-[Contact](/contact.qmd){.doc-link}
+[Contact](contact.qmd){.doc-link}
 :::
 
 ::: {.doc-card}
 <i class="bi bi-code-slash" aria-hidden="true"></i>
 
 ::: {.doc-title}
-Développement Logiciel
+Software Development
 :::
 
 ::: {.doc-body}
-Applications C# .NET, API REST, bases de données SQL et projets académiques complets.
+C# .NET applications, REST APIs, SQL databases and complete academic projects.
 :::
+[Learn more](about.qmd#dev){.doc-link}
 
-[En savoir plus](/about.qmd#dev){.doc-link}
-[Portfolio](/portfolio/index.qmd){.doc-link}
+[Portfolio](portfolio/index.qmd){.doc-link}
 :::
 
 ::: {.doc-card}
@@ -115,10 +115,10 @@ Cloud & Infrastructure
 :::
 
 ::: {.doc-body}
-Services Azure, virtualisation VMware, conteneurisation et déploiement CI/CD.
+Azure services, VMware virtualization, containerization and CI/CD deployment.
 :::
 
-[En savoir plus](/about.qmd#devops){.doc-link}
+[Learn more](about.qmd#devops){.doc-link}
 :::
 
 :::
@@ -129,18 +129,18 @@ Services Azure, virtualisation VMware, conteneurisation et déploiement CI/CD.
 ::: {.piece}
 ::: {.piece-head}
 ::: {.piece-ref}
-Pièce N° 2
+Exhibit N° 2
 :::
 ::: {.piece-rule}
 :::
 :::
 
 ::: {.piece-title}
-Compétences
+Skills
 :::
 
 ::: {.piece-sub}
-Une vitrine des outils et technologies que je maîtrise.
+A showcase of the tools and technologies I master.
 :::
 
 ::: {.tech-block}
@@ -152,18 +152,18 @@ Une vitrine des outils et technologies que je maîtrise.
 ::: {.piece}
 ::: {.piece-head}
 ::: {.piece-ref}
-Pièce N° 3
+Exhibit N° 3
 :::
 ::: {.piece-rule}
 :::
 :::
 
 ::: {.piece-title}
-Réalisations
+Achievements
 :::
 
 ::: {.piece-sub}
-Projets sélectionnés qui montrent l'étendue de mes compétences — du développement à l'infrastructure.
+Selected projects that show the breadth of my skills — from development to infrastructure.
 :::
 
 ::: {.explore-grid}
@@ -174,17 +174,17 @@ Projets sélectionnés qui montrent l'étendue de mes compétences — du dével
 01
 :::
 ::: {.project-title}
-Application Web .NET (C#)
+.NET Web Application (C#)
 :::
 ::: {.project-tags}
 [C#]{.tag} [ASP.NET Core]{.tag} [API REST]{.tag} [SQL]{.tag}
 :::
 
 ::: {.project-body}
-Application web complète (frontend + backend) avec API RESTful et base de données SQL, développée en C# (.NET).
+Complete web application (frontend + backend) with RESTful API and SQL database, built in C# (.NET).
 :::
 
-[Voir le projet sur GitHub](https://github.com/bpiaple){.doc-link}
+[View project on GitHub](https://github.com/bpiaple){.doc-link}
 :::
 
 ::: {.project-card}
@@ -193,17 +193,17 @@ Application web complète (frontend + backend) avec API RESTful et base de donn�
 02
 :::
 ::: {.project-title}
-Infrastructure Cloud et Windows Server
+Cloud and Windows Server Infrastructure
 :::
 ::: {.project-tags}
 [Windows Server]{.tag} [Active Directory]{.tag} [Azure]{.tag} [VMware]{.tag}
 :::
 
 ::: {.project-body}
-Environnements Windows Server virtualisés, intégration de services Azure et administration Active Directory.
+Virtualized Windows Server environments, Azure services integration and Active Directory administration.
 :::
 
-[Voir le projet sur GitHub](https://github.com/bpiaple){.doc-link}
+[View project on GitHub](https://github.com/bpiaple){.doc-link}
 :::
 
 ::: {.project-card}
@@ -212,17 +212,17 @@ Environnements Windows Server virtualisés, intégration de services Azure et ad
 03
 :::
 ::: {.project-title}
-Site Portfolio avec CI/CD
+Portfolio Website with CI/CD
 :::
 ::: {.project-tags}
 [GitHub Pages]{.tag} [GitHub Actions]{.tag} [Quarto]{.tag} [Markdown]{.tag}
 :::
 
 ::: {.project-body}
-Site web personnel avec déploiement automatisé sur GitHub Pages via GitHub Actions (CI/CD).
+Personal website with automated deployment to GitHub Pages via GitHub Actions (CI/CD).
 :::
 
-[Voir le projet sur GitHub](https://github.com/bpiaple){.doc-link}
+[View project on GitHub](https://github.com/bpiaple){.doc-link}
 :::
 
 :::
@@ -233,79 +233,79 @@ Site web personnel avec déploiement automatisé sur GitHub Pages via GitHub Act
 ::: {.piece}
 ::: {.piece-head}
 ::: {.piece-ref}
-Pièce N° 4
+Exhibit N° 4
 :::
 ::: {.piece-rule}
 :::
 :::
 
 ::: {.piece-title}
-Parcours
+Career
 :::
 
 ::: {.piece-sub}
-Un aperçu de mon parcours et de mes projets récents.
+An overview of my journey and recent projects.
 :::
 
 ::: {.timeline}
 
 ::: {.timeline-item}
 ::: {.tl-date}
-Mars 2026 — Présent · Rimouski
+March 2026 — Present · Rimouski
 :::
 ::: {.tl-org}
 Ville de Rimouski
 :::
 ::: {.tl-role}
-Technicien informatique
+IT Technician
 :::
 ::: {.tl-desc}
-Support de premier et deuxième niveau, administration Microsoft 365, Windows Server, Active Directory et documentation technique.
+First- and second-level support, Microsoft 365 administration, Windows Server, Active Directory and technical documentation.
 :::
 :::
 
 ::: {.timeline-item}
 ::: {.tl-date}
-Jan. 2022 — Juil. 2023 · Yaoundé, Cameroun
+Jan. 2022 — Jul. 2023 · Yaoundé, Cameroon
 :::
 ::: {.tl-org}
 Yoco Sarl Services
 :::
 ::: {.tl-role}
-Développeur Logiciel
+Software Developer
 :::
 ::: {.tl-desc}
-Développement et maintenance de solutions logicielles, documentation technique et optimisation des systèmes.
+Development and maintenance of software solutions, technical documentation and system optimization.
 :::
 :::
 
 ::: {.timeline-item}
 ::: {.tl-date}
-Mars 2021 — Juin 2021 · Yaoundé, Cameroun
+March 2021 — June 2021 · Yaoundé, Cameroon
 :::
 ::: {.tl-org}
-MTN Cameroun
+MTN Cameroon
 :::
 ::: {.tl-role}
-Stagiaire en Développement Logiciel
+Software Development Intern
 :::
 ::: {.tl-desc}
-Développement d'applications internes, administration de bases de données et support technique aux utilisateurs.
+Development of internal applications, database administration and user technical support.
 :::
 :::
 
 ::: {.timeline-item}
 ::: {.tl-date}
-Août 2023 — Mai 2026 · Rimouski
+August 2023 — May 2026 · Rimouski
 :::
 ::: {.tl-org}
 Cégep de Rimouski
 :::
 ::: {.tl-role}
-DEC en Techniques de l'informatique
+DEC in Computer Science Techniques
 :::
 ::: {.tl-desc}
-Formation en programmation, cybersécurité, réseaux, bases de données et administration de systèmes.
+Training in programming, cybersecurity, networking, databases and systems administration.
 :::
 :::
 
@@ -317,20 +317,20 @@ Formation en programmation, cybersécurité, réseaux, bases de données et admi
 ::: {.piece}
 ::: {.piece-head}
 ::: {.piece-ref}
-Pièce N° 5
+Exhibit N° 5
 :::
 ::: {.piece-rule}
 :::
 :::
 
 ::: {.piece-title}
-Compétences transversales
+Soft Skills
 :::
 
 ::: {.piece-sub}
-Des qualités qui font la différence au quotidien.
+Qualities that make the difference every day.
 :::
 
 ::: {.tag-cloud}
-[Autonomie]{.tag} [Rigueur]{.tag} [Esprit d'équipe]{.tag} [Communication claire]{.tag} [Résolution de problèmes]{.tag} [Sens du service]{.tag}
+[Autonomy]{.tag} [Rigor]{.tag} [Teamwork]{.tag} [Clear Communication]{.tag} [Problem Solving]{.tag} [Service Orientation]{.tag}
 :::

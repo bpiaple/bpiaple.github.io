@@ -173,11 +173,17 @@ Mes compétences sont démontrées par mes projets, mes expériences et mon parc
 
 ### Techniques
 
+::: {#dev}
 **Développement** : [C# (.NET)]{.tag} [Python / C++]{.tag} [HTML5 / CSS3]{.tag} [JavaScript]{.tag} [SQL]{.tag} [API REST]{.tag}
+:::
 
+::: {#sysres}
 **Systèmes & Réseaux** : [Windows Server]{.tag} [Active Directory]{.tag} [Microsoft 365]{.tag} [Linux]{.tag} [DNS / DHCP]{.tag} [VMware]{.tag}
+:::
 
+::: {#devops}
 **Automatisation & DevOps** : [PowerShell]{.tag} [Bash]{.tag} [Git]{.tag} [GitHub Actions]{.tag} [CI/CD]{.tag} [Azure]{.tag}
+:::
 
 ### Aptitudes Professionnelles
 

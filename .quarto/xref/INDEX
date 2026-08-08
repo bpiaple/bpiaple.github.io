@@ -1,76 +1,38 @@
 {
-  "index.qmd": {
-    "index.html": "70c2b38a"
-  },
   "about.qmd": {
-    "about.html": "f8d135a8"
-  },
-  "portfolio/index.qmd": {
-    "index.html": "7e0790c1"
-  },
-  "blog/index.qmd": {
-    "index.html": "0afb7e6f"
+    "about.html": "f62b9768"
   },
   "contact.qmd": {
-    "contact.html": "2da50d51"
-  },
-  "CV/CV.qmd": {
-    "CV.html": "b03d841d",
-    "CV.typ": "cded090f"
-  },
-  "CV/Brice Piaple Dada CV.qmd": {
-    "Brice Piaple Dada CV.typ": "b9cdc8f3"
-  },
-  "CV/Brice-Piaple-Dada-CV.qmd": {
-    "Brice-Piaple-Dada-CV.typ": "84c6c1b6",
-    "Brice Piaple Dada CV.html": "e33941e1"
-  },
-  "blog/hacking.qmd": {
-    "hacking.html": "3852f277"
-  },
-  "Stages/index.qmd": {
-    "index.html": "f8b7e458"
-  },
-  "blog/Mr-Robot/index.qmd": {
-    "index.html": "ae6d3471"
-  },
-  "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.md": {
-    "Brice_Piaple_Dada_CV.html": "1e8dd292"
-  },
-  "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.md": {
-    "Brice_Piaple_Dada_CV.html": "1ee147cd"
-  },
-  "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.md": {
-    "Brice_Piaple_Dada_CV.html": "8cff1685"
-  },
-  "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.md": {
-    "Brice_Piaple_Dada_CV.html": "e6cb59f3"
-  },
-  "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.md": {
-    "Brice_Piaple_Dada_CV.html": "3c9e56c1"
-  },
-  "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.md": {
-    "Brice_Piaple_Dada_CV.html": "586ca538"
-  },
-  "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.md": {
-    "Brice_Piaple_Dada_CV.html": "5c86e2f2"
-  },
-  "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.md": {
-    "Brice_Piaple_Dada_CV.html": "2d02e1a6"
-  },
-  "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.md": {
-    "Brice_Piaple_Dada_Resume.html": "cca94461"
-  },
-  "CV/rendercv_output_fr/Brice_Piaple_Dada_CV.md": {
-    "Brice_Piaple_Dada_CV.html": "4de9cc93"
-  },
-  "PRODUCT.md": {
-    "PRODUCT.html": "2c1db5b6"
-  },
-  "DESIGN.md": {
-    "DESIGN.html": "12c1f24c"
+    "contact.html": "8457263b"
   },
   "CV/rendercv_output_en/Brice_Piaple_Dada_CV.md": {
-    "Brice_Piaple_Dada_CV.html": "0d8eb701"
+    "Brice_Piaple_Dada_CV.html": "e415c2ee"
+  },
+  "CV/rendercv_output_fr/Brice_Piaple_Dada_CV.md": {
+    "Brice_Piaple_Dada_CV.html": "96d3f0f0"
+  },
+  "DESIGN.md": {
+    "DESIGN.html": "35aaab2e"
+  },
+  "en/about.qmd": {
+    "about.html": "fc89ae5a"
+  },
+  "en/contact.qmd": {
+    "contact.html": "af1569b2"
+  },
+  "en/index.qmd": {
+    "index.html": "b0fb4b62"
+  },
+  "en/portfolio/index.qmd": {
+    "index.html": "25d42cfe"
+  },
+  "index.qmd": {
+    "index.html": "5b4b2383"
+  },
+  "portfolio/index.qmd": {
+    "index.html": "9aca1fd9"
+  },
+  "PRODUCT.md": {
+    "PRODUCT.html": "9ee4554b"
   }
 }

@@ -1,41 +1,44 @@
 project:
   type: website
+  render:
+    - index.qmd
+    - about.qmd
+    - contact.qmd
+    - portfolio/index.qmd
+    - CV/rendercv_output_fr/Brice_Piaple_Dada_CV.md
+    - CV/rendercv_output_en/Brice_Piaple_Dada_CV.md
+    - DESIGN.md
+    - PRODUCT.md
 
 website:
   title: "Brice Piaple Dada"
   favicon: "images/profile.jpg"
   site-url: https://bpiaple.github.io
-  description: "Portfolio personnel de Brice Piaple Dada - Spécialiste en Cybersécurité & Administration Systèmes"
-  
+
   navbar:
-    background: primary
-    search: true
     left:
-      - href: index.qmd
-        text: Accueil
-        icon: house
-      - href: about.qmd
-        text: À Propos
-        icon: person
-      - href: portfolio/index.qmd
-        text: Portfolio
-        icon: briefcase
-      - href: contact.qmd
-        text: Contact
-        icon: envelope
+      - text: Accueil
+        href: index.qmd
+      - text: À Propos
+        href: about.qmd
+      - text: Portfolio
+        href: portfolio/index.qmd
+      - text: Contact
+        href: contact.qmd
     right:
-      - href: CV/Brice_Piaple_Dada_CV_Fr.pdf
-        text: "CV"
+      - text: CV
+        href: CV/Brice_Piaple_Dada_CV_Fr.pdf
       - icon: github
         href: https://github.com/bpiaple
-        aria-label: GitHub
+      - text: EN
+        href: /en/
 
   page-footer:
     background: primary
     left: |
       © 2026 Brice Piaple Dada
     center: |
-      Fait avec <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-label="amour" role="img" style="vertical-align: -2px;"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg> et [Quarto](https://quarto.org/)
+      Fait avec <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-label="love" role="img" style="vertical-align: -2px;"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg> et [Quarto](https://quarto.org/)
     right:
       - icon: github
         href: https://github.com/bpiaple
@@ -45,16 +48,18 @@ website:
 format:
   html:
     lang: fr
+    language: fr
     theme:
       light: [flatly, themes/dossier.scss]
       dark: [darkly, themes/dossier-dark.scss]
     css: styles.css
     toc: true
-    language: fr
     smooth-scroll: true
     link-external-newwindow: true
-    include-in-header: _includes/fonts.html
+    include-in-header:
+      - _includes/fonts.html
+      - _includes/lang-switch.html
     include-before-body: _includes/contract.html
 
-editor: 
+editor:
   render-on-save: true

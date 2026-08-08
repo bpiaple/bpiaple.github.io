@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: ../_site/en
+
+website:
+  title: "Brice Piaple Dada"
+  favicon: "../images/profile.jpg"
+  site-url: https://bpiaple.github.io
+
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Portfolio
+        href: portfolio/index.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - text: CV
+        href: ../CV/Brice_Piaple_Dada_CV_En.pdf
+      - icon: github
+        href: https://github.com/bpiaple
+      - text: FR
+        href: /
+
+  page-footer:
+    background: primary
+    left: |
+      © 2026 Brice Piaple Dada
+    center: |
+      Made with <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-label="love" role="img" style="vertical-align: -2px;"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg> and [Quarto](https://quarto.org/)
+    right:
+      - icon: github
+        href: https://github.com/bpiaple
+      - icon: envelope
+        href: mailto:brice.piaple.dada@gmail.com
+
+format:
+  html:
+    lang: en
+    language: en
+    theme:
+      light: [flatly, ../themes/dossier.scss]
+      dark: [darkly, ../themes/dossier-dark.scss]
+    css: ../styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      - ../_includes/fonts.html
+      - ../_includes/lang-switch.html
+    include-before-body: ../_includes/contract.html

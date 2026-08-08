@@ -77,11 +77,123 @@
     "text": "Audience francophone (contenu en français). Aucune autre exigence d’accessibilité spécifique confirmée."
   },
   {
+    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html",
+    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html",
+    "title": "Brice Piaple Dada’s CV",
+    "section": "",
+    "text": "Phone: +1 581 246 5763\nEmail: brice.piaple.dada@gmail.com\nLocation: Rimouski, Quebec, Canada\nWebsite: bpiaple.github.io"
+  },
+  {
+    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#ville-de-rimouski-rimouski-quebec",
+    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#ville-de-rimouski-rimouski-quebec",
+    "title": "Brice Piaple Dada’s CV",
+    "section": "Ville de Rimouski – Rimouski, Quebec",
+    "text": "Ville de Rimouski – Rimouski, Quebec\nMar 2026 – present\nIT Technician\n\nProvide level 1 and level 2 support for desktop, software, network, and peripheral incidents across municipal teams.\nConfigure and maintain workstations, shared devices, and software environments in a Windows-based environment.\nAdminister Microsoft 365 identities, access rights, and permission changes aligned with policy.\nSupport Windows Server and Active Directory operations and maintain technical documentation.\nContribute to service quality improvements through clear troubleshooting notes and process follow-up."
+  },
+  {
+    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#yoco-sarl-services-yaounde-cameroon",
+    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#yoco-sarl-services-yaounde-cameroon",
+    "title": "Brice Piaple Dada’s CV",
+    "section": "Yoco Sarl Services – Yaounde, Cameroon",
+    "text": "Yoco Sarl Services – Yaounde, Cameroon\nJan 2022 – July 2023\nSoftware Developer and Systems Administrator\n\nDeployed and maintained software solutions in Windows Server and Linux environments.\nOptimized system performance, reducing operational errors by 15%.\nAutomated recurring administrative tasks and backup routines.\nProduced technical documentation for troubleshooting and handoff."
+  },
+  {
+    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#mtn-cameroon-yaounde-cameroon",
+    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#mtn-cameroon-yaounde-cameroon",
+    "title": "Brice Piaple Dada’s CV",
+    "section": "MTN Cameroon – Yaounde, Cameroon",
+    "text": "MTN Cameroon – Yaounde, Cameroon\nMar 2021 – June 2021\nDevelopment and Support Intern\n\nDeveloped and maintained internal applications and supported database administration.\nDelivered end-user technical support with about 95% satisfaction.\nSupported the application of security best practices and internal procedures."
+  },
+  {
+    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#full-stack-web-application-and-api",
+    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#full-stack-web-application-and-api",
+    "title": "Brice Piaple Dada’s CV",
+    "section": "Full-Stack Web Application and API",
+    "text": "Full-Stack Web Application and API\nBuilt a client-server solution with C#/.NET, SQL, and operational documentation.\n\nImplemented REST API services and application logic in C# and .NET.\nManaged SQL queries and data operations.\nDeveloped a dynamic user interface and documented deployment and support procedures."
+  },
+  {
+    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#infrastructure-server-and-cloud-integration",
+    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#infrastructure-server-and-cloud-integration",
+    "title": "Brice Piaple Dada’s CV",
+    "section": "Infrastructure Server and Cloud Integration",
+    "text": "Infrastructure Server and Cloud Integration\nDesigned and documented a secure multi-user infrastructure aligned with enterprise support needs.\n\nDeployed Windows Server and Linux environments in virtualization for multi-user service scenarios.\nImplemented Active Directory domains, groups, permissions, and baseline access controls.\nConfigured DNS and DHCP services and automated maintenance with PowerShell.\nAuthored backup and recovery runbooks and security procedures."
+  },
+  {
+    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#personal-website-with-cicd",
+    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#personal-website-with-cicd",
+    "title": "Brice Piaple Dada’s CV",
+    "section": "Personal Website with CI/CD",
+    "text": "Personal Website with CI/CD\nMaintained a public website with automated validation and deployment workflows.\n\nUsed GitHub Actions to automate checks and publishing.\nManaged content and releases with GitHub Pages, Markdown, and Quarto."
+  },
+  {
+    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-rimouski-quebec",
+    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-rimouski-quebec",
+    "title": "Brice Piaple Dada’s CV",
+    "section": "Cegep de Rimouski – Rimouski, Quebec",
+    "text": "Cegep de Rimouski – Rimouski, Quebec\nAug 2023 – May 2026\nDiploma of College Studies (DEC) in Computer Technology\n\nSystems and network administration with Windows Server, Active Directory, DNS, and DHCP.\nSoftware and web development with C#, .NET, HTML, CSS, JavaScript, and SQL.\nCybersecurity, infrastructure deployment, and troubleshooting practices.\nMobile development fundamentals with Flutter and Dart."
+  },
+  {
+    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bandjoun-cameroon",
+    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bandjoun-cameroon",
+    "title": "Brice Piaple Dada’s CV",
+    "section": "Institut Universitaire de Technologie de Bandjoun – Bandjoun, Cameroon",
+    "text": "Institut Universitaire de Technologie de Bandjoun – Bandjoun, Cameroon\nNov 2020 – June 2023\nBachelor of Computer Science in Software Engineering\n\nSoftware design, information systems analysis, and database fundamentals.\nAlgorithm design, data structures, and application development."
+  },
+  {
+    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
+    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
+    "title": "Brice Piaple Dada’s CV",
+    "section": "Google Cybersecurity Certificate – Coursera",
+    "text": "Google Cybersecurity Certificate – Coursera\n2023\nData protection, risk analysis, and security foundations."
+  },
+  {
+    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
+    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
+    "title": "Brice Piaple Dada’s CV",
+    "section": "Ethical Hacker – Cisco",
+    "text": "Ethical Hacker – Cisco\n2024\nOffensive security techniques and defensive control practices."
+  },
+  {
+    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#excellence-scholarship-federation-des-cegeps",
+    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#excellence-scholarship-federation-des-cegeps",
+    "title": "Brice Piaple Dada’s CV",
+    "section": "Excellence Scholarship – Federation des cegeps",
+    "text": "Excellence Scholarship – Federation des cegeps\n2023 - 2026\nAcademic distinction awarded for sustained high performance."
+  },
+  {
+    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#gala-achievement-distinction-fondation-du-cegep-de-rimouski",
+    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#gala-achievement-distinction-fondation-du-cegep-de-rimouski",
+    "title": "Brice Piaple Dada’s CV",
+    "section": "Gala Achievement Distinction – Fondation du Cegep de Rimouski",
+    "text": "Gala Achievement Distinction – Fondation du Cegep de Rimouski\n2025\nRecognition for outstanding academic and personal achievement."
+  },
+  {
+    "objectID": "portfolio/index.html",
+    "href": "portfolio/index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Mes Projets\n\n\nRéalisations techniques & projets académiques\n\n\nLe catalogue des pièces livrées : applications web, infrastructures et automatisations — avec les technologies attestées pour chacune.\n\n\nVoir mon GitHub Me contacter\n\n\n\n\n\n\n\n\nPièce N° 1\n\n\n\n\n\n\nCatalogue des Réalisations\n\n\n\n\nApplication Web Full-Stack (.NET & Razor)\n\n\nDéveloppement d’une solution web complète avec architecture client-serveur. Conception et développement d’une API RESTful performante en C# (.NET) et intégration d’une interface utilisateur dynamique utilisant le moteur de vues Razor.\n\n\nPoints clés\n\n\nArchitecture client-serveur\nAPI RESTful en C#\nGestion des appels API et structuration des données SQL\n\n\nTechnologies\n\n\nC# ASP.NET Core Razor Pages API REST SQL\n\n\n\n\n\nInfrastructure Serveur & Intégration Cloud\n\n\nMise en place d’environnements virtualisés sécurisés pour supporter des services multi-utilisateurs. Déploiement et configuration d’environnements Windows Server et automatisation via PowerShell. Intégration de services Azure pour la haute disponibilité.\n\n\nPoints clés\n\n\nEnvironnements virtualisés sécurisés\nAutomatisation PowerShell\nDocumentation technique (plans de reprise, sécurité)\n\n\nTechnologies\n\n\nAzure Windows Server Active Directory PowerShell VMware\n\n\n\n\n\nSite Web personnel avec CI/CD\n\n\nConception et déploiement de ce site web personnel avec un pipeline automatisé d’intégration et de déploiement continu (CI/CD).\n\n\nPoints clés\n\n\nPipeline de déploiement continu\nSite statique performant\nGestion de version avec Git\n\n\nTechnologies\n\n\nGitHub Pages GitHub Actions Quarto Markdown\n\n\n\n\n\n\n\nVous souhaitez en voir plus ?\n\n\nJe suis toujours en train de travailler sur de nouveaux projets. Consultez mon GitHub pour voir mes contributions récentes.\n\nVoir mon GitHub Me contacter"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "À Propos de Moi",
+    "section": "",
+    "text": "Brice Piaple Dada\n\n\nTechnicien en Informatique\n\n\nTechnicien informatique à la Ville de Rimouski et diplômé du DEC en Techniques de l’informatique, je combine support et administration (Windows Server, Active Directory, Microsoft 365) avec le développement logiciel (C#/.NET, API REST). Certifié en cybersécurité, je transforme chaque problème en solution documentée et fiable — en entreprise comme au quotidien.\n\n\nTélécharger mon CV (FR) Télécharger mon CV (EN)\n\n\n\n\n\n\n\n\nPièce N° 1\n\n\n\n\n\n\nExpérience Professionnelle\n\n\n\n\nMars 2026 — Présent · Rimouski\n\n\nVille de Rimouski\n\n\nTechnicien informatique\n\n\n\nSupport de premier et deuxième niveau pour les incidents liés aux postes de travail, logiciels, périphériques et réseaux.\nAdministration des identités Microsoft 365, des accès et des permissions.\nParticipation aux opérations Windows Server et Active Directory et maintenance de la documentation technique.\n\n\n\n\n\nJan. 2022 — Juil. 2023 · Yaoundé, Cameroun\n\n\nYoco Sarl Services\n\n\nDéveloppeur Logiciel\n\n\n\nDéploiement et maintenance de solutions logicielles dans des environnements Windows Server et Linux.\nRédaction de documentation technique pour assurer la pérennité et la maintenance des systèmes.\nOptimisation des performances systèmes, ayant mené à une réduction de 15 % des erreurs opérationnelles.\n\n\n\n\n\nMars 2021 — Juin 2021 · Yaoundé, Cameroun\n\n\nMTN Cameroun\n\n\nStagiaire en Développement Logiciel\n\n\n\nDéveloppement et maintenance d’applications internes et administration de bases de données.\nSupport technique aux utilisateurs avec un taux de satisfaction de 95 %.\nContribution à la mise en place de bonnes pratiques de sécurité.\n\n\n\n\n\n\n\n\n\nPièce N° 2\n\n\n\n\n\n\nÉducation\n\n\n\n\nAoût 2023 — Mai 2026 · Rimouski\n\n\nCégep de Rimouski\n\n\nTechniques de l’Informatique (DEC)\n\n\n\nCote R: 30.887\nPoints clés: Développement en C# (.NET), architecture de bases de données, méthodologies de développement et sécurité applicative.\n\n\n\n\n\nOct. 2020 — Juil. 2023 · Bandjoun, Cameroun\n\n\nInstitut Universitaire de Technologie de Bandjoun\n\n\nGénie Logiciel (Baccalauréat)\n\n\n\nMoyenne: 3.5 / 4\nPoints clés: Programme axé sur l’analyse, la conception de systèmes logiciels complexes et l’algorithmique avancée.\n\n\n\n\n\n\n\n\n\nPièce N° 3\n\n\n\n\n\n\nCompétences\n\n\nMes compétences sont démontrées par mes projets, mes expériences et mon parcours académique.\n\n\nTechniques\n\nDéveloppement : C# (.NET) Python / C++ HTML5 / CSS3 JavaScript SQL API REST\n\n\nSystèmes & Réseaux : Windows Server Active Directory Microsoft 365 Linux DNS / DHCP VMware\n\n\nAutomatisation & DevOps : PowerShell Bash Git GitHub Actions CI/CD Azure\n\n\n\nAptitudes Professionnelles\n\n\n\n\nTravail d’équipe\n\n\nCollaboration efficace et esprit d’équipe positif.\n\n\n\n\n\nAutonomie\n\n\nInitiative et capacité à travailler de manière indépendante.\n\n\n\n\n\nÉthique\n\n\nProfessionnalisme et respect des normes.\n\n\n\n\n\nAgilité\n\n\nOrientation résultats et adaptation rapide.\n\n\n\n\n\n\n\n\n\nPièce N° 4\n\n\n\n\n\n\nCertifications\n\n\n\n\n\nEthical Hacker\n\n\nCisco (2024)\nRenforcement des compétences en sécurité offensive pour mieux sécuriser le code et les applications.\n\n\n\n\n\nGoogle Cybersecurity Certificate\n\n\nCoursera (2023)\nAcquisition de compétences en protection des données et analyse des risques.\n\n\n\n\n\n\n\n\nPièce N° 5\n\n\n\n\n\n\nDistinctions\n\n\n\n\n\nBourse d’excellence\n\n\nFédération des cégeps (2023 - 2026)\nDistinction académique reçue pour la constance des résultats.\n\n\n\n\n\nDistinction au Gala de réussite\n\n\nFondation du Cégep de Rimouski (2025)\nReconnaissance pour les réalisations académiques et personnelles.\n\n\n\n\n\n\n\n\nPièce N° 6\n\n\n\n\n\n\nLangues\n\n\n\n\nFrançais\n\n\nNatif\n\n\n\n\nAnglais\n\n\nIntermédiaire"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Brice Piaple Dada",
     "section": "",
-    "text": "Brice Piaple Dada\n\n\nTechnicien en Informatique\n\n\nDiplômé du DEC en informatique au Cégep de Rimouski, je possède une expérience concrète en développement logiciel et en administration de bases de données. Passionné par la programmation orientée objet (C#) et la résolution de problèmes, je suis reconnu pour mon esprit d’équipe et mon attitude positive.\n\n\nVoir mon Portfolio Télécharger mon CV (FR) Télécharger mon CV (EN)\n\n\n\n\n\n\n\n\n\nBrice Piaple Dada\n\n\nTechnicien en informatique — Ville de Rimouski\n\n\n\n    BP 2026\n\n\n\n\n\n\n\nPièce N° 1\n\n\n\n\n\n\nMes Compétences\n\n\nDéveloppement, bases de données et infrastructure — l’éventail complet du technicien polyvalent.\n\n\n\n\n\nDéveloppement & Programmation\n\n\nC# (.NET), Python, C++, JavaScript, HTML5/CSS3.\n\n\n\n\n\nBases de données\n\n\nSQL, Elastic Search, PostgreSQL. Gestion et administration de bases de données.\n\n\n\n\n\nInfrastructure & Cloud\n\n\nAzure, Windows Server, Active Directory, PowerShell, VMware.\n\n\n\n\n\nDevOps & Outils\n\n\nPipelines CI/CD, Git / GitHub, VS Code.\n\n\n\n\n\n\n\n\nPièce N° 2\n\n\n\n\n\n\nTechnologies Maîtrisées\n\n\nL’inventaire exact du dossier, pièce par pièce.\n\n\nC# (.NET) Python C++ JavaScript HTML5/CSS3 SQL Elastic Search PostgreSQL Azure Windows Server Active Directory PowerShell VMware Git GitHub CI/CD\n\n\n\n\n\n\nPièce N° 3\n\n\n\n\n\n\nEn Chiffres\n\n\n\n\n3+\n\n\nProjets Majeurs\n\n\n\n\n3\n\n\nAnnées d’Expérience\n\n\n\n\n15+\n\n\nTechnologies\n\n\n\n\n100%\n\n\nMotivation\n\n\n\n\n\n\n\n\nPièce N° 4\n\n\n\n\n\n\nExplorez mon travail\n\n\nLes annexes du dossier : projets, curriculum et coordonnées.\n\n\n\n\n\nPortfolio\n\n\nDécouvrez mes projets en développement Web .NET, Infrastructure Cloud et DevOps.\n\nVoir mes projets →\n\n\n\n\nCV\n\n\nTéléchargez mon CV pour voir mon parcours complet, mes expériences et mes projets.\n\nTélécharger mon CV (FR) → Télécharger mon CV (EN) →\n\n\n\n\nContact\n\n\nDésireux d’apprendre et de m’investir dans un environnement Agile. Contactez-moi !\n\nMe contacter →"
+    "text": "Brice Piaple Dada\n\n\nTechnicien en Informatique\n\n\nDiplômé du DEC en informatique au Cégep de Rimouski, je possède une expérience concrète en développement logiciel et en administration de bases de données. Passionné par la programmation orientée objet (C#) et la résolution de problèmes, je suis reconnu pour mon esprit d’équipe et mon attitude positive.\n\n\nVoir mon Portfolio Télécharger mon CV (FR) Télécharger mon CV (EN)\n\n\n\n\n\n\n\n\n\nBrice Piaple Dada\n\n\nTechnicien en informatique — Ville de Rimouski\n\n\n\n    BP 2026\n\n\nDossier SCELLÉ · Rimouski, Québec — Août 2026\n\n\n\n\n\n\n\nPièce N° 1\n\n\n\n\n\n\nCe que je fais\n\n\nTrois domaines qui m’animent et que je pratique au quotidien.\n\n\n\n\n\nCybersécurité & Administration\n\n\nSécurisation des systèmes, gestion des identités et des accès, administration Windows Server et Active Directory.\n\nEn savoir plus Contact\n\n\n\n\nDéveloppement Logiciel\n\n\nApplications C# .NET, API REST, bases de données SQL et projets académiques complets.\n\nEn savoir plus Portfolio\n\n\n\n\nCloud & Infrastructure\n\n\nServices Azure, virtualisation VMware, conteneurisation et déploiement CI/CD.\n\nEn savoir plus\n\n\n\n\n\n\n\nPièce N° 2\n\n\n\n\n\n\nCompétences\n\n\nUne vitrine des outils et technologies que je maîtrise.\n\n\nC# (.NET) Python C++ JavaScript HTML5/CSS3 SQL Elastic Search PostgreSQL Azure Windows Server Active Directory PowerShell VMware Git GitHub CI/CD\n\n\n\n\n\nPièce N° 3\n\n\n\n\n\n\nRéalisations\n\n\nProjets sélectionnés qui montrent l’étendue de mes compétences — du développement à l’infrastructure.\n\n\n\n\n\n01\n\n\nApplication Web .NET (C#)\n\n\nC# ASP.NET Core API REST SQL\n\n\nApplication web complète (frontend + backend) avec API RESTful et base de données SQL, développée en C# (.NET).\n\nVoir le projet sur GitHub\n\n\n\n\n02\n\n\nInfrastructure Cloud et Windows Server\n\n\nWindows Server Active Directory Azure VMware\n\n\nEnvironnements Windows Server virtualisés, intégration de services Azure et administration Active Directory.\n\nVoir le projet sur GitHub\n\n\n\n\n03\n\n\nSite Portfolio avec CI/CD\n\n\nGitHub Pages GitHub Actions Quarto Markdown\n\n\nSite web personnel avec déploiement automatisé sur GitHub Pages via GitHub Actions (CI/CD).\n\nVoir le projet sur GitHub\n\n\n\n\n\n\n\nPièce N° 4\n\n\n\n\n\n\nParcours\n\n\nUn aperçu de mon parcours et de mes projets récents.\n\n\n\n\nMars 2026 — Présent · Rimouski\n\n\nVille de Rimouski\n\n\nTechnicien informatique\n\n\nSupport de premier et deuxième niveau, administration Microsoft 365, Windows Server, Active Directory et documentation technique.\n\n\n\n\nJan. 2022 — Juil. 2023 · Yaoundé, Cameroun\n\n\nYoco Sarl Services\n\n\nDéveloppeur Logiciel\n\n\nDéveloppement et maintenance de solutions logicielles, documentation technique et optimisation des systèmes.\n\n\n\n\nMars 2021 — Juin 2021 · Yaoundé, Cameroun\n\n\nMTN Cameroun\n\n\nStagiaire en Développement Logiciel\n\n\nDéveloppement d’applications internes, administration de bases de données et support technique aux utilisateurs.\n\n\n\n\nAoût 2023 — Mai 2026 · Rimouski\n\n\nCégep de Rimouski\n\n\nDEC en Techniques de l’informatique\n\n\nFormation en programmation, cybersécurité, réseaux, bases de données et administration de systèmes.\n\n\n\n\n\n\n\n\nPièce N° 5\n\n\n\n\n\n\nCompétences transversales\n\n\nDes qualités qui font la différence au quotidien.\n\n\nAutonomie Rigueur Esprit d’équipe Communication claire Résolution de problèmes Sens du service"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contactez-moi\n\n\nToute question ou collaboration bienvenue\n\n\nLe dossier se consulte, mais je réponds de vive voix, par courriel et sur les réseaux. Chaque contact est une nouvelle pièce au dossier.\n\n\nÉcrire un courriel Me joindre par téléphone\n\n\n\n\n\n\n\n\nPièce N° 1\n\n\n\n\n\n\nCoordonnées\n\n\n\n\n Courriel\n\n\nbrice.piaple.dada@gmail.com\n\n\n\n\n Téléphone\n\n\n+1 (581) 246 5763 — disponible pour discuter de vive voix.\n\n\n\n\n Localisation\n\n\nBasé à Rimouski, QC, Canada\n\n\n\n\n\n\n\n\nPièce N° 2\n\n\n\n\n\n\nRéseaux Sociaux\n\n\n\n\n\nGitHub\n\n\nDécouvrez mes projets et contributions sur GitHub.\n\nMon GitHub\n\n\n\n\n\n\n\nPièce N° 3\n\n\n\n\n\n\nPourquoi me contacter ?\n\n\n\n\n\nCollaboration\n\n\nVous avez un projet intéressant en cybersécurité ou en administration système ? Je suis toujours ouvert à de nouvelles collaborations et opportunités.\n\n\n\n\n\nEmploi\n\n\nJe suis à la recherche d’opportunités de carrière en informatique : administration de systèmes, cybersécurité, développement logiciel ou tout autre projet technologique."
   },
   {
     "objectID": "CV/rendercv_output_fr/Brice_Piaple_Dada_CV.html",
@@ -175,846 +287,6 @@
     "text": "Distinction au Gala de réussite – Fondation du Cégep de Rimouski\n2025\nReconnaissance pour les réalisations académiques et personnelles."
   },
   {
-    "objectID": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html",
-    "href": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "",
-    "text": "Phone: +1 581 246 5763\nEmail: brice.piaple.dada@gmail.com\nLocation: Rimouski, Quebec, Canada"
-  },
-  {
-    "objectID": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#ville-de-rimouski-rimouski-quebec",
-    "href": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#ville-de-rimouski-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Ville de Rimouski – Rimouski, Quebec",
-    "text": "Ville de Rimouski – Rimouski, Quebec\nMar 2026 – present\nIT Technician\n\nDelivered level 1 and level 2 support for desktop, software, networking, and peripheral incidents with a strong focus on uptime and service quality.\nDiagnosed connectivity issues and resolved endpoint and network-related problems while following documented procedures and response standards.\nConfigured and maintained workstations, software images, and shared technology resources in a multi-user environment.\nAdministered Microsoft 365 accounts, permissions, and access requests, supporting secure and reliable day-to-day operations.\nContributed to Windows Server and Active Directory maintenance tasks, technical documentation, and operational continuity."
-  },
-  {
-    "objectID": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#yoco-sarl-services-yaoundé-cameroon",
-    "href": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#yoco-sarl-services-yaoundé-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Yoco Sarl Services – Yaoundé, Cameroon",
-    "text": "Yoco Sarl Services – Yaoundé, Cameroon\nJan 2022 – July 2023\nSoftware Developer and Systems Administrator\n\nMaintained Windows and Linux server environments supporting business applications and internal services.\nDeployed and supported web applications while ensuring availability, configuration integrity, and troubleshooting readiness.\nAutomated routine administration tasks and operational maintenance using scripting and standard tooling.\nApplied baseline security and backup practices to protect systems and maintain service continuity."
-  },
-  {
-    "objectID": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#mtn-cameroon-yaoundé-cameroon",
-    "href": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#mtn-cameroon-yaoundé-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "MTN Cameroon – Yaoundé, Cameroon",
-    "text": "MTN Cameroon – Yaoundé, Cameroon\nMar 2021 – June 2021\nDevelopment and Support Intern\n\nProvided end-user support and incident resolution, helping maintain a reliable work environment and strong user satisfaction.\nAssisted with application support, data quality checks, and routine operational tasks tied to internal systems.\nApplied internal procedures and contributed to a structured support experience for users and stakeholders."
-  },
-  {
-    "objectID": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#network-infrastructure-and-server-deployment",
-    "href": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#network-infrastructure-and-server-deployment",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Network Infrastructure and Server Deployment",
-    "text": "Network Infrastructure and Server Deployment\nBuilt and documented a secure, multi-user infrastructure environment for enterprise-style operations.\n\nDeployed Windows Server services including Active Directory, DNS, and DHCP in a structured lab environment.\nImplemented user groups, permissions, and baseline security controls to support operational stability.\nCreated technical procedures covering backup, restoration, and troubleshooting workflows."
-  },
-  {
-    "objectID": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#hybrid-infrastructure-and-cloud-integration",
-    "href": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#hybrid-infrastructure-and-cloud-integration",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Hybrid Infrastructure and Cloud Integration",
-    "text": "Hybrid Infrastructure and Cloud Integration\nImplemented virtualized Windows and Linux environments for networked service scenarios.\n\nConfigured network services and validated service availability across virtual machines.\nAutomated administration tasks with PowerShell and documented practical troubleshooting steps.\nStrengthened understanding of infrastructure operations, connectivity, and service reliability."
-  },
-  {
-    "objectID": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#cégep-de-rimouski-rimouski-quebec",
-    "href": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#cégep-de-rimouski-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Cégep de Rimouski – Rimouski, Quebec",
-    "text": "Cégep de Rimouski – Rimouski, Quebec\nAug 2023 – May 2026\nDiploma of College Studies (DEC) in Computer Technology\n\nSystems and network administration with Windows Server, Active Directory, DNS, DHCP, and Linux.\nCybersecurity, deployment, and troubleshooting practices.\nApplied projects in software development, infrastructure support, and network administration."
-  },
-  {
-    "objectID": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#institut-universitaire-de-technologie-de-bandjoun-bandjoun-cameroon",
-    "href": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#institut-universitaire-de-technologie-de-bandjoun-bandjoun-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Institut Universitaire de Technologie de Bandjoun – Bandjoun, Cameroon",
-    "text": "Institut Universitaire de Technologie de Bandjoun – Bandjoun, Cameroon\nNov 2020 – June 2023\nBachelor of Computer Science in Software Engineering\n\nFoundational studies in information systems, networks, and software architecture.\nBuilt strong analytical and problem-solving skills for technical support and operations."
-  },
-  {
-    "objectID": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#google-cybersecurity-certificate-coursera",
-    "href": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#google-cybersecurity-certificate-coursera",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Google Cybersecurity Certificate – Coursera",
-    "text": "Google Cybersecurity Certificate – Coursera\n2023\nCovers data protection, risk analysis, and secure operational practices."
-  },
-  {
-    "objectID": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#ethical-hacker-cisco",
-    "href": "CV/RenderCV/Xplore/rendercv_output_xplore/Brice_Piaple_Dada_Resume.html#ethical-hacker-cisco",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Ethical Hacker – Cisco",
-    "text": "Ethical Hacker – Cisco\n2024\nPractical foundations in security concepts, threat awareness, and defensive practices."
-  },
-  {
-    "objectID": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html",
-    "href": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "",
-    "text": "Phone: +1 581 246 5763\nEmail: brice.piaple.dada@gmail.com\nLocation: Rimouski, Quebec, Canada\nWebsite: bpiaple.github.io"
-  },
-  {
-    "objectID": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#ville-de-rimouski-rimouski-quebec",
-    "href": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#ville-de-rimouski-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Ville de Rimouski – Rimouski, Quebec",
-    "text": "Ville de Rimouski – Rimouski, Quebec\nMar 2026 – présent\nTechnicien informatique\n\nFournir un support de premier et deuxième niveau pour les incidents liés aux postes de travail, logiciels, périphériques et réseau.\nDiagnostiquer et résoudre les problèmes de connectivité et d’accès utilisateur dans les opérations quotidiennes.\nConfigurer et maintenir les stations de travail, les environnements logiciels et les ressources partagées.\nAdministrer les identités Microsoft 365, les accès et les changements de permissions.\nParticiper aux opérations Windows Server et Active Directory et maintenir la documentation technique."
-  },
-  {
-    "objectID": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#yoco-sarl-services-yaounde-cameroon",
-    "href": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#yoco-sarl-services-yaounde-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Yoco Sarl Services – Yaounde, Cameroon",
-    "text": "Yoco Sarl Services – Yaounde, Cameroon\nJan 2022 – Juil 2023\nDéveloppeur logiciel et administrateur système\n\nDéployer et maintenir des solutions logicielles dans des environnements Windows Server et Linux.\nOptimiser les performances des systèmes, réduisant les erreurs opérationnelles de 15 %.\nContribuer à la configuration des serveurs, aux mises à jour et à la documentation technique.\nCollaborer avec les équipes pour résoudre des problèmes complexes et améliorer la fiabilité des solutions."
-  },
-  {
-    "objectID": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#mtn-cameroon-yaounde-cameroon",
-    "href": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#mtn-cameroon-yaounde-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "MTN Cameroon – Yaounde, Cameroon",
-    "text": "MTN Cameroon – Yaounde, Cameroon\nMar 2021 – Juin 2021\nStagiaire en développement logiciel et support\n\nAssurer le support technique aux utilisateurs finaux avec un taux de satisfaction d’environ 95 %.\nDévelopper et maintenir des applications internes.\nContribuer à l’administration de bases de données et aux bonnes pratiques de sécurité."
-  },
-  {
-    "objectID": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#application-web-full-stack-et-api-rest",
-    "href": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#application-web-full-stack-et-api-rest",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Application Web Full Stack et API REST",
-    "text": "Application Web Full Stack et API REST\nDéveloppement d’une solution web complète avec architecture client-serveur, base de données et services API.\n\nArchitecture et développement d’une API REST robuste, incluant l’authentification et la gestion des échanges de données client-serveur.\nGestion des opérations SQL et de la structure des données relationnelles.\nDéveloppement d’une interface frontend réactive avec JavaScript et React, communiquant de manière sécurisée avec le backend.\nMise en place de procédures de déploiement et de support."
-  },
-  {
-    "objectID": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#déploiement-et-sécurisation-dun-serveur-virtuel",
-    "href": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#déploiement-et-sécurisation-dun-serveur-virtuel",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Déploiement et sécurisation d’un serveur virtuel",
-    "text": "Déploiement et sécurisation d’un serveur virtuel\nMise en place d’une infrastructure serveur sécurisée avec gestion multi-utilisateurs.\n\nConfiguration complète d’environnements Windows Server et Linux sur VMware.\nDéploiement d’Active Directory avec gestion des groupes, permissions et politiques de sécurité.\nGestion de la réseautique (DNS, DHCP) et administration de systèmes Linux via ligne de commande (CLI, scripts bash, tâches cron).\nIntégration Azure pour l’hébergement cloud et la haute disponibilité, dans des architectures comparables à AWS."
-  },
-  {
-    "objectID": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#site-web-personnel-avec-cicd",
-    "href": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#site-web-personnel-avec-cicd",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Site Web personnel avec CI/CD",
-    "text": "Site Web personnel avec CI/CD\nSite personnel avec pipeline automatisé de déploiement continu.\n\nAutomatisation des processus de build, de test et de déploiement (CI/CD) avec GitHub Actions.\nPublication de contenu avec GitHub Pages, Markdown et Quarto."
-  },
-  {
-    "objectID": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-rimouski-quebec",
-    "href": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Cegep de Rimouski – Rimouski, Quebec",
-    "text": "Cegep de Rimouski – Rimouski, Quebec\nAoû 2023 – Mai 2026\nDiplôme d’études collégiales (DEC) en Informatique\n\nAdministration de réseaux et de serveurs Windows, notamment Active Directory, DNS et DHCP.\nDéveloppement d’applications et de services Web en C#, .NET, HTML, CSS, JavaScript et SQL.\nRéseaux informatiques, cybersécurité et déploiement de serveurs.\nRéalisation de projets intégrateurs en développement logiciel et administration réseau."
-  },
-  {
-    "objectID": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bandjoun-cameroon",
-    "href": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bandjoun-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Institut Universitaire de Technologie de Bandjoun – Bandjoun, Cameroon",
-    "text": "Institut Universitaire de Technologie de Bandjoun – Bandjoun, Cameroon\nNov 2020 – Juin 2023\nBaccalauréat en informatique en Génie logiciel\n\nAnalyse et conception de systèmes informatiques et architecture logicielle.\nÉtude avancée en algorithmique, bases de données et développement applicatif."
-  },
-  {
-    "objectID": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "href": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Google Cybersecurity Certificate – Coursera",
-    "text": "Google Cybersecurity Certificate – Coursera\n2023\nProtection des données et analyse des risques."
-  },
-  {
-    "objectID": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "href": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Ethical Hacker – Cisco",
-    "text": "Ethical Hacker – Cisco\n2024\nSécurité offensive et sécurisation des applications."
-  },
-  {
-    "objectID": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#bourse-dexcellence-fédération-des-cégeps",
-    "href": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#bourse-dexcellence-fédération-des-cégeps",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Bourse d’excellence – Fédération des cégeps",
-    "text": "Bourse d’excellence – Fédération des cégeps\n2023 - 2026\nDistinction académique reçue pour la qualité du parcours et la constance des résultats."
-  },
-  {
-    "objectID": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#distinction-au-gala-de-réussite-fondation-du-cégep-de-rimouski",
-    "href": "CV/RenderCV/Harris/rendercv_output_harris/Brice_Piaple_Dada_CV.html#distinction-au-gala-de-réussite-fondation-du-cégep-de-rimouski",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Distinction au Gala de Réussite – Fondation du cégep de Rimouski",
-    "text": "Distinction au Gala de Réussite – Fondation du cégep de Rimouski\n2025\nReconnaissance pour les réalisations et l’engagement académique."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html",
-    "href": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "",
-    "text": "Phone: +1 581 246 5763\nEmail: brice.piaple.dada@gmail.com\nLocation: Rimouski, Quebec, Canada\nWebsite: bpiaple.github.io"
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#it-technician-ville-de-rimouski-rimouski-quebec",
-    "href": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#it-technician-ville-de-rimouski-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "IT Technician, Ville de Rimouski – Rimouski, Quebec",
-    "text": "IT Technician, Ville de Rimouski – Rimouski, Quebec\nMar 2026 – present\n\nProvide level 1 and level 2 support for desktop, software, network, and peripheral incidents across municipal teams.\nConfigure and maintain workstations, shared devices, and software environments in a Windows-based environment.\nAdminister Microsoft 365 identities, access rights, and permission changes aligned with policy.\nSupport Windows Server and Active Directory operations and maintain technical documentation.\nContribute to service quality improvements through clear troubleshooting notes and process follow-up."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#software-developer-and-systems-administrator-yoco-sarl-services-yaounde-cameroon",
-    "href": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#software-developer-and-systems-administrator-yoco-sarl-services-yaounde-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Software Developer and Systems Administrator, Yoco Sarl Services – Yaounde, Cameroon",
-    "text": "Software Developer and Systems Administrator, Yoco Sarl Services – Yaounde, Cameroon\nJan 2022 – July 2023\n\nDeployed and maintained software solutions in Windows Server and Linux environments.\nOptimized system performance, reducing operational errors by 15%.\nAutomated recurring administrative tasks and backup routines.\nProduced technical documentation for troubleshooting and handoff."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#development-and-support-intern-mtn-cameroon-yaounde-cameroon",
-    "href": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#development-and-support-intern-mtn-cameroon-yaounde-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Development and Support Intern, MTN Cameroon – Yaounde, Cameroon",
-    "text": "Development and Support Intern, MTN Cameroon – Yaounde, Cameroon\nMar 2021 – June 2021\n\nDeveloped and maintained internal applications and supported database administration.\nDelivered end-user technical support with about 95% satisfaction.\nSupported the application of security best practices and internal procedures."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#full-stack-web-application-and-api",
-    "href": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#full-stack-web-application-and-api",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Full-Stack Web Application and API",
-    "text": "Full-Stack Web Application and API\nBuilt a client-server solution with C#/.NET, SQL, and operational documentation.\n\nImplemented REST API services and application logic in C# and .NET.\nManaged SQL queries and data operations.\nDeveloped a dynamic user interface and documented deployment and support procedures."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#infrastructure-server-and-cloud-integration",
-    "href": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#infrastructure-server-and-cloud-integration",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Infrastructure Server and Cloud Integration",
-    "text": "Infrastructure Server and Cloud Integration\nDesigned and documented a secure multi-user infrastructure aligned with enterprise support needs.\n\nDeployed Windows Server and Linux environments in virtualization for multi-user service scenarios.\nImplemented Active Directory domains, groups, permissions, and baseline access controls.\nConfigured DNS and DHCP services and automated maintenance with PowerShell.\nAuthored backup and recovery runbooks and security procedures."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#personal-website-with-cicd",
-    "href": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#personal-website-with-cicd",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Personal Website with CI/CD",
-    "text": "Personal Website with CI/CD\nMaintained a public website with automated validation and deployment workflows.\n\nUsed GitHub Actions to automate checks and publishing.\nManaged content and releases with GitHub Pages, Markdown, and Quarto."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-diploma-of-college-studies-dec-in-computer-technology-rimouski-quebec",
-    "href": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-diploma-of-college-studies-dec-in-computer-technology-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Cegep de Rimouski, Diploma of College Studies (DEC) in Computer Technology – Rimouski, Quebec",
-    "text": "Cegep de Rimouski, Diploma of College Studies (DEC) in Computer Technology – Rimouski, Quebec\nAug 2023 – May 2026\n\nSystems and network administration with Windows Server, Active Directory, DNS, and DHCP.\nSoftware and web development with C#, .NET, HTML, CSS, JavaScript, and SQL.\nCybersecurity, infrastructure deployment, and troubleshooting practices.\nMobile development fundamentals with Flutter and Dart."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bachelor-of-computer-science-in-software-engineering-bandjoun-cameroon",
-    "href": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bachelor-of-computer-science-in-software-engineering-bandjoun-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Institut Universitaire de Technologie de Bandjoun, Bachelor of Computer Science in Software Engineering – Bandjoun, Cameroon",
-    "text": "Institut Universitaire de Technologie de Bandjoun, Bachelor of Computer Science in Software Engineering – Bandjoun, Cameroon\nNov 2020 – June 2023\n\nSoftware design, information systems analysis, and database fundamentals.\nAlgorithm design, data structures, and application development."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "href": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Google Cybersecurity Certificate – Coursera",
-    "text": "Google Cybersecurity Certificate – Coursera\n2023\nData protection, risk analysis, and security foundations."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "href": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Ethical Hacker – Cisco",
-    "text": "Ethical Hacker – Cisco\n2024\nOffensive security techniques and defensive control practices."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#excellence-scholarship-federation-des-cegeps",
-    "href": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#excellence-scholarship-federation-des-cegeps",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Excellence Scholarship – Federation des cegeps",
-    "text": "Excellence Scholarship – Federation des cegeps\n2023 - 2026\nAcademic distinction awarded for sustained high performance."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#gala-achievement-distinction-fondation-du-cegep-de-rimouski",
-    "href": "CV/RenderCV/General/rendercv_output_general_en/Brice_Piaple_Dada_CV.html#gala-achievement-distinction-fondation-du-cegep-de-rimouski",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Gala Achievement Distinction – Fondation du Cegep de Rimouski",
-    "text": "Gala Achievement Distinction – Fondation du Cegep de Rimouski\n2025\nRecognition for outstanding academic and personal achievement."
-  },
-  {
-    "objectID": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html",
-    "href": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "",
-    "text": "Phone: +1 581 246 5763\nEmail: brice.piaple.dada@gmail.com\nLocation: Rimouski, Quebec, Canada\nWebsite: bpiaple.github.io"
-  },
-  {
-    "objectID": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#it-technician-ville-de-rimouski-rimouski-quebec",
-    "href": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#it-technician-ville-de-rimouski-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "IT Technician, Ville de Rimouski – Rimouski, Quebec",
-    "text": "IT Technician, Ville de Rimouski – Rimouski, Quebec\nMar 2026 – present\n\nSupport level 1 and level 2 incidents for desktop, software, network, and peripheral issues across municipal teams.\nConfigure and maintain workstations and shared technology resources in a Windows-based environment.\nManage Microsoft 365 identities, user access, and permission changes aligned with policy.\nAssist with Windows Server and Active Directory administration and maintain support documentation.\nContribute to service quality improvements through clear troubleshooting notes and process follow-up."
-  },
-  {
-    "objectID": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#software-developer-and-systems-administrator-yoco-sarl-services-yaounde-cameroon",
-    "href": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#software-developer-and-systems-administrator-yoco-sarl-services-yaounde-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Software Developer and Systems Administrator, Yoco Sarl Services – Yaounde, Cameroon",
-    "text": "Software Developer and Systems Administrator, Yoco Sarl Services – Yaounde, Cameroon\nJan 2022 – July 2023\n\nDeployed and maintained software solutions in Windows Server and Linux environments.\nOptimized system performance, reducing operational errors by 15%.\nContributed to server configuration, updates, and technical documentation.\nCollaborated with teams to investigate issues and improve solution reliability."
-  },
-  {
-    "objectID": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#development-and-support-intern-mtn-cameroon-yaounde-cameroon",
-    "href": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#development-and-support-intern-mtn-cameroon-yaounde-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Development and Support Intern, MTN Cameroon – Yaounde, Cameroon",
-    "text": "Development and Support Intern, MTN Cameroon – Yaounde, Cameroon\nMar 2021 – June 2021\n\nSupported users with technical incidents and achieved about 95% satisfaction.\nDeveloped and maintained internal applications.\nContributed to database administration and security best practices."
-  },
-  {
-    "objectID": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#end-to-end-web-application-and-api-platform",
-    "href": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#end-to-end-web-application-and-api-platform",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "End-to-End Web Application and API Platform",
-    "text": "End-to-End Web Application and API Platform\nBuilt a client-server solution with C#/.NET, SQL, and operational documentation.\n\nImplemented REST API services and application logic in C# and .NET.\nManaged SQL queries and data operations.\nDeveloped a dynamic user interface and documented deployment and support procedures."
-  },
-  {
-    "objectID": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#infrastructure-server-and-cloud-integration",
-    "href": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#infrastructure-server-and-cloud-integration",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Infrastructure Server and Cloud Integration",
-    "text": "Infrastructure Server and Cloud Integration\nBuilt a secure virtualized infrastructure aligned with enterprise support and continuity needs.\n\nDeployed Windows Server and Linux environments in virtualization for multi-user service scenarios.\nImplemented Active Directory domains, organizational units, permissions, and group policy baselines.\nConfigured DNS and DHCP services and automated maintenance with PowerShell.\nAuthored backup and recovery runbooks and security procedures."
-  },
-  {
-    "objectID": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#personal-website-with-ci-and-cd",
-    "href": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#personal-website-with-ci-and-cd",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Personal Website with CI and CD",
-    "text": "Personal Website with CI and CD\nMaintained a public website with automated validation and deployment workflows.\n\nUsed GitHub Actions to automate checks and publishing.\nManaged content and releases with GitHub Pages, Markdown, and Quarto."
-  },
-  {
-    "objectID": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-diploma-of-college-studies-dec-in-computer-technology-rimouski-quebec",
-    "href": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-diploma-of-college-studies-dec-in-computer-technology-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Cegep de Rimouski, Diploma of College Studies (DEC) in Computer Technology – Rimouski, Quebec",
-    "text": "Cegep de Rimouski, Diploma of College Studies (DEC) in Computer Technology – Rimouski, Quebec\nAug 2023 – May 2026\n\nAdministration of Windows networks and services, including Active Directory, DNS, and DHCP.\nCybersecurity, infrastructure deployment, and technical troubleshooting practices.\nMobile development fundamentals with Flutter and Dart."
-  },
-  {
-    "objectID": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bachelor-of-computer-science-in-software-engineering-bandjoun-cameroon",
-    "href": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bachelor-of-computer-science-in-software-engineering-bandjoun-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Institut Universitaire de Technologie de Bandjoun, Bachelor of Computer Science in Software Engineering – Bandjoun, Cameroon",
-    "text": "Institut Universitaire de Technologie de Bandjoun, Bachelor of Computer Science in Software Engineering – Bandjoun, Cameroon\nNov 2020 – July 2023\n\nSoftware design, system analysis, database management, and application development fundamentals."
-  },
-  {
-    "objectID": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "href": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Google Cybersecurity Certificate – Coursera",
-    "text": "Google Cybersecurity Certificate – Coursera\n2023\nData protection, threat awareness, and risk management."
-  },
-  {
-    "objectID": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "href": "CV/RenderCV/ClearView/rendercv_output_clearview/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Ethical Hacker – Cisco",
-    "text": "Ethical Hacker – Cisco\n2024\nOffensive security techniques and defensive control practices."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "",
-    "text": "Phone: +1 581 246 5763\nEmail: brice.piaple.dada@gmail.com\nLocation: Rimouski, Quebec, Canada\nWebsite: bpiaple.github.io"
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#it-technician-ville-de-rimouski-rimouski-quebec",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#it-technician-ville-de-rimouski-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "IT Technician, Ville de Rimouski – Rimouski, Quebec",
-    "text": "IT Technician, Ville de Rimouski – Rimouski, Quebec\nMar 2026 – present\n\nAct as first point of contact for level 1 and level 2 support requests across municipal departments.\nTroubleshoot hardware, software, network, and peripheral incidents for end users in daily operations.\nConfigure and maintain desktop systems and shared technology resources.\nManage Microsoft 365 identities, user access, and permission changes aligned with policy.\nAssist with Windows Server and Active Directory administration.\nMaintain support documentation and contribute to service quality improvements."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#software-and-systems-administrator-yoco-sarl-services-yaounde-cameroon",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#software-and-systems-administrator-yoco-sarl-services-yaounde-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Software and Systems Administrator, Yoco Sarl Services – Yaounde, Cameroon",
-    "text": "Software and Systems Administrator, Yoco Sarl Services – Yaounde, Cameroon\nJan 2022 – July 2023\n\nOperated Windows and Linux server platforms and supported day-to-day infrastructure tasks.\nDeployed software solutions and managed updates.\nAutomated recurring administration tasks and operations scripts.\nApplied backup, patching, and baseline security practices."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#development-and-support-intern-mtn-cameroon-yaounde-cameroon",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#development-and-support-intern-mtn-cameroon-yaounde-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Development and Support Intern, MTN Cameroon – Yaounde, Cameroon",
-    "text": "Development and Support Intern, MTN Cameroon – Yaounde, Cameroon\nMar 2021 – June 2021\n\nProvided end-user technical support and resolved common workstation and software issues.\nAssisted with database operations and quality control tasks.\nSupported internal security and compliance procedures."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#infrastructure-server-and-cloud-integration",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#infrastructure-server-and-cloud-integration",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Infrastructure Server and Cloud Integration",
-    "text": "Infrastructure Server and Cloud Integration\nBuilt a secure virtualized infrastructure project aligned with enterprise support and continuity requirements.\n\nDeployed Windows Server and Linux environments in virtualization for multi-user service scenarios.\nImplemented Active Directory domains, organizational units, permissions, and group policy baselines.\nConfigured DNS and DHCP services and validated network service availability.\nAuthored backup and recovery runbooks and automated maintenance with PowerShell."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#end-to-end-web-application-and-api-platform",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#end-to-end-web-application-and-api-platform",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "End-to-End Web Application and API Platform",
-    "text": "End-to-End Web Application and API Platform\nDelivered an application stack with secure access, API services, and operational documentation.\n\nImplemented REST API services in C# and .NET.\nManaged SQL data operations and application troubleshooting workflows.\nDocumented deployment and support procedures."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#personal-website-with-ci-and-cd",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#personal-website-with-ci-and-cd",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Personal Website with CI and CD",
-    "text": "Personal Website with CI and CD\nMaintained a public website using automated deployment pipelines.\n\nUsed GitHub Actions to automate validation and publication workflows."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-diploma-of-college-studies-dec-in-computer-technology-rimouski-quebec",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-diploma-of-college-studies-dec-in-computer-technology-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Cegep de Rimouski, Diploma of College Studies (DEC) in Computer Technology – Rimouski, Quebec",
-    "text": "Cegep de Rimouski, Diploma of College Studies (DEC) in Computer Technology – Rimouski, Quebec\nAug 2023 – May 2026\n\nAdministration of Windows networks and services, including Active Directory, DNS, and DHCP.\nCybersecurity, infrastructure deployment, and technical troubleshooting practices."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bachelor-of-computer-science-in-software-engineering-bandjoun-cameroon",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bachelor-of-computer-science-in-software-engineering-bandjoun-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Institut Universitaire de Technologie de Bandjoun, Bachelor of Computer Science in Software Engineering – Bandjoun, Cameroon",
-    "text": "Institut Universitaire de Technologie de Bandjoun, Bachelor of Computer Science in Software Engineering – Bandjoun, Cameroon\nNov 2020 – July 2023\n\nSoftware design, system analysis, and database management fundamentals."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Google Cybersecurity Certificate – Coursera",
-    "text": "Google Cybersecurity Certificate – Coursera\n2023\nData protection, threat awareness, and risk management."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_no_cisss/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Ethical Hacker – Cisco",
-    "text": "Ethical Hacker – Cisco\n2024\nOffensive security techniques and defensive control practices."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "À Propos de Moi",
-    "section": "",
-    "text": "Brice Piaple Dada\n\n\nTechnicien en Informatique\n\n\nTechnicien informatique à la Ville de Rimouski et diplômé du DEC en Techniques de l’informatique, je combine support et administration (Windows Server, Active Directory, Microsoft 365) avec le développement logiciel (C#/.NET, API REST). Certifié en cybersécurité, je transforme chaque problème en solution documentée et fiable — en entreprise comme au quotidien.\n\n\nTélécharger mon CV (FR) Télécharger mon CV (EN)\n\n\n\n\n\n\n\n\nPièce N° 1\n\n\n\n\n\n\nExpérience Professionnelle\n\n\n\n\nMars 2026 — Présent · Rimouski\n\n\nVille de Rimouski\n\n\nTechnicien informatique\n\n\n\nSupport de premier et deuxième niveau pour les incidents liés aux postes de travail, logiciels, périphériques et réseaux.\nAdministration des identités Microsoft 365, des accès et des permissions.\nParticipation aux opérations Windows Server et Active Directory et maintenance de la documentation technique.\n\n\n\n\n\nJan. 2022 — Juil. 2023 · Yaoundé, Cameroun\n\n\nYoco Sarl Services\n\n\nDéveloppeur Logiciel\n\n\n\nDéploiement et maintenance de solutions logicielles dans des environnements Windows Server et Linux.\nRédaction de documentation technique pour assurer la pérennité et la maintenance des systèmes.\nOptimisation des performances systèmes, ayant mené à une réduction de 15 % des erreurs opérationnelles.\n\n\n\n\n\nMars 2021 — Juin 2021 · Yaoundé, Cameroun\n\n\nMTN Cameroun\n\n\nStagiaire en Développement Logiciel\n\n\n\nDéveloppement et maintenance d’applications internes et administration de bases de données.\nSupport technique aux utilisateurs avec un taux de satisfaction de 95 %.\nContribution à la mise en place de bonnes pratiques de sécurité.\n\n\n\n\n\n\n\n\n\nPièce N° 2\n\n\n\n\n\n\nÉducation\n\n\n\n\nAoût 2023 — Mai 2026 · Rimouski\n\n\nCégep de Rimouski\n\n\nTechniques de l’Informatique (DEC)\n\n\n\nCote R: 30.887\nPoints clés: Développement en C# (.NET), architecture de bases de données, méthodologies de développement et sécurité applicative.\n\n\n\n\n\nOct. 2020 — Juil. 2023 · Bandjoun, Cameroun\n\n\nInstitut Universitaire de Technologie de Bandjoun\n\n\nGénie Logiciel (Baccalauréat)\n\n\n\nMoyenne: 3.5 / 4\nPoints clés: Programme axé sur l’analyse, la conception de systèmes logiciels complexes et l’algorithmique avancée.\n\n\n\n\n\n\n\n\n\nPièce N° 3\n\n\n\n\n\n\nCompétences\n\n\nMes compétences sont démontrées par mes projets, mes expériences et mon parcours académique.\n\n\nTechniques\nDéveloppement : C# (.NET) Python / C++ HTML5 / CSS3 JavaScript SQL API REST\nSystèmes & Réseaux : Windows Server Active Directory Microsoft 365 Linux DNS / DHCP VMware\nAutomatisation & DevOps : PowerShell Bash Git GitHub Actions CI/CD Azure\n\n\nAptitudes Professionnelles\n\n\n\n\nTravail d’équipe\n\n\nCollaboration efficace et esprit d’équipe positif.\n\n\n\n\n\nAutonomie\n\n\nInitiative et capacité à travailler de manière indépendante.\n\n\n\n\n\nÉthique\n\n\nProfessionnalisme et respect des normes.\n\n\n\n\n\nAgilité\n\n\nOrientation résultats et adaptation rapide.\n\n\n\n\n\n\n\n\n\nPièce N° 4\n\n\n\n\n\n\nCertifications\n\n\n\n\n\nEthical Hacker\n\n\nCisco (2024)\nRenforcement des compétences en sécurité offensive pour mieux sécuriser le code et les applications.\n\n\n\n\n\nGoogle Cybersecurity Certificate\n\n\nCoursera (2023)\nAcquisition de compétences en protection des données et analyse des risques.\n\n\n\n\n\n\n\n\nPièce N° 5\n\n\n\n\n\n\nDistinctions\n\n\n\n\n\nBourse d’excellence\n\n\nFédération des cégeps (2023 - 2026)\nDistinction académique reçue pour la constance des résultats.\n\n\n\n\n\nDistinction au Gala de réussite\n\n\nFondation du Cégep de Rimouski (2025)\nReconnaissance pour les réalisations académiques et personnelles.\n\n\n\n\n\n\n\n\nPièce N° 6\n\n\n\n\n\n\nLangues\n\n\n\n\nFrançais\n\n\nNatif\n\n\n\n\nAnglais\n\n\nIntermédiaire"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Contactez-moi\n\n\nToute question ou collaboration bienvenue\n\n\nLe dossier se consulte, mais je réponds de vive voix, par courriel et sur les réseaux. Chaque contact est une nouvelle pièce au dossier.\n\n\nÉcrire un courriel Me joindre par téléphone\n\n\n\n\n\n\n\n\nPièce N° 1\n\n\n\n\n\n\nCoordonnées\n\n\n\n\n Courriel\n\n\nbrice.piaple.dada@gmail.com\n\n\n\n\n Téléphone\n\n\n+1 (581) 246 5763 — disponible pour discuter de vive voix.\n\n\n\n\n Localisation\n\n\nBasé à Rimouski, QC, Canada\n\n\n\n\n\n\n\n\nPièce N° 2\n\n\n\n\n\n\nRéseaux Sociaux\n\n\n\n\n\nGitHub\n\n\nDécouvrez mes projets et contributions sur GitHub.\n\nMon GitHub\n\n\n\n\n\n\n\nPièce N° 3\n\n\n\n\n\n\nPourquoi me contacter ?\n\n\n\n\n\nCollaboration\n\n\nVous avez un projet intéressant en cybersécurité ou en administration système ? Je suis toujours ouvert à de nouvelles collaborations et opportunités.\n\n\n\n\n\nEmploi\n\n\nJe suis à la recherche d’opportunités de carrière en informatique : administration de systèmes, cybersécurité, développement logiciel ou tout autre projet technologique."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "",
-    "text": "Phone: +1 581 246 5763\nEmail: brice.piaple.dada@gmail.com\nLocation: Rimouski, Quebec, Canada\nWebsite: bpiaple.github.io"
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#it-technician-ville-de-rimouski-rimouski-quebec",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#it-technician-ville-de-rimouski-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "IT Technician, Ville de Rimouski – Rimouski, Quebec",
-    "text": "IT Technician, Ville de Rimouski – Rimouski, Quebec\nMar 2026 – present\n\nServe as first point of contact for level 1 and level 2 support requests across municipal teams.\nDiagnose and resolve workstation, software, peripheral, and network connectivity issues.\nInstall and maintain desktop systems, applications, and shared devices.\nAdminister Microsoft 365 user accounts, access rights, and permissions.\nSupport Windows Server and Active Directory operations and maintain technical documentation."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#software-and-systems-administrator-yoco-sarl-services-yaounde-cameroon",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#software-and-systems-administrator-yoco-sarl-services-yaounde-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Software and Systems Administrator, Yoco Sarl Services – Yaounde, Cameroon",
-    "text": "Software and Systems Administrator, Yoco Sarl Services – Yaounde, Cameroon\nJan 2022 – July 2023\n\nAdministered Windows and Linux server environments supporting internal business operations.\nDeployed and maintained applications and supporting infrastructure.\nAutomated recurring administrative tasks and backup routines.\nProduced technical documentation for troubleshooting and handoff."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#development-and-support-intern-mtn-cameroon-yaounde-cameroon",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#development-and-support-intern-mtn-cameroon-yaounde-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Development and Support Intern, MTN Cameroon – Yaounde, Cameroon",
-    "text": "Development and Support Intern, MTN Cameroon – Yaounde, Cameroon\nMar 2021 – June 2021\n\nDelivered end-user technical support for common software and access issues.\nAssisted with database maintenance and data quality checks.\nSupported day-to-day security and compliance practices."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#infrastructure-server-and-cloud-integration",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#infrastructure-server-and-cloud-integration",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Infrastructure Server and Cloud Integration",
-    "text": "Infrastructure Server and Cloud Integration\nDesigned and documented a secure multi-user infrastructure lab aligned with enterprise support operations.\n\nConfigured Windows Server and Linux virtual machines for centralized administration scenarios.\nImplemented Active Directory structure with groups, permissions, and baseline access controls.\nAutomated maintenance and account tasks with PowerShell."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#full-stack-web-application-and-api",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#full-stack-web-application-and-api",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Full-Stack Web Application and API",
-    "text": "Full-Stack Web Application and API\nDeveloped a client-server solution with API, database, and deployment workflows.\n\nImplemented REST API services in C# and .NET.\nManaged SQL data models and queries."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-diploma-of-college-studies-dec-in-computer-technology-rimouski-quebec",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-diploma-of-college-studies-dec-in-computer-technology-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Cegep de Rimouski, Diploma of College Studies (DEC) in Computer Technology – Rimouski, Quebec",
-    "text": "Cegep de Rimouski, Diploma of College Studies (DEC) in Computer Technology – Rimouski, Quebec\nAug 2023 – May 2026\n\nNetwork and server administration, including Active Directory, DNS, and DHCP.\nCybersecurity and infrastructure deployment fundamentals."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bachelor-of-computer-science-in-software-engineering-bandjoun-cameroon",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bachelor-of-computer-science-in-software-engineering-bandjoun-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Institut Universitaire de Technologie de Bandjoun, Bachelor of Computer Science in Software Engineering – Bandjoun, Cameroon",
-    "text": "Institut Universitaire de Technologie de Bandjoun, Bachelor of Computer Science in Software Engineering – Bandjoun, Cameroon\nNov 2020 – July 2023\n\nSoftware design, information systems analysis, and database development."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Google Cybersecurity Certificate – Coursera",
-    "text": "Google Cybersecurity Certificate – Coursera\n2023\nData protection, risk analysis, and security foundations."
-  },
-  {
-    "objectID": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "href": "CV/RenderCV/BrunswickCU/rendercv_output_with_cisss/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Ethical Hacker – Cisco",
-    "text": "Ethical Hacker – Cisco\n2024\nOffensive security concepts and defensive control practices."
-  },
-  {
-    "objectID": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html",
-    "href": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "",
-    "text": "Phone: +1 581 246 5763\nEmail: brice.piaple.dada@gmail.com\nLocation: Rimouski, Quebec, Canada\nWebsite: bpiaple.github.io"
-  },
-  {
-    "objectID": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#it-technician-ville-de-rimouski-rimouski-quebec",
-    "href": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#it-technician-ville-de-rimouski-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "IT Technician, Ville de Rimouski – Rimouski, Quebec",
-    "text": "IT Technician, Ville de Rimouski – Rimouski, Quebec\nMar 2026 – present\n\nProvide level 1 and level 2 support for endpoint, software, and network-related incidents across municipal teams.\nDiagnose and resolve connectivity issues and user access problems while meeting operational service expectations.\nConfigure and maintain workstations, shared devices, and software environments.\nAdminister Microsoft 365 identities, access rights, and permission updates.\nSupport Windows Server and Active Directory operations and maintain technical documentation."
-  },
-  {
-    "objectID": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#software-developer-and-systems-administrator-yoco-sarl-services-yaounde-cameroon",
-    "href": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#software-developer-and-systems-administrator-yoco-sarl-services-yaounde-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Software Developer and Systems Administrator, Yoco Sarl Services – Yaounde, Cameroon",
-    "text": "Software Developer and Systems Administrator, Yoco Sarl Services – Yaounde, Cameroon\nJan 2022 – July 2023\n\nAdministered Windows and Linux server environments and supported day-to-day platform stability.\nDeployed and maintained internal web applications and supporting infrastructure.\nAutomated recurring operational tasks and maintenance activities.\nApplied backup, patching, and baseline security controls to improve service reliability."
-  },
-  {
-    "objectID": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#development-and-support-intern-mtn-cameroon-yaounde-cameroon",
-    "href": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#development-and-support-intern-mtn-cameroon-yaounde-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Development and Support Intern, MTN Cameroon – Yaounde, Cameroon",
-    "text": "Development and Support Intern, MTN Cameroon – Yaounde, Cameroon\nMar 2021 – June 2021\n\nDelivered technical support for users and resolved incidents with about 95% satisfaction.\nAssisted with database operations and quality checks.\nSupported implementation of internal IT security practices."
-  },
-  {
-    "objectID": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#windows-server-and-network-infrastructure-deployment",
-    "href": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#windows-server-and-network-infrastructure-deployment",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Windows Server and Network Infrastructure Deployment",
-    "text": "Windows Server and Network Infrastructure Deployment\nBuilt and documented a secure multi-user infrastructure environment aligned with enterprise operations.\n\nDeployed Windows Server services with Active Directory, DNS, and DHCP.\nConfigured groups, permissions, and baseline access controls.\nImplemented backup and restoration procedures and produced operational runbooks."
-  },
-  {
-    "objectID": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#infrastructure-and-cloud-integration-lab",
-    "href": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#infrastructure-and-cloud-integration-lab",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Infrastructure and Cloud Integration Lab",
-    "text": "Infrastructure and Cloud Integration Lab\nImplemented virtualized Windows and Linux systems with cloud integration concepts.\n\nValidated network service availability and troubleshooting procedures across virtual environments.\nAutomated administration tasks with PowerShell.\nIntegrated Azure services in a hybrid architecture learning context."
-  },
-  {
-    "objectID": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-diploma-of-college-studies-dec-in-computer-technology-rimouski-quebec",
-    "href": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-diploma-of-college-studies-dec-in-computer-technology-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Cegep de Rimouski, Diploma of College Studies (DEC) in Computer Technology – Rimouski, Quebec",
-    "text": "Cegep de Rimouski, Diploma of College Studies (DEC) in Computer Technology – Rimouski, Quebec\nAug 2023 – May 2026\n\nSystems and network administration with Windows Server, Active Directory, DNS, DHCP, and Linux.\nCybersecurity, infrastructure deployment, and troubleshooting methods.\nIntegrated technical projects in software and network administration."
-  },
-  {
-    "objectID": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bachelor-of-computer-science-in-software-engineering-bandjoun-cameroon",
-    "href": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bachelor-of-computer-science-in-software-engineering-bandjoun-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Institut Universitaire de Technologie de Bandjoun, Bachelor of Computer Science in Software Engineering – Bandjoun, Cameroon",
-    "text": "Institut Universitaire de Technologie de Bandjoun, Bachelor of Computer Science in Software Engineering – Bandjoun, Cameroon\nNov 2020 – June 2023\n\nSoftware architecture, systems analysis, and database fundamentals.\nPractical application development and algorithmic problem-solving."
-  },
-  {
-    "objectID": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "href": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Google Cybersecurity Certificate – Coursera",
-    "text": "Google Cybersecurity Certificate – Coursera\n2023\nData protection, risk analysis, and cybersecurity foundations."
-  },
-  {
-    "objectID": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "href": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Ethical Hacker – Cisco",
-    "text": "Ethical Hacker – Cisco\n2024\nOffensive security concepts and defensive control practices."
-  },
-  {
-    "objectID": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#excellence-scholarship-federation-des-cegeps",
-    "href": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#excellence-scholarship-federation-des-cegeps",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Excellence Scholarship – Federation des cegeps",
-    "text": "Excellence Scholarship – Federation des cegeps\n2023 - 2026\nAcademic distinction awarded for sustained high performance."
-  },
-  {
-    "objectID": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#gala-achievement-distinction-fondation-du-cegep-de-rimouski",
-    "href": "CV/RenderCV/Compugen/rendercv_output_compugen/Brice_Piaple_Dada_CV.html#gala-achievement-distinction-fondation-du-cegep-de-rimouski",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Gala Achievement Distinction – Fondation du Cegep de Rimouski",
-    "text": "Gala Achievement Distinction – Fondation du Cegep de Rimouski\n2025\nRecognition for outstanding academic and personal achievement."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html",
-    "href": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "",
-    "text": "Phone: +1 581 246 5763\nEmail: brice.piaple.dada@gmail.com\nLocation: Rimouski, Quebec, Canada\nWebsite: bpiaple.github.io"
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#technicien-informatique-ville-de-rimouski-rimouski-quebec",
-    "href": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#technicien-informatique-ville-de-rimouski-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Technicien informatique, Ville de Rimouski – Rimouski, Quebec",
-    "text": "Technicien informatique, Ville de Rimouski – Rimouski, Quebec\nMar 2026 – présent\n\nFournir un support de premier et deuxième niveau pour les incidents liés aux postes de travail, logiciels, périphériques et réseaux.\nConfigurer et maintenir les postes de travail, les appareils partagés et les environnements logiciels en environnement Windows.\nAdministrer les identités Microsoft 365, les accès et les changements de permissions conformément aux politiques.\nParticiper aux opérations Windows Server et Active Directory et maintenir la documentation technique.\nContribuer à l’amélioration de la qualité du service grâce à des notes de dépannage claires et un suivi des processus."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#développeur-logiciel-et-administrateur-système-yoco-sarl-services-yaoundé-cameroun",
-    "href": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#développeur-logiciel-et-administrateur-système-yoco-sarl-services-yaoundé-cameroun",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Développeur logiciel et administrateur système, Yoco Sarl Services – Yaoundé, Cameroun",
-    "text": "Développeur logiciel et administrateur système, Yoco Sarl Services – Yaoundé, Cameroun\nJan 2022 – Juil 2023\n\nDéployer et maintenir des solutions logicielles dans des environnements Windows Server et Linux.\nOptimiser les performances des systèmes, réduisant les erreurs opérationnelles de 15 %.\nAutomatiser les tâches administratives récurrentes et les routines de sauvegarde.\nRédiger la documentation technique pour le dépannage et le transfert de connaissances."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#stagiaire-en-développement-et-support-mtn-cameroun-yaoundé-cameroun",
-    "href": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#stagiaire-en-développement-et-support-mtn-cameroun-yaoundé-cameroun",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Stagiaire en développement et support, MTN Cameroun – Yaoundé, Cameroun",
-    "text": "Stagiaire en développement et support, MTN Cameroun – Yaoundé, Cameroun\nMar 2021 – Juin 2021\n\nDévelopper et maintenir des applications internes et contribuer à l’administration de bases de données.\nAssurer le support technique aux utilisateurs finaux avec un taux de satisfaction d’environ 95 %.\nSoutenir l’application des bonnes pratiques de sécurité et des procédures internes."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#application-web-full-stack-et-api-rest",
-    "href": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#application-web-full-stack-et-api-rest",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Application Web Full Stack et API REST",
-    "text": "Application Web Full Stack et API REST\nSolution client-serveur complète avec C#/.NET, SQL et documentation opérationnelle.\n\nImplémenter des services API REST et la logique applicative en C# et .NET.\nGérer les requêtes SQL et les opérations de données.\nDévelopper une interface utilisateur dynamique et documenter les procédures de déploiement et de support."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#infrastructure-serveur-et-intégration-cloud",
-    "href": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#infrastructure-serveur-et-intégration-cloud",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Infrastructure serveur et intégration cloud",
-    "text": "Infrastructure serveur et intégration cloud\nConception et documentation d’une infrastructure multi-utilisateurs sécurisée répondant aux besoins d’entreprise.\n\nDéployer des environnements Windows Server et Linux en virtualisation pour des scénarios de services multi-utilisateurs.\nImplémenter des domaines Active Directory, groupes, permissions et contrôles d’accès de base.\nConfigurer les services DNS et DHCP et automatiser la maintenance avec PowerShell.\nRédiger des procédures de sauvegarde, de reprise et de sécurité."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#site-web-personnel-avec-cicd",
-    "href": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#site-web-personnel-avec-cicd",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Site Web personnel avec CI/CD",
-    "text": "Site Web personnel avec CI/CD\nSite public avec workflows automatisés de validation et de déploiement.\n\nUtiliser GitHub Actions pour automatiser les vérifications et la publication.\nGérer le contenu et les versions avec GitHub Pages, Markdown et Quarto."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#cégep-de-rimouski-diplôme-détudes-collégiales-dec-en-techniques-de-linformatique-rimouski-quebec",
-    "href": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#cégep-de-rimouski-diplôme-détudes-collégiales-dec-en-techniques-de-linformatique-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Cégep de Rimouski, Diplôme d’études collégiales (DEC) en Techniques de l’informatique – Rimouski, Quebec",
-    "text": "Cégep de Rimouski, Diplôme d’études collégiales (DEC) en Techniques de l’informatique – Rimouski, Quebec\nAoû 2023 – Mai 2026\n\nAdministration de réseaux et de serveurs Windows, notamment Active Directory, DNS et DHCP.\nDéveloppement d’applications et de services Web avec C#, .NET, HTML, CSS, JavaScript et SQL.\nCybersécurité, déploiement d’infrastructures et pratiques de dépannage.\nNotions de développement mobile avec Flutter et Dart."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-baccalauréat-en-informatique-en-génie-logiciel-bandjoun-cameroun",
-    "href": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-baccalauréat-en-informatique-en-génie-logiciel-bandjoun-cameroun",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Institut Universitaire de Technologie de Bandjoun, Baccalauréat en informatique en Génie logiciel – Bandjoun, Cameroun",
-    "text": "Institut Universitaire de Technologie de Bandjoun, Baccalauréat en informatique en Génie logiciel – Bandjoun, Cameroun\nNov 2020 – Juin 2023\n\nConception de logiciels, analyse de systèmes d’information et fondements des bases de données.\nConception d’algorithmes, structures de données et développement d’applications."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "href": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Google Cybersecurity Certificate – Coursera",
-    "text": "Google Cybersecurity Certificate – Coursera\n2023\nProtection des données, analyse des risques et fondements de la sécurité."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "href": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Ethical Hacker – Cisco",
-    "text": "Ethical Hacker – Cisco\n2024\nTechniques de sécurité offensive et pratiques de contrôle défensif."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#bourse-dexcellence-fédération-des-cégeps",
-    "href": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#bourse-dexcellence-fédération-des-cégeps",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Bourse d’excellence – Fédération des cégeps",
-    "text": "Bourse d’excellence – Fédération des cégeps\n2023 - 2026\nDistinction académique reçue pour la constance des résultats."
-  },
-  {
-    "objectID": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#distinction-au-gala-de-réussite-fondation-du-cégep-de-rimouski",
-    "href": "CV/RenderCV/General/rendercv_output_general_fr/Brice_Piaple_Dada_CV.html#distinction-au-gala-de-réussite-fondation-du-cégep-de-rimouski",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Distinction au Gala de réussite – Fondation du Cégep de Rimouski",
-    "text": "Distinction au Gala de réussite – Fondation du Cégep de Rimouski\n2025\nReconnaissance pour les réalisations académiques et personnelles."
-  },
-  {
-    "objectID": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html",
-    "href": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "",
-    "text": "Phone: +1 581 246 5763\nEmail: brice.piaple.dada@gmail.com\nLocation: Rimouski, Quebec, Canada\nWebsite: bpiaple.github.io"
-  },
-  {
-    "objectID": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#it-technician-ville-de-rimouski-rimouski-quebec",
-    "href": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#it-technician-ville-de-rimouski-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "IT Technician, Ville de Rimouski – Rimouski, Quebec",
-    "text": "IT Technician, Ville de Rimouski – Rimouski, Quebec\nMar 2026 – present\n\nProvide level 1 and level 2 operational support for desktop, software, network, and peripheral incidents.\nDiagnose and resolve connectivity and endpoint issues while maintaining service quality and response standards.\nConfigure and maintain workstations, software images, and shared technology resources.\nAdminister Microsoft 365 user accounts, permissions, and access requests.\nParticipate in Windows Server and Active Directory operations and maintain technical procedures."
-  },
-  {
-    "objectID": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#software-developer-and-systems-administrator-yoco-sarl-services-yaounde-cameroon",
-    "href": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#software-developer-and-systems-administrator-yoco-sarl-services-yaounde-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Software Developer and Systems Administrator, Yoco Sarl Services – Yaounde, Cameroon",
-    "text": "Software Developer and Systems Administrator, Yoco Sarl Services – Yaounde, Cameroon\nJan 2022 – July 2023\n\nAdministered Windows and Linux server environments supporting business services.\nDeployed web applications and maintained service availability.\nAutomated recurring operational tasks and routine maintenance activities.\nApplied backup and baseline security controls across systems."
-  },
-  {
-    "objectID": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#development-and-support-intern-mtn-cameroon-yaounde-cameroon",
-    "href": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#development-and-support-intern-mtn-cameroon-yaounde-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Development and Support Intern, MTN Cameroon – Yaounde, Cameroon",
-    "text": "Development and Support Intern, MTN Cameroon – Yaounde, Cameroon\nMar 2021 – June 2021\n\nDelivered end-user support and incident resolution with about 95% user satisfaction.\nAssisted with database operations and data quality checks.\nSupported day-to-day application of internal security procedures."
-  },
-  {
-    "objectID": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#windows-server-infrastructure-deployment",
-    "href": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#windows-server-infrastructure-deployment",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Windows Server Infrastructure Deployment",
-    "text": "Windows Server Infrastructure Deployment\nBuilt and documented a secure multi-user infrastructure environment for enterprise-style operations.\n\nDeployed and configured Windows Server services, including Active Directory, DNS, and DHCP.\nImplemented user groups, permissions, and baseline security controls.\nIntegrated Azure services in a hybrid architecture context.\nAuthored operating procedures for backup, restoration, and continuity."
-  },
-  {
-    "objectID": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#infrastructure-server-and-cloud-integration",
-    "href": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#infrastructure-server-and-cloud-integration",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Infrastructure Server and Cloud Integration",
-    "text": "Infrastructure Server and Cloud Integration\nImplemented virtualized Windows and Linux environments for networked service scenarios.\n\nConfigured network services and validated service availability across virtual machines.\nAutomated administration and maintenance tasks with PowerShell.\nProduced technical documentation and troubleshooting guides."
-  },
-  {
-    "objectID": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-diploma-of-college-studies-dec-in-computer-technology-rimouski-quebec",
-    "href": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-diploma-of-college-studies-dec-in-computer-technology-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Cegep de Rimouski, Diploma of College Studies (DEC) in Computer Technology – Rimouski, Quebec",
-    "text": "Cegep de Rimouski, Diploma of College Studies (DEC) in Computer Technology – Rimouski, Quebec\nAug 2023 – May 2026\n\nSystems and network administration with Windows Server, Active Directory, DNS, DHCP, and Linux.\nCybersecurity, server deployment, and troubleshooting practices.\nIntegrated projects in software development and network administration."
-  },
-  {
-    "objectID": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bachelor-of-computer-science-in-software-engineering-bandjoun-cameroon",
-    "href": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bachelor-of-computer-science-in-software-engineering-bandjoun-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Institut Universitaire de Technologie de Bandjoun, Bachelor of Computer Science in Software Engineering – Bandjoun, Cameroon",
-    "text": "Institut Universitaire de Technologie de Bandjoun, Bachelor of Computer Science in Software Engineering – Bandjoun, Cameroon\nNov 2020 – June 2023\n\nInformation systems analysis and software architecture foundations.\nAlgorithm design, database principles, and application development."
-  },
-  {
-    "objectID": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "href": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Google Cybersecurity Certificate – Coursera",
-    "text": "Google Cybersecurity Certificate – Coursera\n2023\nData protection and risk analysis."
-  },
-  {
-    "objectID": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "href": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Ethical Hacker – Cisco",
-    "text": "Ethical Hacker – Cisco\n2024\nOffensive security concepts and practical defensive controls."
-  },
-  {
-    "objectID": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#excellence-scholarship-federation-des-cegeps",
-    "href": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#excellence-scholarship-federation-des-cegeps",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Excellence Scholarship – Federation des cegeps",
-    "text": "Excellence Scholarship – Federation des cegeps\n2023 - 2026\nAcademic distinction awarded for sustained high performance."
-  },
-  {
-    "objectID": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#gala-achievement-distinction-fondation-du-cegep-de-rimouski",
-    "href": "CV/RenderCV/McCain/rendercv_output_mccain/Brice_Piaple_Dada_CV.html#gala-achievement-distinction-fondation-du-cegep-de-rimouski",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Gala Achievement Distinction – Fondation du Cegep de Rimouski",
-    "text": "Gala Achievement Distinction – Fondation du Cegep de Rimouski\n2025\nRecognition for outstanding academic and personal achievement."
-  },
-  {
-    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html",
-    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "",
-    "text": "Phone: +1 581 246 5763\nEmail: brice.piaple.dada@gmail.com\nLocation: Rimouski, Quebec, Canada\nWebsite: bpiaple.github.io"
-  },
-  {
-    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#ville-de-rimouski-rimouski-quebec",
-    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#ville-de-rimouski-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Ville de Rimouski – Rimouski, Quebec",
-    "text": "Ville de Rimouski – Rimouski, Quebec\nMar 2026 – present\nIT Technician\n\nProvide level 1 and level 2 support for desktop, software, network, and peripheral incidents across municipal teams.\nConfigure and maintain workstations, shared devices, and software environments in a Windows-based environment.\nAdminister Microsoft 365 identities, access rights, and permission changes aligned with policy.\nSupport Windows Server and Active Directory operations and maintain technical documentation.\nContribute to service quality improvements through clear troubleshooting notes and process follow-up."
-  },
-  {
-    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#yoco-sarl-services-yaounde-cameroon",
-    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#yoco-sarl-services-yaounde-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Yoco Sarl Services – Yaounde, Cameroon",
-    "text": "Yoco Sarl Services – Yaounde, Cameroon\nJan 2022 – July 2023\nSoftware Developer and Systems Administrator\n\nDeployed and maintained software solutions in Windows Server and Linux environments.\nOptimized system performance, reducing operational errors by 15%.\nAutomated recurring administrative tasks and backup routines.\nProduced technical documentation for troubleshooting and handoff."
-  },
-  {
-    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#mtn-cameroon-yaounde-cameroon",
-    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#mtn-cameroon-yaounde-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "MTN Cameroon – Yaounde, Cameroon",
-    "text": "MTN Cameroon – Yaounde, Cameroon\nMar 2021 – June 2021\nDevelopment and Support Intern\n\nDeveloped and maintained internal applications and supported database administration.\nDelivered end-user technical support with about 95% satisfaction.\nSupported the application of security best practices and internal procedures."
-  },
-  {
-    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#full-stack-web-application-and-api",
-    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#full-stack-web-application-and-api",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Full-Stack Web Application and API",
-    "text": "Full-Stack Web Application and API\nBuilt a client-server solution with C#/.NET, SQL, and operational documentation.\n\nImplemented REST API services and application logic in C# and .NET.\nManaged SQL queries and data operations.\nDeveloped a dynamic user interface and documented deployment and support procedures."
-  },
-  {
-    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#infrastructure-server-and-cloud-integration",
-    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#infrastructure-server-and-cloud-integration",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Infrastructure Server and Cloud Integration",
-    "text": "Infrastructure Server and Cloud Integration\nDesigned and documented a secure multi-user infrastructure aligned with enterprise support needs.\n\nDeployed Windows Server and Linux environments in virtualization for multi-user service scenarios.\nImplemented Active Directory domains, groups, permissions, and baseline access controls.\nConfigured DNS and DHCP services and automated maintenance with PowerShell.\nAuthored backup and recovery runbooks and security procedures."
-  },
-  {
-    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#personal-website-with-cicd",
-    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#personal-website-with-cicd",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Personal Website with CI/CD",
-    "text": "Personal Website with CI/CD\nMaintained a public website with automated validation and deployment workflows.\n\nUsed GitHub Actions to automate checks and publishing.\nManaged content and releases with GitHub Pages, Markdown, and Quarto."
-  },
-  {
-    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-rimouski-quebec",
-    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#cegep-de-rimouski-rimouski-quebec",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Cegep de Rimouski – Rimouski, Quebec",
-    "text": "Cegep de Rimouski – Rimouski, Quebec\nAug 2023 – May 2026\nDiploma of College Studies (DEC) in Computer Technology\n\nSystems and network administration with Windows Server, Active Directory, DNS, and DHCP.\nSoftware and web development with C#, .NET, HTML, CSS, JavaScript, and SQL.\nCybersecurity, infrastructure deployment, and troubleshooting practices.\nMobile development fundamentals with Flutter and Dart."
-  },
-  {
-    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bandjoun-cameroon",
-    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#institut-universitaire-de-technologie-de-bandjoun-bandjoun-cameroon",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Institut Universitaire de Technologie de Bandjoun – Bandjoun, Cameroon",
-    "text": "Institut Universitaire de Technologie de Bandjoun – Bandjoun, Cameroon\nNov 2020 – June 2023\nBachelor of Computer Science in Software Engineering\n\nSoftware design, information systems analysis, and database fundamentals.\nAlgorithm design, data structures, and application development."
-  },
-  {
-    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#google-cybersecurity-certificate-coursera",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Google Cybersecurity Certificate – Coursera",
-    "text": "Google Cybersecurity Certificate – Coursera\n2023\nData protection, risk analysis, and security foundations."
-  },
-  {
-    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#ethical-hacker-cisco",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Ethical Hacker – Cisco",
-    "text": "Ethical Hacker – Cisco\n2024\nOffensive security techniques and defensive control practices."
-  },
-  {
-    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#excellence-scholarship-federation-des-cegeps",
-    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#excellence-scholarship-federation-des-cegeps",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Excellence Scholarship – Federation des cegeps",
-    "text": "Excellence Scholarship – Federation des cegeps\n2023 - 2026\nAcademic distinction awarded for sustained high performance."
-  },
-  {
-    "objectID": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#gala-achievement-distinction-fondation-du-cegep-de-rimouski",
-    "href": "CV/rendercv_output_en/Brice_Piaple_Dada_CV.html#gala-achievement-distinction-fondation-du-cegep-de-rimouski",
-    "title": "Brice Piaple Dada’s CV",
-    "section": "Gala Achievement Distinction – Fondation du Cegep de Rimouski",
-    "text": "Gala Achievement Distinction – Fondation du Cegep de Rimouski\n2025\nRecognition for outstanding academic and personal achievement."
-  },
-  {
     "objectID": "DESIGN.html",
     "href": "DESIGN.html",
     "title": "Design System: Dossier de Qualifications",
@@ -1076,12 +348,5 @@
     "title": "Design System: Dossier de Qualifications",
     "section": "",
     "text": "Do utiliser le sceau pour toute action primaire et toute date/référence — c’est la voix de l’acte.\nDo écrire toute mention administrative (pièces, dates, champs, stats) en IBM Plex Mono MAJUSCULES espacé.\nDo garder les angles francs : le papier ne s’arrondit pas (rayon max 2px).\nDo vérifier le contraste en mode sombre : le sceau y est #d97a7a, jamais #8a1c1c.\nDo utiliser le mono avec retenue : dates, références, mesures, tampons — pas de costumes « tech » gratuits.\n\n\n\n\n\nDon’t utiliser d’emojis comme icônes — le système est bootstrap-icons, dans des cadres 44px.\nDon’t utiliser de dégradés de texte ou de fond — l’encre est pleine.\nDon’t mettre d’eyebrow/kicker au-dessus des titres — le titre porte seul, les Pièce N° portent la métaphore du dossier.\nDon’t arrondir, illuminer au néon ou ajouter du verre : le monde est parchemin, encre et sceau.\nDon’t fabriquer du contenu : chaque chiffre, attestation et date est une vérité vérifiable du dossier."
-  },
-  {
-    "objectID": "portfolio/index.html",
-    "href": "portfolio/index.html",
-    "title": "Portfolio",
-    "section": "",
-    "text": "Mes Projets\n\n\nRéalisations techniques & projets académiques\n\n\nLe catalogue des pièces livrées : applications web, infrastructures et automatisations — avec les technologies attestées pour chacune.\n\n\nVoir mon GitHub Me contacter\n\n\n\n\n\n\n\n\nPièce N° 1\n\n\n\n\n\n\nCatalogue des Réalisations\n\n\n\n\nApplication Web Full-Stack (.NET & Razor)\n\n\nDéveloppement d’une solution web complète avec architecture client-serveur. Conception et développement d’une API RESTful performante en C# (.NET) et intégration d’une interface utilisateur dynamique utilisant le moteur de vues Razor.\n\n\nPoints clés\n\n\nArchitecture client-serveur\nAPI RESTful en C#\nGestion des appels API et structuration des données SQL\n\n\nTechnologies\n\n\nC# ASP.NET Core Razor Pages API REST SQL\n\n\n\n\n\nInfrastructure Serveur & Intégration Cloud\n\n\nMise en place d’environnements virtualisés sécurisés pour supporter des services multi-utilisateurs. Déploiement et configuration d’environnements Windows Server et automatisation via PowerShell. Intégration de services Azure pour la haute disponibilité.\n\n\nPoints clés\n\n\nEnvironnements virtualisés sécurisés\nAutomatisation PowerShell\nDocumentation technique (plans de reprise, sécurité)\n\n\nTechnologies\n\n\nAzure Windows Server Active Directory PowerShell VMware\n\n\n\n\n\nSite Web personnel avec CI/CD\n\n\nConception et déploiement de ce site web personnel avec un pipeline automatisé d’intégration et de déploiement continu (CI/CD).\n\n\nPoints clés\n\n\nPipeline de déploiement continu\nSite statique performant\nGestion de version avec Git\n\n\nTechnologies\n\n\nGitHub Pages GitHub Actions Quarto Markdown\n\n\n\n\n\n\n\nVous souhaitez en voir plus ?\n\n\nJe suis toujours en train de travailler sur de nouveaux projets. Consultez mon GitHub pour voir mes contributions récentes.\n\nVoir mon GitHub Me contacter"
   }
 ]

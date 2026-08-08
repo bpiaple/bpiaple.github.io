@@ -1,0 +1,20 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var links = document.querySelectorAll(".navbar-nav .nav-link");
+  var target = null;
+  links.forEach(function (a) {
+    var t = (a.textContent || "").trim();
+    if (t === "EN" || t === "FR") target = a;
+  });
+  if (!target) return;
+  var goEn = target.textContent.trim() === "EN";
+  var path = window.location.pathname.replace(/\/$/, "");
+  var enIdx = path.lastIndexOf("/en");
+  var inEn = enIdx >= 0 && path.length === enIdx + 3;
+  var stem = inEn ? path.slice(0, enIdx) + path.slice(enIdx + 3) : path;
+  stem = stem === "" ? "/" : stem;
+  target.href = goEn
+    ? (inEn ? stem : (stem === "/" ? "/en/" : "/en" + stem))
+    : (inEn ? stem : stem);
+});
+</script>

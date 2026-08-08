@@ -1,0 +1,153 @@
+---
+title: "Contact"
+page-layout: full
+toc: false
+---
+
+::: {.certificate}
+::: {.cert-grid}
+::: {.cert-text}
+::: {.cert-name style="font-size: clamp(2.2rem, 4.5vw, 3.4rem);"}
+Get in Touch
+:::
+
+::: {.cert-role}
+Questions and collaborations welcome
+:::
+
+::: {.cert-desc}
+The file can be read, but I answer in person, by email and on social media. Every contact is a new document in the file.
+:::
+
+::: {.cert-actions}
+[Send an email](mailto:brice.piaple.dada@gmail.com){.btn-seal}
+[Call me](tel:+15812465763){.btn-ink}
+:::
+:::
+:::
+:::
+
+---
+
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Exhibit N° 1
+:::
+::: {.piece-rule}
+:::
+:::
+
+::: {.piece-title}
+Contact Details
+:::
+
+::: {.contact-sheet}
+
+::: {.contact-row}
+::: {.field-label}
+<i class="bi bi-envelope" aria-hidden="true"></i> Email
+:::
+::: {.field-value}
+[brice.piaple.dada@gmail.com](mailto:brice.piaple.dada@gmail.com)
+:::
+:::
+
+::: {.contact-row}
+::: {.field-label}
+<i class="bi bi-telephone" aria-hidden="true"></i> Phone
+:::
+::: {.field-value}
+**+1 (581) 246 5763** — available for a call.
+:::
+:::
+
+::: {.contact-row}
+::: {.field-label}
+<i class="bi bi-geo-alt" aria-hidden="true"></i> Location
+:::
+::: {.field-value}
+Based in **Rimouski, QC, Canada**
+:::
+:::
+
+:::
+:::
+
+---
+
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Exhibit N° 2
+:::
+::: {.piece-rule}
+:::
+:::
+
+::: {.piece-title}
+Social Networks
+:::
+
+::: {.skill-grid}
+
+::: {.doc-card}
+<i class="bi bi-github" aria-hidden="true"></i>
+
+::: {.doc-title}
+GitHub
+:::
+
+::: {.doc-body}
+Discover my projects and contributions on GitHub.
+:::
+
+[My GitHub](https://github.com/bpiaple){.doc-link}
+:::
+
+:::
+:::
+
+---
+
+::: {.piece}
+::: {.piece-head}
+::: {.piece-ref}
+Exhibit N° 3
+:::
+::: {.piece-rule}
+:::
+:::
+
+::: {.piece-title}
+Why Contact Me?
+:::
+
+::: {.explore-grid}
+
+::: {.doc-card}
+<i class="bi bi-people" aria-hidden="true"></i>
+
+::: {.doc-title}
+Collaboration
+:::
+
+::: {.doc-body}
+Do you have an interesting project in cybersecurity or systems administration? I am always open to new collaborations and opportunities.
+:::
+:::
+
+::: {.doc-card}
+<i class="bi bi-briefcase" aria-hidden="true"></i>
+
+::: {.doc-title}
+Employment
+:::
+
+::: {.doc-body}
+I am looking for career opportunities in IT: systems administration, cybersecurity, software development or any other technology project.
+:::
+:::
+
+:::
+:::
